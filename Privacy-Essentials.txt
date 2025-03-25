@@ -1,0 +1,5568 @@
+[Adblock Plus 2.0]
+! Title: RiMoN's PEnhanced
+!
+||0000000000000000000000.com^
+||0rg.us^
+||0x.no^
+||100mountain.com^
+||10dv.com^
+||120v.ac^
+||1337.cx^
+||16-b.it^
+||1cooldns.com^
+||1dumb.com^
+||24-7.ro^
+||25u.com^
+||2fine.de^
+||2mydns.net^
+||2waky.com^
+||3-a.net^
+||32-b.it^
+||3322.net^
+||360digit.com^
+||3d-game.com^
+||3dxtras.com^
+||3n.cc^
+||3trust.com^
+||3utilities.com^
+||404.mn^
+||4cloud.click^
+||4dq.com^
+||4irc.com^
+||4khdcamera.com^
+||4mydomain.com^
+||4nmn.com^
+||4pu.com^
+||4twenty.us^
+||64-b.it^
+||688.org^
+||69.mu^
+||77qac.com^
+||77uam.com^
+||77ynd.com^
+||79ama.com^
+||88uan.com^
+||88zkt.com^
+||99tac.com^
+||abatek.com^
+||abmetalmecanica.com^
+||access.ly^
+||accesscam.org^
+||acmetoy.com^
+||adagio.tw^
+||dyn.addr.tools^
+||afraid.org^
+||aintno.info^
+||airlinemeals.net^
+||albertn.ru^
+||allez.la^
+||allisons.org^
+||almostmy.com^
+||americanunfinished.com^
+||amsprich.com^
+||anal-slavery.com^
+||anastasion.com^
+||aneisa.com^
+||angelcamddns.com^
+||annaffiare.org^
+||anondns.net^
+||antongorbunov.com^
+||any64.de^
+||anyitsolution.com^
+||api64.de^
+||apptechservices.com^
+||arenaceballos.com^
+||arquivirtual.com^
+||as29997.net^
+||asenov.ru^
+||asiamariage.com^
+||asianfreshproduce.com^
+||astrabus.ru^
+||at-band-camp.net^
+||ath.cx^
+||atlantatruckdrivingschool.us^
+||auraria.org^
+||authorizeddns.net^
+||authorizeddns.org^
+||autoipset.com^
+||avandns.com^
+||awiki.org^
+||ax.lt^
+||b0ne.com^
+||b0tnet.com^
+||b33r.us^
+||bad.mn^
+||baden.ru^
+||bagus.org^
+||baikabibai.com^
+||bakli.ru^
+||barbaforte.org^
+||barrel-of-knowledge.info^
+||barrell-of-knowledge.info^
+||baselinux.net^
+||bayipazar.com^
+||bbsindex.com^
+||beerprojects.com^
+||better-than.tv^
+||bgdsupport.com^
+||bhms.com^
+||bigbluezoo.com^
+||bigmoney.biz^
+||bine.me^
+||birdriver.org^
+||biz.st^
+||biz.tm^
+||blacknapkins.org^
+||blinklab.com^
+||blizzie.net^
+||blogdns.com^
+||blogdns.net^
+||blogdns.org^
+||blogsite.org^
+||blogsyte.com^
+||bloodforthebloodgod.com^
+||bmvl.ru^
+||boblove.org^
+||boldlygoingnowhere.org^
+||bot.nu^
+||bounceme.net^
+||bouncers4rent.com^
+||boxathome.net^
+||brajkovic.com^
+||brasilia.me^
+||brawlcustommusic.com^
+||briansagar.com^
+||broke-it.net^
+||brweb.org^
+||bsn2bsn.com^
+||bumbleshrimp.com^
+||burlingtondrywall.com^
+||buys.ru^
+||buyshouses.net^
+||byte4byte.com^
+||cable-modem.org^
+||camdvr.org^
+||canadascastillo.com^
+||casacam.net^
+||cashit.info^
+||cbopelousas.com^
+||cbu.net^
+||ccmissoula.com^
+||cechire.com^
+||celebsplay.com^
+||celltrak.mobi^
+||centserver.com^
+||cf.gs^
+||changeip.biz^
+||changeip.co^
+||changeip.com^
+||changeip.name^
+||changeip.net^
+||changeip.org^
+||changeip.us^
+||charihoproducts.com^
+||charter.com^
+||chatnook.com^
+||chavo.biz^
+||chebicon.ru^
+||checkor.com^
+||chickenkiller.com^
+||chrismac.org^
+||ciscofreak.com^
+||cjtooling.com^
+||clawmap.com^
+||cleansite.biz^
+||cleansite.info^
+||cleansite.us^
+||clienturl.net^
+||cloudns.asia^
+||cloudns.be^
+||cloudns.biz^
+||cloudns.cc^
+||cloudns.ch^
+||cloudns.cl^
+||cloudns.cx^
+||cloudns.in^
+||cloudns.org^
+||cloudns.pro^
+||cloudxns.net^
+||cmirg.com^
+||cnstefancelmare.ro^
+||changeip.co.uk^
+||dynamicdns.co.uk^
+||nav.co.id^
+||no-ip.co.uk^
+||coalnet.ru^
+||codns.com^
+||colegiotorrevilano.es^
+||collegefan.org^
+||dyn.columbia.edu^
+||ddns.com.co^
+||dynamicdns.com.co^
+||fedea.com.ar^
+||img.com.ar^
+||kalbas.com.vn^
+||winco.com.br^
+||compuinter.com^
+||computersforpeace.net^
+||compy.ca^
+||con-ip.com^
+||conditsis.com^
+||contepsa.com^
+||coplien.org^
+||corbina.ru^
+||coreytech.com^
+||couchpotatofries.org^
+||counterlight.com^
+||cpsnet.cz^
+||crabdance.com^
+||crackedsidewalks.com^
+||crafting.xyz^
+||csproject.org^
+||cuesinc.com^
+||cupddns.net^
+||custom-gaming.net^
+||cw03.ru^
+||cybertv.tv^
+||d-n-s.name^
+||d2g.biz^
+||dagz.ru^
+||damnserver.com^
+||dark-byte.net^
+||darksair.org^
+||darktech.org^
+||davidsagar.com^
+||dd-dns.de^
+||ddns.cam^
+||ddns.info^
+||ddns.me^
+||ddns.mobi^
+||ddns.ms^
+||ddns.name^
+||ddns.net^
+||ddns.us^
+||ddns5.com^
+||ddnsapp.com^
+||ddnsfree.com^
+||ddnsgeek.com^
+||ddnsguru.com^
+||ddnsking.com^
+||ddnslive.com^
+||ddnss.ch^
+||ddnss.de^
+||ddnss.org^
+||ddnssec.de^
+||de-a.org^
+||deaftone.com^
+||dearabba.org^
+||death-by-monkeys.com^
+||dedyn.io^
+||demosoftonline.com^
+||demoteam.ch^
+||dh3.com^
+||dhis.org^
+||didns.ru^
+||digikabel.hu^
+||digitalgroupe.com^
+||dip.jp^
+||ditchyourip.com^
+||divx.se^
+||diyplans.org^
+||dlinkddns.com^
+||dnmcoffman.com^
+||dns-auth.com^
+||dns-auth.net^
+||dns-cloud.net^
+||dns-dns.com^
+||dns-dynamic.net^
+||dns-report.com^
+||dns-stuff.com^
+||dns04.com^
+||dns05.com^
+||dns1.us^
+||dns2.us^
+||dns2go.com^
+||dns64.de^
+||dnsabr.com^
+||dnsalias.com^
+||dnsalias.net^
+||dnsalias.org^
+||dnsdojo.com^
+||dnsdojo.net^
+||dnsdojo.org^
+||dnsdyn.net^
+||dnsdynamic.org^
+||dnset.com^
+||dnsexit.com^
+||dnsfailover.net^
+||dnsfor.me^
+||dnsget.org^
+||dnshome.de^
+||dnshome.icu^
+||dnsiskinky.com^
+||dnslive.net^
+||dnsmax.com^
+||dnsname.org^
+||dnsnew.org^
+||dnsomatic.com^
+||dnspod.cn^
+||dnsrd.com^
+||dnsup.net^
+||dnyp.com^
+||dob.jp^
+||does-it.net^
+||doesntexist.com^
+||doesntexist.org^
+||donhoo.com^
+||dontexist.com^
+||dontexist.net^
+||dontexist.org^
+||doomdns.com^
+||doomdns.org^
+||dougtreadwell.com^
+||doyleandprendergast.com^
+||dp76.com^
+||dray-dns.de^
+||drayddns.com^
+||dropfiles.net^
+||drunkensailor.org^
+||dsmtp.com^
+||dtdns.com^
+||dtdns.net^
+||dtdns.org^
+||dubya.info^
+||dubya.net^
+||duckdns.org^
+||duia.eu^
+||duia.ro^
+||duia.us^
+||duiadns.net^
+||dumb1.com^
+||dvr-ddns.com^
+||dvrcam.info^
+||dvrdns.org^
+||dvrlists.com^
+||dyn.ch^
+||dyn.com^
+||dyn-access.biz^
+||dyn-access.com^
+||dyn-access.de^
+||dyn-access.info^
+||dyn-access.net^
+||dyn-access.org^
+||dyn-ip24.de^
+||dyn-o-saur.com^
+||dynalias.com^
+||dynalias.net^
+||dynalias.org^
+||dynamai.com^
+||dynamic.domains^
+||dynamic-dns.net^
+||dynamic-dns.us^
+||dynamicdns.biz^
+||dynamicdns.co^
+||dynamisches-dns.de^
+||dynathome.net^
+||dyndns.berlin^
+||dyndns.biz^
+||dyndns.com^
+||dyndns.dk^
+||dyndns.icu^
+||dyndns.info^
+||dyndns.it^
+||dyndns.org^
+||dyndns.pro^
+||dyndns.tv^
+||dyndns.ws^
+||dyndns-at-home.com^
+||dyndns-at-work.com^
+||dyndns-blog.com^
+||dyndns-free.com^
+||dyndns-home.com^
+||dyndns-ip.com^
+||dyndns-mail.com^
+||dyndns-office.com^
+||dyndns-pics.com^
+||dyndns-remote.com^
+||dyndns-server.com^
+||dyndns-web.com^
+||dyndns-wiki.com^
+||dyndns-work.com^
+||dyndns64.de^
+||dyndnss.net^
+||dyndnssec.de^
+||dyndnsservices.com^
+||dynect.net^
+||dynet.com^
+||dynip.com^
+||dynip.org^
+||dynipv6.de^
+||dynme.ovh^
+||dynnamn.ru^
+||dynns.com^
+||dyns.be^
+||dyns.cx^
+||dyns.net^
+||dynserv.org^
+||dynssl.com^
+||dynu.com^
+||dynu.net^
+||dynu.systems^
+||dynuddns.com^
+||dynuddns.net^
+||dynup.net^
+||dynv4.net^
+||dynv6.com^
+||dyyndns.net^
+||e-m-a-i-l.org^
+||e-romagnoli.com^
+||easydns.com^
+||easydns.info^
+||easydns.net^
+||easydns.org^
+||eating-organic.net^
+||eatuo.com^
+||echoparklake.com^
+||effers.com^
+||eiresol.com^
+||elchemi.com^
+||elitter.net^
+||embeddedonline.org^
+||empresastaylor.com^
+||endlessmovie.com^
+||endofinternet.net^
+||endofinternet.org^
+||endoftheinternet.org^
+||enemykitchen.org^
+||enemyterritory.org^
+||enterprisemx.com^
+||entrydns.net^
+||entrydns.org^
+||eolicatalinay.cl^
+||epac.to^
+||epicmilk.com^
+||eptechguys.com^
+||esmtp.biz^
+||essentialventure.com^
+||essexregional.org^
+||est-a-la-maison.com^
+||est-a-la-masion.com^
+||est-le-patron.com^
+||est-mon-blogueur.com^
+||eth64.de^
+||etitrans.com^
+||etowns.net^
+||etowns.org^
+||eurotank.ro^
+||eva.hk^
+||everton.com^
+||evils.in^
+||expired-dns.com^
+||ez-ip.net^
+||ezua.com^
+||f-parts.net^
+||falcongreen.com^
+||fantasyleague.cc^
+||faqserv.com^
+||farted.net^
+||fartit.com^
+||fatdiary.org^
+||fdns.uk^
+||fearpenguins.com^
+||feste-ip.net^
+||fin-tech.com^
+||fintech-llc.com^
+||fivepals.com^
+||flazzard.com^
+||flnet.org^
+||flowergardendaycare.com^
+||for-better.biz^
+||for-more.biz^
+||for-our.info^
+||for-some.biz^
+||for-the.biz^
+||foroemprende.com^
+||forss.to^
+||forumz.info^
+||fragmentary.info^
+||free-ddns.com^
+||freeddns.com^
+||freeddns.org^
+||freeddns.uk^
+||freeddns.us^
+||freedynamicdns.net^
+||freedynamicdns.org^
+||freemyip.com^
+||freesa.org^
+||freetcp.com^
+||freewww.info^
+||freshdns.com^
+||from-ak.com^
+||from-al.com^
+||from-ar.com^
+||from-az.net^
+||from-ca.com^
+||from-co.net^
+||from-ct.com^
+||from-dc.com^
+||from-de.com^
+||from-fl.com^
+||from-ga.com^
+||from-hi.com^
+||from-ia.com^
+||from-id.com^
+||from-il.com^
+||from-in.com^
+||from-ks.com^
+||from-ky.com^
+||from-la.net^
+||from-ma.com^
+||from-md.com^
+||from-me.org^
+||from-mi.com^
+||from-mn.com^
+||from-mo.com^
+||from-ms.com^
+||from-mt.com^
+||from-nc.com^
+||from-nd.com^
+||from-ne.com^
+||from-nh.com^
+||from-nj.com^
+||from-nm.com^
+||from-nv.com^
+||from-ny.net^
+||from-oh.com^
+||from-ok.com^
+||from-or.com^
+||from-pa.com^
+||from-pr.com^
+||from-ri.com^
+||from-sc.com^
+||from-sd.com^
+||from-tn.com^
+||from-tx.com^
+||from-ut.com^
+||from-va.com^
+||from-vt.com^
+||from-wa.com^
+||from-wi.com^
+||from-wv.com^
+||from-wy.com^
+||ftp.sh^
+||ftp1.biz^
+||ftpaccess.cc^
+||ftpserver.biz^
+||fuettertdasnetz.de^
+||gally.jp^
+||game-host.org^
+||game-server.cc^
+||garmanage.com^
+||gastright.com^
+||geekgalaxy.com^
+||geobattery.com^
+||gerastar.ru^
+||getmyip.com^
+||gets-it.net^
+||gettrails.com^
+||gettrials.com^
+||ghostnation.org^
+||gigaportal.pl^
+||giize.com^
+||gleeze.com^
+||global-instr.us^
+||gluebank.com^
+||golaud.com^
+||goldcrestcc.com^
+||golffan.us^
+||good-newz.org^
+||got-game.org^
+||gotdns.ch^
+||gotdns.com^
+||gotdns.org^
+||gotgeeks.com^
+||govt.hu^
+||gr8name.biz^
+||grandmasgossip.com^
+||green-heroes.com^
+||groks-the.info^
+||groks-this.info^
+||grupoimpulsora.com^
+||grupompr.com^
+||gslb.me^
+||gteksecurity.com^
+||gtk.cl^
+||guardz.ru^
+||guild-site.com^
+||gurcanozturk.com^
+||gurdit.com^
+||gw.lt^
+||gw1.org^
+||h-o-s-t.name^
+||h0stname.net^
+||h1x.com^
+||hackquest.com^
+||hackx.com^
+||ham.gd^
+||ham-radio-op.net^
+||hamshack.info^
+||happyforever.com^
+||hatenboer.org^
+||hbmc.net^
+||health-carereform.com^
+||forgot.her.name^
+||here-for-more.info^
+||heroinewarrior.com^
+||hicam.net^
+||hijaxdesigns.com^
+||hiprinter.com^
+||forgot.his.name^
+||hitremixes.com^
+||hldns.ru^
+||hmail.us^
+||hmao.pro^
+||hobby-site.com^
+||hobby-site.org^
+||hokum-smack.com^
+||home.kg^
+||home-webserver.de^
+||home64.de^
+||homedns.org^
+||homeftp.net^
+||homeftp.org^
+||homeip.net^
+||homelinux.com^
+||homelinux.net^
+||homelinux.org^
+||homelinuxserver.org^
+||homenode.ca^
+||homepc.it^
+||homeplex.org^
+||homesecuritymac.com^
+||homesecuritypc.com^
+||homeunix.com^
+||homeunix.net^
+||homeunix.org^
+||homingbeacon.net^
+||hopto.me^
+||hopto.org^
+||host2go.net^
+||hosthampster.com^
+||hpc.tw^
+||hs.vc^
+||htmlcomponentservice.com^
+||https443.net^
+||https443.org^
+||humorvisite.eu^
+||hunnur.com^
+||iamallama.com^
+||icg.hk^
+||ics.tw^
+||ideasciviles.com^
+||idigo.org^
+||idleplay.net^
+||4040.idv.tw^
+||ieserver.net^
+||ignorelist.com^
+||iiiii.info^
+||ikwb.com^
+||ilovecollege.info^
+||imagetemplate.com^
+||imagetemplate.net^
+||imexsac.com^
+||imprendum.com^
+||in-the-band.net^
+||independentonline.ro^
+||inflict.us^
+||info.gf^
+||info.tm^
+||inkcat.net^
+||innograph.com^
+||instanthq.com^
+||invitee.net^
+||ionexusa.com^
+||iot64.de^
+||iownyour.org^
+||ip-ddns.com^
+||ip-dynamic.com^
+||ipq.co^
+||iprowave.com^
+||ipv64.de^
+||ipv64.net^
+||is-a-anarchist.com^
+||is-a-blogger.com^
+||is-a-bookkeeper.com^
+||is-a-bruinsfan.org^
+||is-a-bulls-fan.com^
+||is-a-candidate.org^
+||is-a-caterer.com^
+||is-a-celticsfan.org^
+||is-a-chef.com^
+||is-a-chef.net^
+||is-a-chef.org^
+||is-a-conservative.com^
+||is-a-cpa.com^
+||is-a-cubicle-slave.com^
+||is-a-democrat.com^
+||is-a-designer.com^
+||is-a-doctor.com^
+||is-a-financialadvisor.com^
+||is-a-geek.com^
+||is-a-geek.net^
+||is-a-geek.org^
+||is-a-green.com^
+||is-a-guru.com^
+||is-a-hard-worker.com^
+||is-a-hunter.com^
+||is-a-knight.org^
+||is-a-landscaper.com^
+||is-a-lawyer.com^
+||is-a-liberal.com^
+||is-a-libertarian.com^
+||is-a-linux-user.org^
+||is-a-llama.com^
+||is-a-musician.com^
+||is-a-nascarfan.com^
+||is-a-nurse.com^
+||is-a-painter.com^
+||is-a-patsfan.org^
+||is-a-personaltrainer.com^
+||is-a-photographer.com^
+||is-a-player.com^
+||is-a-republican.com^
+||is-a-rockstar.com^
+||is-a-socialist.com^
+||is-a-soxfan.org^
+||is-a-student.com^
+||is-a-teacher.com^
+||is-a-techie.com^
+||is-a-therapist.com^
+||is-an-accountant.com^
+||is-an-actor.com^
+||is-an-actress.com^
+||is-an-anarchist.com^
+||is-an-artist.com^
+||is-an-engineer.com^
+||is-an-entertainer.com^
+||is-by.us^
+||is-certified.com^
+||is-found.org^
+||is-gone.com^
+||is-into-anime.com^
+||is-into-cars.com^
+||is-into-cartoons.com^
+||is-into-games.com^
+||is-leet.com^
+||is-lost.org^
+||is-not-certified.com^
+||is-saved.org^
+||is-slick.com^
+||is-uberleet.com^
+||is-very-bad.org^
+||is-very-evil.org^
+||is-very-good.org^
+||is-very-nice.org^
+||is-very-sweet.org^
+||is-with-theband.com^
+||isa-geek.com^
+||isa-geek.net^
+||isa-geek.org^
+||isa-hockeynut.com^
+||isageek.net^
+||isamotherfucking.ninja^
+||isasecret.com^
+||ismoke.hk^
+||issmarterthanyou.com^
+||isteingeek.de^
+||istmein.de^
+||it.cx^
+||it-share.ro^
+||itemdb.com^
+||itsaol.com^
+||iu4ever.org^
+||iugaming.com^
+||ivc.cc^
+||ix.tc^
+||iz.rs^
+||jade-hamburg.de^
+||javafaq.nu^
+||jcor.ca^
+||jdfinancialserver.com^
+||jedimasters.net^
+||jesus.si^
+||jetos.com^
+||jkub.com^
+||joe.dj^
+||jomblo.asia^
+||jonward.com^
+||jumpingcrab.com^
+||jundy.org^
+||jungleheart.com^
+||justdied.com^
+||jvogt.org^
+||jwork.ru^
+||k.vu^
+||k22.su^
+||kanda.ru^
+||kaohsiung.tv^
+||keine-panik.net^
+||kellserve.com^
+||kicks-ass.net^
+||kicks-ass.org^
+||kir22.ru^
+||knabrub.com^
+||knowsitall.info^
+||kompaniet.nu^
+||kozow.com^
+||ksk-saratov.ru^
+||kyrgyzstan.kg^
+||l5.ca^
+||labradapr.com^
+||laketahoesue.com^
+||lan64.de^
+||lanas.cl^
+||land-4-sale.us^
+||landomain.net^
+||larzzons.com^
+||ldtp.com^
+||lebtimnetz.de^
+||lee.mx^
+||leitud.ee^
+||leitungsen.de^
+||leivo.org^
+||lessmiths.com^
+||level3.net^
+||lflink.com^
+||lflinkup.com^
+||lflinkup.net^
+||lflinkup.org^
+||likes-pie.com^
+||likescandy.com^
+||line.pm^
+||linkpc.net^
+||linux-site.net^
+||linux70.ru^
+||linuxd1.com^
+||linuxdigital.org^
+||litecsys.com^
+||livewave.ru^
+||ljack.com^
+||locumm.com^
+||loginto.me^
+||logisoft-cy.com^
+||logular.com^
+||longmusic.com^
+||loseyourip.com^
+||lospenitentes.com^
+||lostgumball.com^
+||lozan.com^
+||luckyweaving.com^
+||lundellnet.com^
+||macrofox.org^
+||madhacker.biz^
+||mao.fi^
+||marieblazek.com^
+||maurinfor.com^
+||mcsoft.org^
+||mcwrite.net^
+||ddns.me.uk^
+||dynamicdns.me.uk^
+||medbury.com^
+||medittech.com^
+||mefound.com^
+||melakaboy.com^
+||mett.ru^
+||mexsipel.net^
+||mgipr.com^
+||mh-it.com^
+||midjava.com^
+||migibts.net^
+||mikata.ru^
+||mikecartwright.net^
+||mil.nf^
+||mine.bz^
+||mine.nu^
+||minecraftnoob.com^
+||minecraftr.us^
+||mirolnet.com^
+||misconfused.org^
+||misecure.com^
+||mistermousepotato.com^
+||mithrandir.us^
+||mlbfan.org^
+||mmafan.biz^
+||mnode.net^
+||moneyhome.biz^
+||monitorip.com^
+||monopolepower.com^
+||moonangel.com^
+||mooo.com^
+||morganisageek.org^
+||mrbasic.com^
+||mrbonus.com^
+||mrface.com^
+||mrnorris.com^
+||mrslove.com^
+||msof.us^
+||mtrstore.com^
+||mudchute.com^
+||musterihizmetleri.com^
+||mwop.net^
+||my.to^
+||my-vigor.de^
+||my-wan.de^
+||my03.com^
+||myactivedirectory.com^
+||myaddr.dev^
+||myaddr.io^
+||myaddr.tools^
+||mydad.info^
+||myddns.biz^
+||myddns.com^
+||myddns.me^
+||myddns.rocks^
+||mydissent.net^
+||myeffect.net^
+||myftp.biz^
+||myftp.info^
+||myftp.org^
+||myhome-server.de^
+||myhomeschoolfamily.com^
+||myip.org^
+||myiphost.com^
+||myjino.ru^
+||mylftv.com^
+||mylogisoft.com^
+||mymediapc.net^
+||mymom.info^
+||mynetav.com^
+||mynetav.net^
+||mynetav.org^
+||mynetgear.com^
+||mynumber.org^
+||myonlineportal.com^
+||myonlineportal.net^
+||mypcanywhere.org^
+||mypets.ws^
+||myphotos.cc^
+||mypi.co^
+||mypicture.info^
+||mypop3.net^
+||mypop3.org^
+||mypsx.net^
+||myq-see.com^
+||mysaol.com^
+||mysecondarydns.com^
+||mysecuritycamera.com^
+||mysecuritycamera.net^
+||mysecuritycamera.org^
+||myserver.org^
+||mysynology.net^
+||myvnc.com^
+||mywebworld.info^
+||mywire.org^
+||mywww.biz^
+||myxop.com^
+||myz.info^
+||n-e-t.name^
+||n0p.at^
+||n4t.co^
+||nard.ca^
+||nas64.de^
+||nat-ddns.com^
+||natrofa.com^
+||ndcg.com^
+||neat-url.com^
+||nedvighimost-sochi.ru^
+||nerdcamp.net^
+||nerdpol.ovh^
+||net-freaks.com^
+||netcabo.pt^
+||netdorm.com^
+||netlord.de^
+||netmask.ca^
+||networkguru.com^
+||networkoutpost.com^
+||nflfan.org^
+||nhlfan.net^
+||no-ip.be^
+||no-ip.biz^
+||no-ip.ca^
+||no-ip.com^
+||no-ip.fr^
+||no-ip.info^
+||no-ip.net^
+||no-ip.org^
+||nodns.ca^
+||noip.com^
+||noip.me^
+||noip.net^
+||noip.pl^
+||noip.us^
+||noipdns.com^
+||noipdns.net^
+||noipfreedns.com^
+||noiptos.com^
+||notici.as^
+||novgaz-rzn.ru^
+||now.im^
+||now-dns.com^
+||now-dns.net^
+||now-dns.org^
+||nowddns.com^
+||ns01.info^
+||ns01.us^
+||ns02.biz^
+||ns02.info^
+||ns1.name^
+||ns2.name^
+||ns3.name^
+||nsupdate.info^
+||ntdll.top^
+||nufszone.com^
+||nx.tc^
+||ocry.com^
+||ods.org^
+||oemdns.com^
+||office-on-the.net^
+||ohbah.com^
+||olavsen.net^
+||omicronceti3.net^
+||on-the-web.tv^
+||onedumb.com^
+||onionsallyear.mobi^
+||onmypc.biz^
+||onmypc.info^
+||onmypc.net^
+||onmypc.org^
+||onthewifi.com^
+||ooguy.com^
+||opior.com^
+||malam.or.id^
+||oray.com^
+||d-n-s.org.uk^
+||dynamicdns.org.uk^
+||organiccrap.com^
+||orskkino.ru^
+||otzo.com^
+||ourhobby.com^
+||ownip.net^
+||packeting.eu^
+||parikh.net^
+||partycenteronline.com^
+||patelmortgage.com^
+||paulkelly.org^
+||pcanywhere.net^
+||peachyweb.com^
+||pedie.info^
+||pendulumaudio.com^
+||peregrineair.com^
+||pgafan.net^
+||phenixs.org^
+||photo-cult.com^
+||photo-frame.com^
+||php-dev.net^
+||pics.mu^
+||pii.at^
+||piroge.com^
+||planetdns.ca^
+||planetdns.net^
+||play.ai^
+||plwgroup.com^
+||pntl.tl^
+||podzone.net^
+||podzone.org^
+||point2this.com^
+||pointto.us^
+||port0.org^
+||port25.biz^
+||portalindustries.org^
+||portfwd.com^
+||portmap.host^
+||pp.ua^
+||prettyweak.com^
+||priamaakcia.sk^
+||privatedns.com^
+||privatedns.org^
+||privateimport.jp^
+||privatizehealthinsurance.net^
+||progr.am^
+||project.li^
+||project.zone^
+||prostore.ru^
+||prout.be^
+||proxydns.com^
+||psybnc.org^
+||ptchat.net^
+||publicvm.com^
+||pudim.info^
+||qc.to^
+||qhigh.com^
+||qlbv.vn^
+||qpoe.com^
+||qthome.org^
+||quackerscomic.com^
+||queerline.de^
+||quicksytes.com^
+||r-o-o-t.net^
+||radiogirl.fm^
+||raspberryip.com^
+||rayplee.com^
+||read-books.org^
+||readmyblog.org^
+||rebatesrule.net^
+||recruitment7.com^
+||recyclesolutionsllc.com^
+||redirectme.net^
+||reijn.org^
+||resolve.bar^
+||ro.lt^
+||robinhud.com^
+||robot-armies.com^
+||rockingwranchinc.com^
+||ron.si^
+||root.sx^
+||root64.de^
+||roth.ca^
+||route64.de^
+||rpz.su^
+||rr.nu^
+||rtam.net^
+||rum.si^
+||run.place^
+||rundis.com^
+||ruok.org^
+||russkoeumea.com^
+||rwbcode.com^
+||ryointernational.com^
+||sandmeiers.ch^
+||sannon-stamm.com^
+||saves-the-whales.com^
+||scay.net^
+||scieron.com^
+||scottlewisonline.com^
+||scottstreit.com^
+||scrapitsoftware.com^
+||scrapper-site.net^
+||scrapping.cc^
+||sdp-mos.ru^
+||seahorsenet.com^
+||seburn.net^
+||securitytactics.com^
+||selfip.biz^
+||selfip.com^
+||selfip.info^
+||selfip.net^
+||selfip.org^
+||sellclassics.com^
+||sells-for-less.com^
+||sells-for-u.com^
+||sells-it.net^
+||sellsyourhome.org^
+||semelcgmf.com^
+||sendsmtp.com^
+||sequoiapartners.com^
+||serendipityshores.com^
+||servebbs.com^
+||servebbs.net^
+||servebbs.org^
+||servebeer.com^
+||serveblog.net^
+||servecounterstrike.com^
+||serveexchange.com^
+||serveftp.com^
+||serveftp.net^
+||serveftp.org^
+||servegame.com^
+||servegame.org^
+||servehalflife.com^
+||servehttp.com^
+||servehumour.com^
+||serveirc.com^
+||serveminecraft.net^
+||servemp3.com^
+||serveo.net^
+||servep2p.com^
+||servepics.com^
+||servequake.com^
+||servernux.com^
+||serverpit.com^
+||serverthuis.com^
+||servesarcasm.com^
+||serveuser.com^
+||serveusers.com^
+||sexidude.com^
+||sexmistrz.pl^
+||sexxxy.biz^
+||shadir.com^
+||shaqnet.nu^
+||sharkltd.com^
+||sheatfish.org^
+||sheepindonesia.org^
+||shekinahphotography.com^
+||shen.cl^
+||shogun.ca^
+||shop.tm^
+||showmyhomes.com^
+||sieraddns.com^
+||silksky.com^
+||simple-url.com^
+||simplecharity.com^
+||sino.tw^
+||sitelutions.com^
+||skc.su^
+||skies.tw^
+||slasdot.com^
+||sline.net^
+||sly.io^
+||slyip.com^
+||slyip.net^
+||smelly.cc^
+||socialadhesion.com^
+||softether.net^
+||solfa.org^
+||solidmation.com^
+||sonnish.com^
+||soundcast.me^
+||space-to-rent.com^
+||spacetechnology.net^
+||spdns.de^
+||spdns.org^
+||spdyn.de^
+||spectrumnet.bg^
+||spelar.se^
+||sql01.com^
+||sqlconcepts.com^
+||squirly.info^
+||srv64.de^
+||srvdns.de^
+||ssitech.bg^
+||ssl443.org^
+||sslip.io^
+||ssmailer.com^
+||star.is^
+||stemmetje.com^
+||stes.fi^
+||stocktester.ru^
+||stoupin.ru^
+||strangled.net^
+||stroyexpert.org^
+||stuff-4-sale.org^
+||stuff-4-sale.us^
+||stufftoread.com^
+||stughead.com^
+||stuns.org^
+||sumibi.org^
+||sundby.com^
+||surak.kz^
+||surfnet.ca^
+||suroot.com^
+||swtest.ru^
+||syno-ds.de^
+||synology-diskstation.de^
+||synoserver.com^
+||syntereo.com^
+||sysadminetworks.com^
+||system-ns.com^
+||systes.net^
+||sytes.net^
+||t-online.hu^
+||tallison.com^
+||tamaragibson.com^
+||tantrum.org^
+||tcp4.me^
+||tcp64.de^
+||tdkare.ru^
+||teaches-yoga.com^
+||technopagans.com^
+||techproddns.com^
+||tedfullwood.com^
+||tekkennetwork.com^
+||texasdollies.com^
+||tftpd.net^
+||thatip.com^
+||thddns.net^
+||the-button.com^
+||theblacklist.org^
+||thehomeserver.net^
+||themcmillans.org^
+||thenest.org^
+||thenme.net^
+||thesemmels.com^
+||theworkpc.com^
+||thingsnewandused.com^
+||thruhere.net^
+||tinyrealm.com^
+||tobuy.us^
+||toh.info^
+||topdns.com^
+||topsddns.net^
+||toshibanetcam.com^
+||toythieves.com^
+||tpddns.cn^
+||traeumtgerade.de^
+||trailsendlodge.org^
+||trickip.net^
+||trieditmyself.com^
+||tru.io^
+||truthvid.com^
+||tscng.org^
+||tth.cl^
+||tunnelbroker.net^
+||tvlinux.com^
+||twilightparadox.com^
+||twodns.de^
+||twsuser.com^
+||ucvradio.cl^
+||udp64.de^
+||ufcfan.org^
+||ufodns.com^
+||ugo.si^
+||uk.to^
+||unibutton.com^
+||unitedhardwood.com^
+||unusualperson.com^
+||us.to^
+||usa.cc^
+||uzhi.ru^
+||vankin.de^
+||vctel.com^
+||ve3.info^
+||venez.fr^
+||venez.net^
+||verymad.net^
+||viamisoftware.com^
+||vicinanza.org^
+||viewdns.net^
+||viiic.net^
+||vincomlimited.com^
+||vitalwerks.com^
+||vizvaz.com^
+||voyez.ca^
+||vpn64.de^
+||vpndns.net^
+||vpntraki.com^
+||vpnx.nl^
+||vr.lt^
+||wakingmoon.com^
+||wan64.de^
+||wanip.ch^
+||webhop.biz^
+||webhop.info^
+||webhop.me^
+||webhop.net^
+||webhop.org^
+||webok.net^
+||webredirect.org^
+||webs.vc^
+||westblade.com^
+||whyboner.com^
+||wifizone.org^
+||wikaba.com^
+||wiki.gd^
+||wild1.net^
+||wildsurf.net^
+||williambest.com^
+||windmillstravel.com^
+||winnity.ro^
+||wmhelp.com^
+||wolmerica.com^
+||womenclothingtoday.com^
+||work.gd^
+||workisboring.com^
+||worse-than.tv^
+||writesthisblog.com^
+||www1.biz^
+||wwwhost.biz^
+||x24hr.com^
+||x443.pw^
+||xddns.de^
+||xpresit.net^
+||xxuz.com^
+||xxxy.info^
+||yao.cl^
+||ydns.eu^
+||ydns.io^
+||ygto.com^
+||yiannamarie.com^
+||yiff.fi^
+||yngling.com^
+||youdontcare.com^
+||youpc.ro^
+||yourtrap.com^
+||z86.ru^
+||zaibar.ro^
+||zanity.net^
+||zapto.org^
+||ze.am^
+||zelslonik.info^
+||zneth.com^
+||zoneedit.com^
+||zverovich.net^
+||zyix.com^
+||zyns.com^
+||zzux.com^
+!
+!
+!-------------------------------------------------------------------!
+!-------------------- BADWARE ----------------------------------!
+!-------------------------------------------------------------------!
+!
+||000a.de^
+||000space.com^
+||000webhost.com^
+||000webhostapp.com^
+||00band.com^
+||00books.com^
+||00cash.com^
+||00cd.com^
+||00dvd.com^
+||00family.com^
+||00freehost.com^
+||00freeweb.com^
+||00game.com^
+||00home.com^
+||00me.com^
+||00movies.com^
+||00page.com^
+||00politics.com^
+||00server.com^
+||00sf.com^
+||00show.com^
+||00song.com^
+||00space.com^
+||00sports.com^
+||00trek.com^
+||00video.com^
+||012webpages.com^
+||07080900.xyz^
+||0catch.com^
+||0fees.net^
+||0fees.us^
+||0hna.com^
+||one4u.0lx.net^
+||0me.com^
+||0pe.kr^
+||0pi.com^
+||1.vg^
+||10001mb.com^
+||100free.com^
+||100freemb.com^
+||100webspace.com^
+||100webspace.net^
+||100ws.com^
+||10gbfreehost.com^
+||10h.us^
+||110mb.com^
+||111mb.de^
+||114.at^
+||115.at^
+||125mb.com^
+||126.com^
+||12n.de^
+||131.at^
+||135.it^
+||13e.de^
+||150m.com^
+||blog.163.com^
+||16mb.com^
+||178.at^
+||17p.de^
+||193.at^
+||1a.lc^
+||1accesshost.com^
+||1apps.com^
+||1asphost.com^
+||1colony.com^
+||1fr1.net^
+||1freewebspace.com^
+||1hwy.com^
+||1shop.de^
+||1sthost.org^
+||1sweethost.com^
+||1talk.net^
+||1tt.net^
+||1w3.de^
+||1x.biz^
+||1x.de^
+||1x.net^
+||1x7.de^
+||2.je^
+||204.at^
+||20fr.com^
+||20m.com^
+||20m.us^
+||20megsfree.com^
+||22web.net^
+||22web.org^
+||24.eu^
+||24.gg^
+||24.gp^
+||24.je^
+||24.lc^
+||24.mu^
+||24.nl^
+||24.tl^
+||258.at^
+||270.at^
+||2all.de^
+||2fh.co^
+||2itb.com^
+||2kool4u.net^
+||2nt.com^
+||2u.hu^
+||2u-2.com^
+||310.at^
+||350.com^
+||351.at^
+||365bbt.link^
+||36f.de^
+||3blogger.com^
+||3blogger.net^
+||3dn.ru^
+||3eeweb.com^
+||3xforum.ro^
+||3ya.de^
+||4.je^
+||42t.com^
+||433.at^
+||4everland.app^
+||4kp.de^
+||4mg.com^
+||4u2.de^
+||500mb.net^
+||50g.com^
+||50megs.com^
+||50webs.com^
+||50webs.org^
+||blog.51cto.com^
+||530.at^
+||59bloggers.com^
+||5gbfree.com^
+||5on.de^
+||5oo.de^
+||5v.pl^
+||6.je^
+||66ghz.com^
+||6te.net^
+||7.je^
+||741.com^
+||766.at^
+||7m.pl^
+||8.je^
+||81x.com^
+||85d.de^
+||89.pl^
+||8b.io^
+||8c8.de^
+||8m.net^
+||8x.pl^
+||9.je^
+||989.at^
+||9gb.de^
+||9k.com^
+||a.gp^
+||a-loch.de^
+||a0001.net^
+||a3n.de^
+||aa6.de^
+||aa8.de^
+||aa9.de^
+||aba.ae^
+||aba.vg^
+||abbremsen.de^
+||abfertigen.de^
+||abgeblasen.de^
+||abgebogen.de^
+||abgefahrenes.de^
+||abgefeilt.de^
+||abhacken.de^
+||abhalten.de^
+||abhauen.de^
+||abklappern.de^
+||about.lc^
+||aboutyoublog.com^
+||absichern.eu^
+||absorbiert.de^
+||abstellen.de^
+||abwechslungsreiches.de^
+||myblog.arts.ac.uk^
+||blogs.lincoln.ac.uk^
+||ac6.de^
+||account-disney-subscription.com^
+||aceblog.fr^
+||acidblog.net^
+||actifforum.com^
+||activablog.com^
+||activoblog.com^
+||activosblog.com^
+||actoblog.com^
+||admarketlocation.com^
+||aed1.host^
+||aeonjp.shop^
+||affiliatblogger.com^
+||africafull.top^
+||ag.gp^
+||ag0rcgwjv5.com^
+||ageeksblog.com^
+||ahlamontada.com^
+||ahlamountada.com^
+||aioblogs.com^
+||airground.club^
+||airself.shop^
+||akgoj.cn^
+||akuanakmamah.de^
+||al6.de^
+||alavps.com^
+||alboompro.com^
+||all.lc^
+||allemal.de^
+||allmyblog.com^
+||alloforum.com^
+||allpubmusic.my^
+||alltdesign.com^
+||almoheet-travel.com^
+||als-geschenk.de^
+||altervista.org^
+||am-geilsten.de^
+||am-strand.de^
+||amarillozoo.com^
+||ambien-blog.com^
+||amoblog.com^
+||ampblogs.com^
+||ampedpages.com^
+||an-erster-stelle.de^
+||anchor-blog.com^
+||and-friends.de^
+||and-you.de^
+||andharban.com^
+||andologin99.com^
+||anfliegen.de^
+||angelfire.com^
+||angelinsblog.com^
+||annualhuman.shop^
+||anschauen.in^
+||anschiessen.de^
+||answerblogs.com^
+||ar.gp^
+||arabcause.shop^
+||arabinn.club^
+||arcadepages.com^
+||arcor-ip.net^
+||argentpropertiesvb.com^
+||arien.cl^
+||arizonafun.shop^
+||arrangiert.de^
+||articlesblogger.com^
+||artsold.top^
+||arwebo.com^
+||asablo.jp^
+||asia.cm^
+||asia.gp^
+||asiaal.shop^
+||asianhotel.shop^
+||at.cr^
+||at.st^
+||atsnx.com^
+||atspace.biz^
+||atspace.com^
+||atspace.org^
+||atspace.us^
+||atualblog.com^
+||atwebpages.com^
+||au.gp^
+||aufbauend.de^
+||ausposaunen.de^
+||auto.lc^
+||autoscolor.club^
+||avablog.ir^
+||aw3.de^
+||awardspace.biz^
+||awardspace.com^
+||aweys.net^
+||az.gp^
+||azzablog.com^
+||b.gp^
+||b2b.lc^
+||bakoweb.com^
+||ballern.de^
+||bandu2.com^
+||bandungberita.com^
+||banksurvey.biz^
+||bappy.com^
+||baratowebhost.com^
+||batcave.net^
+||bateicpoint.vip^
+||bazefrost.ru^
+||bcbloggers.com^
+||bcz.com^
+||be.gp^
+||bearsfanteamshop.com^
+||bebinmall.today^
+||bedava-sitem.com^
+||beeplog.de^
+||beepworld.de^
+||beepworld.it^
+||beget.tech^
+||begins.de^
+||bellastheboutique.shop^
+||beplaced.com^
+||berlin.tl^
+||bethelcreations.shop^
+||betrunken.org^
+||bezemchsell.shop^
+||bg.gp^
+||bgydnb.vip^
+||bigheadhosting.net^
+||bigthomas.shop^
+||bikashfancyclothing.shop^
+||bilder.lc^
+||billblett.com^
+||biproplw.top^
+||biz.ly^
+||biz.ps^
+||biz.tc^
+||biz.uz^
+||bizhat.com^
+||bizmovie.shop^
+||blackapplehost.com^
+||blackblogs.org^
+||blakelysboutique.shop^
+||blazingblog.com^
+||bleepblogs.com^
+||bligblogging.com^
+||blinkweb.com^
+||blo.gg^
+||blog.ba^
+||blog.bg^
+||blog.ca^
+||blog.com^
+||blog.cz^
+||blog.de^
+||blog.fr^
+||blog.hr^
+||blog.hu^
+||blog.ir^
+||blog.is^
+||blog.lc^
+||blog.me^
+||blog.nl^
+||blog.pl^
+||blog.ru^
+||blog-a-story.com^
+||blog-city.com^
+||blog-eye.com^
+||blog-ezine.com^
+||blog-gold.com^
+||blog-kids.com^
+||blog-mall.com^
+||blog-online.eu^
+||blog1.de^
+||blog2freedom.com^
+||blog2learn.com^
+||blog2news.com^
+||blog4ever.com^
+||blog4ever.net^
+||blog4youth.com^
+||blog5.net^
+||blog5star.com^
+||blogaaja.fi^
+||blogabond.com^
+||blogacep.com^
+||blogadvize.com^
+||blogan.pl^
+||blogaritma.com^
+||blogars.com^
+||blogas.lt^
+||blogator.net^
+||blogblog.com^
+||blogbright.net^
+||blogcdn.com^
+||blogchaat.com^
+||blogcheese.com^
+||blogcindario.com^
+||blogcn.com^
+||blogcu.com^
+||blogcudinti.com^
+||blogdal.com^
+||blogdanica.com^
+||blogdeazar.com^
+||blogdemls.com^
+||blogdigy.com^
+||blogdiloz.com^
+||blogdomago.com^
+||blogdon.net^
+||blogdosaga.com^
+||blogdrive.com^
+||blogdun.com^
+||blogeasy.com^
+||bloger.hr^
+||blogerus.com^
+||bloges.org^
+||blogetery.com^
+||blogfa.com^
+||blogflux.com^
+||blogfree.net^
+||blogg.de^
+||blogg.no^
+||blogg.org^
+||blogg.se^
+||bloggactif.com^
+||bloggactivo.com^
+||bloggadores.com^
+||bloggang.com^
+||bloggazza.com^
+||bloggazzo.com^
+||blogger-news.net^
+||bloggerbags.com^
+||bloggerchest.com^
+||bloggersdelight.dk^
+||bloggerswise.com^
+||bloggin-ads.com^
+||blogginaway.com^
+||blogginger.com^
+||bloggip.com^
+||bloggosite.com^
+||bloggplatsen.se^
+||bloggt.de^
+||blogia.com^
+||blogimg.jp^
+||bloginder.com^
+||bloginwi.com^
+||blogit.fr^
+||blogitright.com^
+||blogkoo.com^
+||bloglovin.com^
+||blogm.com^
+||blogmaster.net^
+||blogmazing.com^
+||blogminds.com^
+||blogmonster.de^
+||blognody.com^
+||blogocial.com^
+||blogofchange.com^
+||blogofoto.com^
+||blogolenta.com^
+||blogolize.com^
+||blogoscience.com^
+||blogoxo.com^
+||blogozz.com^
+||blogpayz.com^
+||blogpixi.com^
+||blogpostie.com^
+||blogprodesign.com^
+||blogproducer.com^
+||blogr.com^
+||blogranking.us^
+||blogrelation.com^
+||blogrenanda.com^
+||blogrip.com^
+||blogripley.com^
+||blogrox.com^
+||blogs.com^
+||blogs.fr^
+||blogs.it^
+||blogs-service.com^
+||blogs100.com^
+||blogscribble.com^
+||blogse.nl^
+||blogsidea.com^
+||blogsky.com^
+||blogsmine.com^
+||blogsome.com^
+||blogspace.fr^
+||blogspirit.com^
+||blogsport.de^
+||blogsport.eu^
+||blogspot.ae^
+||blogspot.al^
+||blogspot.am^
+||blogspot.ba^
+||blogspot.be^
+||blogspot.bg^
+||blogspot.bio^
+||blogspot.ca^
+||blogspot.cf^
+||blogspot.ch^
+||blogspot.cl^
+||blogspot.cm^
+||blogspot.co^
+||blogspot.com^
+||blogspot.cz^
+||blogspot.de^
+||blogspot.dk^
+||blogspot.es^
+||blogspot.fi^
+||blogspot.fr^
+||blogspot.gr^
+||blogspot.hk^
+||blogspot.hr^
+||blogspot.hu^
+||blogspot.ie^
+||blogspot.in^
+||blogspot.is^
+||blogspot.it^
+||blogspot.jp^
+||blogspot.kr^
+||blogspot.li^
+||blogspot.lt^
+||blogspot.lu^
+||blogspot.md^
+||blogspot.mk^
+||blogspot.mx^
+||blogspot.my^
+||blogspot.net^
+||blogspot.nl^
+||blogspot.no^
+||blogspot.org^
+||blogspot.pe^
+||blogspot.pl^
+||blogspot.pt^
+||blogspot.qa^
+||blogspot.ro^
+||blogspot.rs^
+||blogspot.ru^
+||blogspot.se^
+||blogspot.sg^
+||blogspot.si^
+||blogspot.sk^
+||blogspot.sn^
+||blogspot.tw^
+||blogspot.ug^
+||blogspot.vn^
+||blogspothub.com^
+||blogster.com^
+||blogstival.com^
+||blogsumer.com^
+||blogsuperapp.com^
+||blogsvila.com^
+||blogsvirals.com^
+||blogsys.jp^
+||blogthisbiz.com^
+||blogtov.com^
+||blogtrafic.com^
+||bloguerosa.com^
+||bloguetechno.com^
+||blogunok.com^
+||blogunteer.com^
+||blogus.jp^
+||blogvivi.com^
+||blogzag.com^
+||blogzet.com^
+||bloki.com^
+||blue-blogs.com^
+||bluefile.cz^
+||bluxeblog.com^
+||bo.gp^
+||boardhost.com^
+||boards.net^
+||bokee.com^
+||bookieboutique.shop^
+||bookmark.com^
+||bookspace.fr^
+||booru.org^
+||boosterblog.com^
+||boundpeter.shop^
+||boutiqueond.shop^
+||boxmail.biz^
+||boxmode.io^
+||boyblogguide.com^
+||bplaced.net^
+||br.gp^
+||bravehost.com^
+||bravejournal.com^
+||bravejournal.net^
+||bravenet.com^
+||bravepages.com^
+||brazilbill.shop^
+||bridalgallerymaryville.com^
+||bstyledstore.shop^
+||bugs3.com^
+||builderall.net^
+||builtfree.org^
+||business.site^
+||business-minagne.com^
+||busythumbs.com^
+||buttobi.net^
+||buyoutblog.com^
+||bx5.de^
+||byet.host^
+||byethost.com^
+||byethost3.com^
+||byto.de^
+||bz.tc^
+||c.la^
+||c.pl^
+||ca.gp^
+||cafeblog.hu^
+||caixa-soportecliente.com^
+||canalblog.com^
+||canariblogs.com^
+||canva.site^
+||carookee.com^
+||carrd.co^
+||carrefourpro.com^
+||carsix.shop^
+||case-id-100029850.com^
+||cavandoragh.org^
+||cba.pl^
+||cbkgardens.com^
+||cellnovis.com^
+||center.tl^
+||centerblog.net^
+||cfm-id72049123.com^
+||cfolks.pl^
+||cfw.me^
+||ch.gp^
+||ch.kg^
+||ch.st^
+||ch2.eu^
+||chamberecommerce.com^
+||chat.dj^
+||chat3.de^
+||chatpc.club^
+||chez.com^
+||chicjolieboutiqueonline.shop^
+||cielo-fashion.shop^
+||city.tl^
+||cityhotel.club^
+||cixx6.com^
+||ciy.de^
+||cl.gp^
+||cl4n.org^
+||clan.lc^
+||clan.mn^
+||clan-24.de^
+||clan-base.de^
+||clandomain.de^
+||clandomain.org^
+||client.jp^
+||cloudwaysapps.com^
+||club.lc^
+||club-area.de^
+||clubeo.com^
+||clubstrack.shop^
+||clumsy.de^
+||cn.gp^
+||blogs.cnn.com^
+||co.de^
+||co.gp^
+||co.nu^
+||co.to^
+||24.co.at^
+||all.co.uk^
+||atspace.co.uk^
+||blog.co.uk^
+||blogspot.co.at^
+||blogspot.co.id^
+||blogspot.co.il^
+||blogspot.co.ke^
+||blogspot.co.nz^
+||blogspot.co.uk^
+||blogspot.co.za^
+||thamboli.co.za^
+||threembb.co.uk^
+||ucoz.co.uk^
+||webnode.co.uk^
+||codm-free.com^
+||collectblogs.com^
+||com.nu^
+||adr.com.ua^
+||blogspot.com.ar^
+||blogspot.com.au^
+||blogspot.com.br^
+||blogspot.com.by^
+||blogspot.com.cn^
+||blogspot.com.co^
+||blogspot.com.com^
+||blogspot.com.cy^
+||blogspot.com.ee^
+||blogspot.com.eg^
+||blogspot.com.es^
+||blogspot.com.in^
+||blogspot.com.mt^
+||blogspot.com.my^
+||blogspot.com.ng^
+||blogspot.com.tr^
+||blogspot.com.uy^
+||cableonline.com.mx^
+||fullblog.com.ar^
+||keshavbashyal.com.np^
+||kl.com.ua^
+||lojaintegrada.com.br^
+||sclub.com.tw^
+||tripod.com.mx^
+||uniblog.com.br^
+||webnode.com.ar^
+||webnode.com.au^
+||webnode.com.br^
+||webnode.com.co^
+||webnode.com.pt^
+||webnode.com.py^
+||webnode.com.tr^
+||webnode.com.ua^
+||webnode.com.uy^
+||webnode.com.ve^
+||zzz.com.ua^
+||com-portal.de^
+||com0.de^
+||com24.at^
+||comeze.com^
+||comhem.se^
+||cominbaxz.xyz^
+||community.lc^
+||community24.eu^
+||comule.com^
+||comunidades.net^
+||comxa.com^
+||connysdress.shop^
+||conohawing.com^
+||cookpad-blog.jp^
+||cool.hn^
+||cool.lc^
+||coolfreepages.com^
+||coolpage.biz^
+||corolain.ru^
+||cowblog.fr^
+||128-199-7-137.cprapid.com^
+||208-115-225-138.cprapid.com^
+||3-89-181-9.cprapid.com^
+||creablog.com^
+||creacionblog.com^
+||creamclothinginc.shop^
+||createblog.com^
+||creatuforo.com^
+||crossurl.shop^
+||crypto-market-world.com^
+||cryptofinancetrack.com^
+||cryptonight.net^
+||cs-clan.org^
+||csb.app^
+||csdazzle.shop^
+||csublogs.com^
+||ct8.pl^
+||cubavalue.shop^
+||cum.fi^
+||cwcity.de^
+||cwqso.net^
+||cyberbree.com^
+||cyberfight.de^
+||cz.gp^
+||czweb.org^
+||d.gp^
+||d3.ru^
+||d3l.de^
+||da.cx^
+||da.ru^
+||daftpage.com^
+||dafun.com^
+||dailyblogzz.com^
+||dailyhitblog.com^
+||daisysfashions.shop^
+||daneblogger.com^
+||darayibuy.shop^
+||dashosting.de^
+||datechurch.shop^
+||datesize.top^
+||datingpm.club^
+||dax.ru^
+||dbblog.net^
+||dblog.pl^
+||ddl2.pl^
+||de.cm^
+||de.gd^
+||de.gp^
+||de.ht^
+||de.im^
+||de.ki^
+||de.mg^
+||de.pl^
+||de-2.de^
+||de-info.de^
+||deandryesclothing.shop^
+||deno.dev^
+||design.tl^
+||designcarthosting.com^
+||designertoblog.com^
+||designi1.com^
+||develop-blog.com^
+||dfashionboutique.shop^
+||dgbloggers.com^
+||diana-fashion.shop^
+||diary.ru^
+||diarynote.jp^
+||diblogotus.com^
+||dicninson.sbs^
+||dietmark.shop^
+||digiblogbox.com^
+||digitalzones.com^
+||digitollblog.com^
+||dimsolo.com^
+||dinaellen.shop^
+||dinamikajambi.com^
+||dindebat.dk^
+||diowebhost.com^
+||directnic.com^
+||djuanlian.top^
+||dm-blog.com^
+||dmodaboutique1.shop^
+||dnip.net^
+||doctorfew.top^
+||dolebropro.shop^
+||domain.lc^
+||members.domaindlx.com^
+||domepaosell.shop^
+||doodlekit.com^
+||dorabiamarketing.shop^
+||dot.tk^
+||doteyoueshop.shop^
+||downfall.shop^
+||download.ac^
+||download.sh^
+||downloaden24.de^
+||dox4.com^
+||dr.ag^
+||dragndropbuilder.com^
+||dreamstation.com^
+||dreamwidth.org^
+||dreamyblogs.com^
+||dreht-auf.de^
+||drivehq.com^
+||drugpoint.shop^
+||dsiblogger.com^
+||dslextreme.com^
+||dtiblog.com^
+||duanwenzi.cn^
+||duchessandthedude.shop^
+||dvd.lc^
+||dynamicboard.de^
+||e.gp^
+||e-monsite.com^
+||easy4blog.com^
+||easyfreehosting.com^
+||eazylaunch.com^
+||eb2a.com^
+||ebeesboutique.shop^
+||eblogmall.com^
+||ebuykind.shop^
+||ec.gp^
+||eclub.lv^
+||ecmx.top^
+||ecomplanet.com^
+||ecrater.com^
+||editboard.com^
+||edublogs.com^
+||edublogs.org^
+||educationalimpactblog.com^
+||educatorpage.com^
+||educatorpages.com^
+||eedblog.com^
+||efacturas.net^
+||eg.gp^
+||ehaitao.com^
+||eklablog.com^
+||eklablog.fr^
+||eklablog.net^
+||elbloglibre.com^
+||elegantrosebridal.shop^
+||elementfx.com^
+||eligiblecell.shop^
+||elizabethsfashion.shop^
+||emmasbowtique.shop^
+||emoneysale.shop^
+||emyspot.com^
+||energycd.shop^
+||english.lc^
+||englishset.club^
+||entekpartners.com^
+||envy.nu^
+||eo3.de^
+||blog.eonet.jp^
+||epizy.com^
+||equalside.shop^
+||erlegen.de^
+||es.gp^
+||es-bbvacliente-movil.com^
+||es-caixamovil-clientes.com^
+||esel.in^
+||eshop-ya.life^
+||estate-blog.com^
+||esthersresaleshop.shop^
+||estranky.cz^
+||ethergases.org^
+||etribes.com^
+||eu.cm^
+||eu.cr^
+||eu.gg^
+||eu.gl^
+||eu.gp^
+||eu.ki^
+||eu.nu^
+||eu3.biz^
+||eu3.org^
+||eu5.net^
+||eu5.org^
+||eur.lc^
+||euro.lc^
+||europa.lc^
+||ev.de^
+||evc.net^
+||event-redeem.com^
+||events-games.com^
+||evenweb.com^
+||exactpages.com^
+||exblog.jp^
+||excite.it^
+||exocrew.com^
+||expensiveone.shop^
+||exprimetoi.net^
+||ez-sites.ws^
+||ezblogz.com^
+||ezyro.com^
+||f11.us^
+||facepl.com^
+||faithflairboutique.shop^
+||faithweb.com^
+||familylobby.com^
+||fancyjsboutique.shop^
+||fannielenterprises.shop^
+||fantasyblog.fr^
+||fanwestdoll.best^
+||fare-blog.com^
+||fast-page.org^
+||fasthoster.de^
+||fat-fly.com^
+||fb-business.com^
+||fblogs.com^
+||fbzsa.com^
+||fc2.com^
+||fc2web.com^
+||fcpages.com^
+||fe-boutique.shop^
+||ferreracademy.com^
+||fileave.com^
+||filme.lc^
+||financecryptoworld.com^
+||financial-offer.com^
+||finassalonboutique.shop^
+||findarea.shop^
+||finlandway.shop^
+||firearms.com^
+||fireblogz.com^
+||firm.nu^
+||fishevent.shop^
+||fishmeet.shop^
+||fitegirlsboutique.shop^
+||fitnell.com^
+||flashbuilder.net^
+||flazio.com^
+||fleek.cool^
+||flf.li^
+||flirten.info^
+||flu.cc^
+||foliodrop-welcome.com^
+||footeo.com^
+||for-ladys.de^
+||fora.pl^
+||formbuddy.com^
+||foroactivo.com^
+||foroes.org^
+||forum.lc^
+||forum2.net^
+||forum2jeux.com^
+||forum2x2.ru^
+||forum7.de^
+||forumactif.com^
+||forumactif.fr^
+||forumactif.org^
+||forumarabia.com^
+||forumattivo.com^
+||forumcommunity.net^
+||forumeiros.com^
+||forumer.com^
+||forumfree.it^
+||forumfree.net^
+||forumgratuit.org^
+||forumgreek.com^
+||forumieren.com^
+||forumieren.de^
+||forumieren.org^
+||forumil.com^
+||forummotion.com^
+||forumno.com^
+||forumotion.com^
+||forumotion.net^
+||forumotion.org^
+||forumperso.com^
+||forumpro.fr^
+||forumps.com^
+||forums-actifs.com^
+||forumsactifs.com^
+||fotos.lc^
+||fotosdefrases.com^
+||fr.gp^
+||fr.nf^
+||frankclassic.shop^
+||free.bg^
+||free.cr^
+||free.lc^
+||free-blogz.com^
+||free-forums.org^
+||freeasphost.net^
+||freebase.hu^
+||freeblog.biz^
+||freecities.com^
+||freeforums.net^
+||freeforums.org^
+||freehomepage.com^
+||freehost.ag^
+||freehoster.ch^
+||freehostia.com^
+||freehosting.cc^
+||freehosting.com^
+||freehosting.net^
+||freehosting4u.com^
+||freehostingcloud.com^
+||freehostingeu.com^
+||freehostingking.com^
+||freehostplace.com^
+||freehostyou.com^
+||freehyperspace5.com^
+||freeoda.com^
+||freepe.com^
+||freeservers.com^
+||freesite.org^
+||freetheme.top^
+||freetzi.com^
+||freevar.com^
+||freeweb.hu^
+||freeweb.me^
+||freeweb.nu^
+||freeweb.pk^
+||freeweb-hosting.com^
+||freewebhosting360.com^
+||freewebhosting4u.com^
+||freewebhostingarea.com^
+||freewebhostingpro.com^
+||freewebhostmost.com^
+||freewebhostx.com^
+||freewebpages.org^
+||freewebportal.com^
+||freewebs.com^
+||freewebsitehosting.com^
+||freewebspace.com^
+||freewebstore.com^
+||freewebtools.com^
+||freewha.com^
+||freezoka.net^
+||frenchboard.com^
+||freshmember.com^
+||frewwebs.com^
+||friendcircles.com^
+||fuer-alle.de^
+||fuer-profis.de^
+||full-design.com^
+||fun.gg^
+||fun.pe^
+||fun5.de^
+||funcurrent.top^
+||fw.bz^
+||fw.hu^
+||fwscheckout.com^
+||gabstinaboutique.shop^
+||gakken.shop^
+||galeon.com^
+||gamblerschoiceclothing.shop^
+||game.lc^
+||gaming.lc^
+||gamingadd.club^
+||gazmuri.cl^
+||gearhost.com^
+||gearhostpreview.com^
+||genblogger.com^
+||genomehp.shop^
+||georgiatwo.shop^
+||gerentebr.com^
+||get-blogging.com^
+||getblogs.net^
+||getenjoyment.net^
+||getresponsesite.com^
+||gg123.vip^
+||gilde.in^
+||gildenseite.de^
+||girlsense.com^
+||glifeblog.com^
+||goabroadblog.com^
+||godaddysites.com^
+||godfrance.club^
+||godscience.shop^
+||godxdess.top^
+||gofreeserve.com^
+||gonevis.com^
+||sites.googlegroups.com^
+||googletagmanagers.com^
+||gotop100.com^
+||govauinboxmsg-support.com^
+||govinboxausecure-support.com^
+||goweachbuy.shop^
+||gowedhemarketing.shop^
+||gozaru.jp^
+||gqnu.net^
+||gr.gp^
+||gr.kg^
+||gr-site.com^
+||graffiti.net^
+||gratis.lc^
+||great-site.net^
+||greatnow.com^
+||grecofioredesigns.shop^
+||greecemar.shop^
+||greekstatus.shop^
+||grwebsite.com^
+||gta.team^
+||gtempurl.com^
+||gtexpsers.cc^
+||gtsepress.vip^
+||guest.de^
+||guide.lc^
+||guzhibo.cn^
+||gymshark-france.fr^
+||gymsharkitaliaofficial.it^
+||gynoblog.com^
+||h.gp^
+||halloweencp.com^
+||hanefra7bikiemta.com^
+||happy-couple.com^
+||harise.shop^
+||hase.in^
+||hashnode.dev^
+||hautetfort.com^
+||hefeicang.com^
+||helioho.st^
+||heliohost.us^
+||hellospace.org^
+||helpfri.shop^
+||hexe.in^
+||hiblogger.net^
+||highclassacademia.com^
+||hilfe24h.de^
+||hilfigeroutlet.at^
+||hinerava.com^
+||hkearth.xyz^
+||hklevel.club^
+||holcom.top^
+||home.lc^
+||homemarker.com^
+||homepage.cx^
+||homepage.lc^
+||homepage-konstruktor.ru^
+||homestead.com^
+||hop.ru^
+||hormoud.best^
+||host.sk^
+||hostami.me^
+||hostfree.pw^
+||hostingas.in^
+||hostinger.de^
+||hostingfailov.com^
+||hostingsiteforfree.com^
+||hostkda.com^
+||hostmeans.shop^
+||hot.lc^
+||hotloss.shop^
+||hotusa.org^
+||howeweb.com^
+||hoxty.com^
+||hp.lc^
+||hpage.com^
+||hpage.de^
+||hst5.com^
+||html-5.me^
+||htmlpasta.com^
+||hu.gp^
+||hu.kg^
+||huicopper.com^
+||humor-blog.com^
+||hund.in^
+||hundredtrue.shop^
+||hupont.hu^
+||hyip.com^
+||hyperphp.com^
+||i.gp^
+||iamarrows.com^
+||ibiz.cc^
+||iblogger.org^
+||iblogs.com^
+||iceiy.com^
+||id.gp^
+||idblogmaker.com^
+||idblogz.com^
+||idiot24.de^
+||blog.idnes.cz^
+||ifdef.jp^
+||igg.biz^
+||ij2.de^
+||il.gp^
+||ilovetoblog.com^
+||blogs.ilrt.org^
+||im-internet.eu^
+||image-perth.org^
+||imblogs.net^
+||imess.net^
+||imtokne.vip^
+||in.gp^
+||in24.de^
+||inbox24.eu^
+||inbox24.net^
+||inbox24.org^
+||inc5.com^
+||indexcm-t.com^
+||indybay.org^
+||infinityfree.com^
+||infinityfree.net^
+||infinityfreeapp.com^
+||info.cm^
+||info.nu^
+||info-com.de^
+||info-home.de^
+||info24h.de^
+||info4.de^
+||infos.cx^
+||infos.lc^
+||infos.st^
+||infplm.top^
+||inicioseguridad-cliente.com^
+||insanejournal.com^
+||instantfreesite.com^
+||int.ps^
+||internetsite.eu^
+||internetworx.org^
+||inube.com^
+||ir.gp^
+||is-alive.de^
+||is-best.net^
+||is-blog.com^
+||is-great.org^
+||is-mine.net^
+||isblog.net^
+||ispot.cc^
+||ist-ok.de^
+||it.gg^
+||it.gp^
+||itgo.com^
+||itheidiot.com^
+||ivasdesign.com^
+||iwarp.com^
+||iwopop.com^
+||ixbb.ru^
+||ixeo.com^
+||iyublog.com^
+||izrablog.com^
+||j55.eu^
+||ja-blog.com^
+||jaiblogs.com^
+||janhost.com^
+||jcmemoryscan.com^
+||jeun.fr^
+||jiliblog.com^
+||jixx.de^
+||jixx.net^
+||job.ec^
+||joomla.com^
+||joueb.com^
+||jouwweb.nl^
+||jp.gp^
+||jtexpressr.top^
+||jtexpsers.cc^
+||jtposts.cc^
+||jts-blog.com^
+||jugem.cc^
+||jugem.jp^
+||justaboutblogs.com^
+||justns.ru^
+||k.gp^
+||k1.cx^
+||ka-blogs.com^
+||kanka.space^
+||kann-helfen.de^
+||kataweb.it^
+||keepfree.de^
+||keetkotoun.com^
+||kgcajdibv.best^
+||kidnumber.shop^
+||kilu.at^
+||kilu.biz^
+||kilu.de^
+||kilu.info^
+||kilu.net^
+||kilu.org^
+||kiluweb.com^
+||klammert.de^
+||klingler.us^
+||kolido.net^
+||kr.gp^
+||kraftonevent.com^
+||kulichki.net^
+||kulichki.ru^
+||kurzschliessen.de^
+||kylieblog.com^
+||kyoce.shop^
+||kz.gp^
+||l.gp^
+||l4n.org^
+||l8n5kafm6l.net^
+||laden.biz^
+||laexchange.top^
+||land.to^
+||landmen.shop^
+||laowaiblog.com^
+||launchaco.com^
+||leaguelineup.com^
+||leastupdate.top^
+||blog.lemonde.fr^
+||lernt.de^
+||lhosting.info^
+||liberty-blog.com^
+||liebe.lc^
+||life3dblog.com^
+||like-blogs.com^
+||likesyou.org^
+||lima-city.de^
+||link4blogs.com^
+||links.lc^
+||spaces.live.com^
+||live-stream.eu^
+||live2.de^
+||liveblog365.com^
+||livebloggs.com^
+||livedoor.jp^
+||livehost.fr^
+||liveplan.club^
+||logdown.com^
+||loggy.nl^
+||loginblogin.com^
+||look.in^
+||look4blog.com^
+||losblogos.com^
+||loveslife.biz^
+||lowescouponn.com^
+||loxblog.com^
+||lspmr.org^
+||ltfblog.com^
+||lu.kg^
+||lucialpiazzale.com^
+||luwebs.com^
+||luzzati.com^
+||lydincentives.com^
+||m.vu^
+||ma.gp^
+||ma-page.fr^
+||macao.net^
+||maddsites.com^
+||madmouseblog.com^
+||mail.ht^
+||majesticbank.at^
+||majesticbank.de^
+||maktoobblog.com^
+||malltree.shop^
+||maminforum.com^
+||manfeature.club^
+||mapsweight.shop^
+||mashstaffing.com^
+||master.com^
+||mastertopforum.net^
+||mastertopforum.org^
+||mdkblog.com^
+||mdtwo.top^
+||me.gp^
+||me.ly^
+||mediafirex.icu^
+||medianewsonline.com^
+||mee.nu^
+||meelou.top^
+||megabyet.net^
+||meilleurforum.com^
+||memoryislife.com^
+||menstudent.shop^
+||merchats.com^
+||metplxx.com^
+||mex.tl^
+||mforos.com^
+||miarroba.com^
+||middletownsd.org^
+||mihanblog.com^
+||mindmix.ru^
+||mindnmagick.com^
+||misoya.shop^
+||mit-wenig-geld.de^
+||mixh.jp^
+||mizum.site^
+||mkexperiment.best^
+||mobi.ps^
+||mobinteg.com^
+||mochahost.com^
+||moneyash.top^
+||moneylower.top^
+||monoblog.ir^
+||mozello.com^
+||mp3.cr^
+||mpeblog.com^
+||mtradi.top^
+||muf.mobi^
+||multiblog.com^
+||multiply.com^
+||musik.cx^
+||musik.lc^
+||muskacademy.best^
+||mw.hu^
+||mx.gp^
+||my.gp^
+||xzf.my.id^
+||my-board.org^
+||my-free.website^
+||my-place.us^
+||my-style.in^
+||my-webs.org^
+||my1.ru^
+||my3gb.com^
+||myartsonline.com^
+||mybb.im^
+||mybb.pw^
+||mybb.rocks^
+||mybb.ru^
+||mybb.social^
+||myblog.de^
+||myblog.it^
+||mybloglicious.com^
+||mybluehost.me^
+||mybluehostin.me^
+||mybuzzblog.com^
+||myconfinedspace.com^
+||mycpanel.rs^
+||mydiscussion.net^
+||myeweb.net^
+||myfoolmoon.com^
+||myfreeforum.org^
+||myfreesites.net^
+||mygamesonline.org^
+||myparisblog.com^
+||mypcprotech.com^
+||myportfolio.com^
+||mypressonline.com^
+||myspacecdn.com^
+||mysteria.cz^
+||mywebcommunity.org^
+||n.gp^
+||nabble.com^
+||name.ac^
+||name.vg^
+||nanacity.com^
+||narod.ru^
+||nathan.to^
+||nazuka.net^
+||blog.so-net.ne.jp^
+||nearlyfreespeech.net^
+||neocities.org^
+||cricket.net.au^
+||inter.net.il^
+||netspace.net.au^
+||prima.net.ar^
+||vpn.net.br^
+||netai.net^
+||netcipia.com^
+||netfast.org^
+||netfreehost.com^
+||nethouse.ru^
+||netten.ru^
+||netz.tl^
+||newbigblog.com^
+||newmail.ru^
+||newsbloger.com^
+||nexgenelectricct.com^
+||ngontinh24.com^
+||nichesite.org^
+||nikoha.shop^
+||niloblog.com^
+||nireblog.com^
+||nizarblog.com^
+||nl.gp^
+||nl.kg^
+||noads.biz^
+||noblogs.org^
+||nobody.jp^
+||nofeeshost.com^
+||nokojp.shop^
+||now.lc^
+||npx.de^
+||nstemp.com^
+||nut.cc^
+||nuvox.net^
+||nyanyash.ru^
+||nyashk.ru^
+||nyccards.shop^
+||nyccenter.shop^
+||blogs.nytimes.com^
+||o.gp^
+||o-f.com^
+||o7.pl^
+||oblogation.com^
+||of-love.de^
+||offi-ciall.com^
+||officialcity.shop^
+||officialsitebuilder.com^
+||okdfhb.art^
+||oki-store.top^
+||okis.ru^
+||okistore.shop^
+||omas.in^
+||on.gp^
+||on.lc^
+||on-air.de^
+||onbloglist.com^
+||one-move.top^
+||onepage.website^
+||onesmablog.com^
+||onlc.fr^
+||online.cm^
+||online.cr^
+||online.gp^
+||online.ly^
+||online.tc^
+||online-net.de^
+||onlineweb.shop^
+||onlinewebshop.net^
+||only4u.eu^
+||ontheweb.nu^
+||onwebbox.com^
+||onzeblog.com^
+||oooninja.com^
+||openinglook.shop^
+||opensea-claimnft.com^
+||opisial.com^
+||orangeusa.shop^
+||orderedlinks.shop^
+||24.org.es^
+||orgfree.com^
+||orgsites.com^
+||osc.pl^
+||ourcodeblog.com^
+||outoverall.shop^
+||over-blog.com^
+||over-blog.fr^
+||over-blog.it^
+||over-blog.net^
+||over-blog.org^
+||overblog.com^
+||overblog.net^
+||own-free-website.com^
+||ozq.de^
+||p.gp^
+||p2a.pl^
+||p2blogs.com^
+||pacbell.net^
+||page.tl^
+||page-suspension.net^
+||page4.com^
+||page4.me^
+||pages10.com^
+||pagexl.com^
+||paginawebgratis.es^
+||pancake.run^
+||panel-1.de^
+||parisgrocery.top^
+||parknhost.com^
+||parsiblog.com^
+||party.lc^
+||pc.lc^
+||pcbusiness.club^
+||pcriot.com^
+||pe.gp^
+||pe.hu^
+||perfektionieren.de^
+||perl.sh^
+||ph.gp^
+||phaustria.my^
+||phonecode.club^
+||phorum.pl^
+||photos.lc^
+||phpbb.net^
+||phpnet.org^
+||phpnet.us^
+||piczo.com^
+||pillowfort.io^
+||pimpedhost.com^
+||pirchio.com^
+||pixelt.de^
+||pizzakeep.shop^
+||pk.gp^
+||pktriot.net^
+||pl.de^
+||pl.gp^
+||pl-oferta-id2387942371.top^
+||planet.tl^
+||pnsiayfas.net^
+||podia.com^
+||pointblog.net^
+||populr.me^
+||populus.ch^
+||populus.org^
+||popup-blog.com^
+||portal.lc^
+||portfoliopen.com^
+||post-blogs.com^
+||postbit.com^
+||posterous.com^
+||postmanall.site^
+||power-heberg.com^
+||pressname.club^
+||preview-domain.com^
+||primetap.com^
+||privat.lc^
+||pro.ac^
+||pro.vg^
+||pro3.de^
+||proboards.com^
+||prodepl.top^
+||profis.info^
+||profreehost.com^
+||proginfortrad.top^
+||prohosts.org^
+||prosite.com^
+||prublogger.com^
+||prv.pl^
+||psend.com^
+||pt.gp^
+||pt.kg^
+||pun.pl^
+||pwttr.xyz^
+||pytal.de^
+||q.gp^
+||q77.eu^
+||qipim.ru^
+||ql4h.net^
+||qodsblog.com^
+||qowap.com^
+||qu.am^
+||quiztionnaire.uk^
+||r.gp^
+||radiola.club^
+||raidersfanteamshop.com^
+||rdtre.net^
+||re2.de^
+||realscienceblogs.com^
+||reblog.hu^
+||recentblog.net^
+||reco.ws^
+||regruhosting.ru^
+||rentvalues.biz^
+||rentweek.shop^
+||blogautore.repubblica.it^
+||rest7.com^
+||review-blogger.com^
+||revk.uk^
+||rf.gd^
+||rigala.net^
+||rimmablog.com^
+||ro.gp^
+||romesuper.shop^
+||royal-host.com^
+||rozblog.com^
+||rssing.com^
+||ru.cm^
+||ru.gg^
+||ru.gp^
+||ru.nu^
+||bookp.ru.com^
+||euspray.ru.com^
+||sexpay.ru.com^
+||rubberphone.shop^
+||rumahweb.org^
+||runhosting.com^
+||s.gp^
+||s4usf.com^
+||sa.gp^
+||citybios.sa.com^
+||lifecycle.sa.com^
+||lineroaming.sa.com^
+||regentcoin.sa.com^
+||safe-girogate.com^
+||safe-ws.de^
+||safwhatsapp.top^
+||salesnote.club^
+||sapabayeshops.shop^
+||sblog.cz^
+||schmust.de^
+||schoolrack.com^
+||schulserver.de^
+||scienceontheweb.net^
+||se.gp^
+||search.gp^
+||sebipay.com^
+||secaraa.online^
+||secureonline.store^
+||seesaa.net^
+||dcr.sehlat.io^
+||seilodown.ru^
+||seite.com^
+||seite.info^
+||seite.ru^
+||seite24.eu^
+||seite77.de^
+||sekigu.xyz^
+||sendspace.com^
+||serpgold.com^
+||serv00.net^
+||server.gg^
+||server.tl^
+||server2.eu^
+||server3.eu^
+||server4free.de^
+||service.lc^
+||share.lc^
+||sharebyblog.com^
+||sharkserve.com^
+||blog.shinobi.jp^
+||shohu.shop^
+||shop.co^
+||shop.fm^
+||shop-pro.jp^
+||shop2.de^
+||shopping.cr^
+||shopping.hn^
+||shotblogs.com^
+||shoutmyblog.com^
+||shoutpost.com^
+||simdif.com^
+||simplesite.com^
+||simpsite.nl^
+||site.pro^
+||site123.me^
+||site90.net^
+||sitego.fr^
+||sitegoz.com^
+||sitelio.me^
+||sitepalace.com^
+||siterubix.com^
+||sitew.ca^
+||sitew.com^
+||sitew.fr^
+||sitowebfaidate.it^
+||sjuyouhui.top^
+||skul.de^
+||skyblog.com^
+||skyblog.fr^
+||skyrock.com^
+||slashcity.org^
+||sliceblog.com^
+||slypage.com^
+||smblogsites.com^
+||smffy.com^
+||sms.cr^
+||snack-blog.com^
+||snn.gr^
+||social-networking.me^
+||solidwebhost.com^
+||some-trade.com^
+||somee.com^
+||sophiashantidaniel.com^
+||sosblog.com^
+||sosblog.fr^
+||soulcast.com^
+||soundtrue.club^
+||soup.io^
+||space.lc^
+||space-blogs.com^
+||space4free.de^
+||spaceplay.top^
+||spaintrade.shop^
+||spintheblog.com^
+||sport-pro.de^
+||sportsontheweb.net^
+||spruz.com^
+||square7.ch^
+||srv1.org^
+||ss-blog.jp^
+||ssnblog.com^
+||st20.com^
+||standardseoservices.com^
+||starman.ee^
+||start.lc^
+||startertjes.nl^
+||stormloader.com^
+||stormpages.com^
+||subdomain.de^
+||suchtis.de^
+||suomiblog.com^
+||superforum.fr^
+||superweb.ws^
+||support-rbs.digital^
+||sv.gp^
+||sv-whatsapp.top^
+||svsy.my^
+||swbell.net^
+||sweb.cz^
+||sxx.in^
+||synergize.co^
+||szm.com^
+||szm.sk^
+||t.gp^
+||t35.com^
+||t50.us^
+||talk4fun.net^
+||tar.hu^
+||targetblogs.com^
+||taselavmy.shop^
+||tathamservice.com^
+||taxescosts.shop^
+||tblogz.com^
+||te4m.de^
+||teacup.com^
+||team.cx^
+||team.tl^
+||teamapp.com^
+||teamzonesports.com^
+||tearosediner.net^
+||techionblog.com^
+||teenradio.shop^
+||tehno-politen.ru^
+||tek-blogs.com^
+||telegrameyg.com^
+||telekom.at^
+||telepacific.net^
+||teleporthq.app^
+||telrock.org^
+||tempisite.com^
+||temporary-demo.site^
+||temu-jp.shop^
+||tentbuildingservices.eu^
+||terapad.com^
+||test.lc^
+||testingnow.me^
+||tgpropower.top^
+||th.gp^
+||the-finance-world.com^
+||theblog.me^
+||theblogaddict.com^
+||theblogfairy.com^
+||theburnward.com^
+||thechapblog.com^
+||theglensecret.com^
+||theideasblog.com^
+||theisblog.com^
+||thekatyblog.com^
+||thelateblog.com^
+||thenerdsblog.com^
+||theobloggers.com^
+||therainblog.com^
+||thezenweb.com^
+||thisistap.com^
+||tianyablog.com^
+||tie.cl^
+||tiiny.host^
+||tilda.cc^
+||tilda.ws^
+||tildacdn.com^
+||timeblog.net^
+||timeforchangecounselling.com^
+||tinyblogging.com^
+||tkzblog.com^
+||tld.cc^
+||toastmastersclubs.org^
+||tokka-blog.com^
+||tokusi.shop^
+||tokyoca.top^
+||tooum.com^
+||top.lc^
+||top.tc^
+||top8.com^
+||topbloghub.com^
+||total-blog.com^
+||totalh.net^
+||ftp.totallyanonymous.com^
+||tqhmu.cn^
+||tr.gg^
+||tr.gp^
+||track-app1e.live^
+||trackfinanceworld.com^
+||trend.in^
+||trexgame.net^
+||triadw.top^
+||tribalpages.com^
+||tribunablog.com^
+||tripod.com^
+||troove.top^
+||truistcooperative.com^
+||tsure.shop^
+||ttblogs.com^
+||tumbex.com^
+||tumblrgallery.com^
+||tuna.be^
+||turbo.site^
+||turkish.lc^
+||tusblogos.com^
+||tutorial-blog.net^
+||tuxfamily.org^
+||tw.gp^
+||tw1.ru^
+||tweakblogs.net^
+||u.gp^
+||ua.gp^
+||ubpages.com^
+||uci.pl^
+||ucoz.com^
+||ucoz.de^
+||ucoz.fr^
+||ucoz.hu^
+||ucoz.lv^
+||ucoz.net^
+||ucoz.org^
+||ucoz.pl^
+||ucoz.ro^
+||ucoz.ru^
+||ucoz.ua^
+||ueuo.com^
+||ugu.pl^
+||ujm.pl^
+||uk.cr^
+||uk.gp^
+||uk.nu^
+||uk.st^
+||ukit.me^
+||ukrtel.net^
+||ultim-blog.com^
+||ultimatefreehost.in^
+||ultimatescrubsmore.shop^
+||umbler.net^
+||unaux.com^
+||unblog.fr^
+||underxdown.com^
+||undonet.com^
+||untergrund.net^
+||uphero.com^
+||uploader.eu^
+||urlaub.lc^
+||us.nf^
+||us.st^
+||usa.gg^
+||usafreespace.com^
+||usclargo.com^
+||user.lc^
+||ussource.club^
+||blogs.uv.es^
+||uz.gp^
+||uzblog.net^
+||v.gp^
+||v0r.org^
+||vblogetin.com^
+||vdxh.com^
+||ve.gp^
+||veritafinancebank.com^
+||verkniffen.de^
+||verybigblog.com^
+||viabloga.com^
+||videopaul.shop^
+||vidublog.com^
+||vip-blog.com^
+||vipfree.us^
+||virtue.nu^
+||virus.in^
+||vmn.net^
+||vn.gp^
+||voellig-daneben.de^
+||vollidiot.net^
+||vollsten.de^
+||voten.in^
+||vpswala.org^
+||vxub.com^
+||vxwezsp.cn^
+||vz.lc^
+||wallinside.blog^
+||wallinside.com^
+||wallst.ru^
+||wantedland.shop^
+||wapka.club^
+||wapka.org^
+||wapka.site^
+||wapka.store^
+||wapka.top^
+||wapka.website^
+||wapka.xyz^
+||waptrad.top^
+||warhead.com^
+||warp0.com^
+||watsica.sbs^
+||web.gg^
+||web.pe^
+||web-chat.eu^
+||web-clan.de^
+||web-log.nl^
+||web1000.com^
+||web1337.net^
+||web4free.eu^
+||webadorsite.com^
+||webatu.com^
+||webblog24.de^
+||webblogg.se^
+||webbuzzfeed.com^
+||webcindario.com^
+||webdesign96.com^
+||webflow.io^
+||webfreehosting.net^
+||webgarden.com^
+||webgarden.es^
+||weblium.com^
+||weblium.site^
+||weblogco.com^
+||weblogs.jp^
+||weblogs.us^
+||webng.com^
+||webnode.app^
+||webnode.at^
+||webnode.be^
+||webnode.bo^
+||webnode.cat^
+||webnode.cl^
+||webnode.cn^
+||webnode.co^
+||webnode.com^
+||webnode.cr^
+||webnode.cz^
+||webnode.dk^
+||webnode.do^
+||webnode.ec^
+||webnode.es^
+||webnode.fi^
+||webnode.fr^
+||webnode.gr^
+||webnode.hr^
+||webnode.hu^
+||webnode.in^
+||webnode.info^
+||webnode.it^
+||webnode.jp^
+||webnode.kr^
+||webnode.lv^
+||webnode.mx^
+||webnode.nl^
+||webnode.no^
+||webnode.page^
+||webnode.pe^
+||webnode.pt^
+||webnode.ro^
+||webnode.ru^
+||webnode.se^
+||webnode.sk^
+||webnode.tw^
+||webnode.vn^
+||webobo.com^
+||webs.com^
+||webself.net^
+||webselfsite.net^
+||webservis.ru^
+||websimages.com^
+||website.at^
+||website.org^
+||website-home.ws^
+||website2.me^
+||websitehostfree.com^
+||webspawner.com^
+||webstarts.com^
+||webwave.dev^
+||webzdarma.cz^
+||weebly.com^
+||weeblysite.com^
+||welt.tl^
+||wentiso.top^
+||werite.net^
+||whampl.top^
+||widblog.com^
+||widezone.net^
+||wifeo.com^
+||wiki.lc^
+||will-dich.eu^
+||win-blog.com^
+||web.core.windows.net^
+||alerts.wisc.edu^
+||wixsite.com^
+||wizzardsblog.com^
+||wopop.com^
+||wordpress.de^
+||workplan.club^
+||world.mu^
+||world-blog.de^
+||world-store.de^
+||worldblogged.com^
+||worldsoffinance.com^
+||wox.cc^
+||wpmudev.org^
+||wpsuo.com^
+||writes.de^
+||wssblogs.com^
+||wtcsites.com^
+||www4.me^
+||wy5532.com^
+||x.gp^
+||x10.bz^
+||x9.eu^
+||x90x.net^
+||xanco.com^
+||xanga.com^
+||xaper.com^
+||xbl0g.com^
+||xblog.in^
+||xbloggers.com^
+||xdiheu.cn^
+||xinei.shop^
+||xl.lc^
+||xml.in^
+||xn.pl^
+||xobor.de^
+||xooit.com^
+||xooit.fr^
+||xp3.biz^
+||xrs.net^
+||xsl.tel^
+||xsltel.com^
+||xtgem.com^
+||xtreemhost.com^
+||xuu.pl^
+||xx.lc^
+||xxl.lc^
+||xxxxxxxx.jp^
+||xzblogs.com^
+||y.gp^
+||y0.pl^
+||y55.eu^
+||yamagim.shop^
+||yamanoha.com^
+||ygrrvlvvgf.top^
+||yi.org^
+||yj.ae^
+||yola.com^
+||yolasite.com^
+||yomoblog.com^
+||yoo7.com^
+||yooco.org^
+||you.lc^
+||yourbar.club^
+||yourdomain.com^
+||yourfreehosting.net^
+||yourjavascript.com^
+||yousher.com^
+||yovip.net^
+||yuichi.shop^
+||yuku.com^
+||z.gp^
+||za.gp^
+||za.net^
+||awi.za.com^
+||baxiys.za.com^
+||ishg.za.com^
+||zamsblog.com^
+||zapacesauto.shop^
+||zeblog.com^
+||zensurfrei.com^
+||zepatifcommerce.shop^
+||ziblogs.com^
+||zjxjmp.cn^
+||zoekvinden.nl^
+||zoomblog.com^
+||zoomshare.com^
+||zustimmen.de^
+||zx9.de^
+||zymic.com^
+!
+!-------------------------------------------------------------------!
+!-------------------- Click2Load -----------------------------------!
+!-------------------------------------------------------------------!
+!
+||airtable.com/embed*$3p,frame,redirect=click2load.html
+||art19.com/shows/$3p,frame,redirect=click2load.html
+||bandcamp.com/EmbeddedPlayer/$3p,frame,redirect=click2load.html
+!||codepen.io/$3p,frame,redirect=click2load.html
+!||cdpn.io/$3p,frame,redirect=click2load.html
+||checkout.shopify.com/$3p,frame,redirect=click2load.html
+||codepen.io/hubspot/embed/$3p,frame,redirect=click2load.html,domain=~theodinproject.com
+||dexscreener.com/$3p,frame,redirect=click2load.html
+||discuss.privacyguides.net/embed/$3p,frame,redirect=click2load.html
+||docs.google.com/$3p,frame,redirect=click2load.html
+||docs.google.com/document/d/e/$3p,frame,redirect=click2load.html
+||docs.google.com/forms/$3p,frame,redirect=click2load.html
+||docs.google.com/presentation/d/e/$3p,frame,redirect=click2load.html
+||docs.google.com/spreadsheets/$3p,frame,redirect=click2load.html
+||docs.google.com/viewer*$3p,frame,redirect=click2load.html
+||drive.google.com/file/$3p,frame,redirect=click2load.html
+||embed.acast.com/$3p,frame,redirect=click2load.html
+||embed.documentcloud.org/$3p,frame,redirect=click2load.html
+||embed.music.apple.com/$3p,frame,redirect=click2load.html
+||embed.podcasts.apple.com/$3p,frame,redirect=click2load.html
+||embed.ted.com/$3p,frame,redirect=click2load.html
+||glitch.com/embed/$3p,frame,redirect=click2load.html
+||google.com/maps/embed$3p,frame,redirect=click2load.html
+||html5-player.libsyn.com/embed/$3p,frame,redirect=click2load.html
+||iframe.videodelivery.net/$3p,frame,redirect=click2load.html
+||loom.com/embed/$3p,frame,redirect=click2load.html
+||open.spotify.com/embed-podcast/$3p,frame,redirect=click2load.html
+||open.spotify.com/embed/$3p,frame,redirect=click2load.html
+||player.blubrry.com/$3p,frame,redirect=click2load.html
+||player.captivate.fm^$3p,frame,redirect=click2load.html
+||player.hotmart.com/$3p,frame,redirect=click2load.html
+||player.megaphone.fm/$3p,frame,redirect=click2load.html
+||player.simplecast.com^$3p,frame,redirect=click2load.html
+||player.twitch.tv/$3p,frame,redirect=click2load.html
+||player.vimeo.com/video^$3p,frame,redirect=click2load.html,domain=~bing.com|~google.com|~duckduckgo.com|~openai.com|~video.search.yahoo.com|~window-swap.com
+||playlist.megaphone.fm/$3p,frame,redirect=click2load.html
+||podbean.com/player-v2/$3p,frame,redirect=click2load.html
+||quizlet.com/$3p,frame,redirect=click2load.html
+||reddit.com/mediaembed/$3p,frame,redirect=click2load.html
+||s3.amazonaws.com/embed.animoto.com/$3p,frame,redirect=click2load.html
+!#if env_chromium
+! https://github.com/uBlockOrigin/uBlock-issues/issues/3088
+||safe.txmblr.com^$3p,frame,redirect=click2load.html
+!#endif
+||scribd.com/embeds/$3p,frame,redirect=click2load.html
+||stay22.com/embed/$3p,frame,redirect=click2load.html
+||static.vidgyor.com/player/$3p,frame,redirect=click2load.html
+||traderjoexyz.com/$3p,frame,redirect=click2load.html
+||trinitymedia.ai/player/trinity-player.php*$3p,frame,redirect=click2load.html
+||truthsocial.com^$3p,frame,redirect=click2load.html
+||twitch.tv^$3p,frame,redirect=click2load.html
+||vimeo.com/event/$3p,frame,redirect=click2load.html,domain=~bing.com|~google.com|~duckduckgo.com|~video.search.yahoo.com
+||view.genial.ly$3p,frame,redirect=click2load.html
+||volume.vox-cdn.com/embed/$3p,frame,redirect=click2load.html
+||w.soundcloud.com/player/$3p,frame,redirect=click2load.html
+!||youtube-nocookie.com^$3p,frame,redirect=click2load.html,domain=~bing.com|~google.com|~duckduckgo.com|~video.search.yahoo.com
+||youtube-nocookie.com/embed^$3p,frame,redirect=click2load.html,domain=~bing.com|~google.com|~duckduckgo.com|~video.search.yahoo.com
+! https://github.com/yokoffing/filterlists/pull/167
+! https://github.com/yokoffing/filterlists/pull/193
+||youtube.com^$3p,frame,redirect=click2load.html,domain=~bing.com|~chatreplay.stream|~google.com|~duckduckgo.com|~video.search.yahoo.com|~w2g.tv|~theguardian.com|~songsterr.com
+! https://github.com/yokoffing/filterlists/issues/161
+||vk.com/video_ext$3p,frame,redirect=click2load.html
+||rutube.ru/play/embed/$3p,frame,redirect=click2load.html
+!#endif
+
+!!! DO NOT BLOCK
+! Tiktok embeds, GIFs
+!||cdn.embedly.com/widgets/$3p,frame,redirect=click2load.html
+!||cdn.embedly.com/widgets/media.html*$3p,frame,redirect=click2load.html
+! GIFs
+!||gfycat.com/$3p,frame,redirect=click2load.html
+!
+!==============TLDS============
+!
+||actor^$doc
+||africa^$doc,domain=~nation.africa
+||agency^$doc,domain=~apptoro.agency|~baam.agency|~battlefield.agency|~byteful.agency|~robotzebra.agency|~uphotel.agency|~usenet.agency|~ws.agency
+||army^$doc,domain=~phishing.army
+||asia^$doc,domain=~amzn.asia|~bandainamcoent.asia|~dbankcloud.asia|~pansci.asia
+||auction^$doc
+||autos^$doc
+||baby^$doc
+||band^$doc
+||bar^$doc,domain=~fap.bar|~strem.bar
+||beauty^$doc
+||best^$doc,domain=~epg.best
+||bet^$doc
+||bid^$doc
+||bike^$doc,domain=~lime.bike|~rapido.bike
+||bingo^$doc
+||biz^$doc,domain=~anonymurl.biz|~beiniz.biz|~bonial.biz|~cloudns.biz|~cyberciti.biz|~epson.biz|~ette.biz|~gamesindustry.biz|~gimmeporn.biz|~hb.biz|~iimwf.biz|~knuddels.biz|~localise.biz|~luckysbarbershop.biz|~movabletype.biz|~notebookcheck.biz|~panasonic.biz|~slussen.biz|~volvocars.biz|~wiz.biz|~wyborcza.biz|~yoox.biz
+||black^$doc
+||blue^$doc
+||boats^$doc
+||bond^$doc
+||boo^$doc
+||boston^$doc
+||boutique^$doc
+||builders^$doc
+||business^$doc
+||buzz^$doc,domain=~sideb.buzz
+||cam^$doc
+||capital^$doc,domain=~scalable.capital
+||careers^$doc,domain=~commonspirit.careers
+||casa^$doc,domain=~nabu.casa
+||cash^$doc
+||casino^$doc
+||center^$doc,domain=~priv.center
+||ceo^$doc
+||cfd^$doc,domain=~freedium.cfd
+||charity^$doc
+||christmas^$doc
+||church^$doc,domain=~host.church|~life.church|~online.church
+||city^$doc,domain=~bypass.city|~ops.city
+||claims^$doc
+||click^$doc,domain=~buybox.click|~popcat.click|~popdog.click|~qr-code.click|~ravelin.click
+||clothing^$doc
+||club^$doc,domain=~digipres.club|~hd-olimpo.club|~mbcherohub.club|~skin.club|~thelemmy.club
+||college^$doc
+||computer^$doc,domain=~libre.computer|~neat.computer|~silly.computer
+||cool^$doc,domain=~cnyes.cool|~shirtz.cool
+||coupons^$doc
+||cymru^$doc
+||cyou^$doc,domain=~hammertime.cyou
+||dad^$doc,domain=~classic.dad|~daily.dad|~dear.dad|~gdflix.dad|~gdtot.dad|~rad.dad
+||dance^$doc
+||date^$doc,domain=~endoflife.date
+||dating^$doc,domain=~boo.dating|~gaudi.dating
+||day^$doc
+||deals^$doc,domain=~gg.deals
+||degree^$doc,domain=~opf.degree|~three60.degree
+||delivery^$doc
+||dental^$doc
+||desi^$doc,domain=~xhamster.desi
+||directory^$doc,domain=~2fa.directory|~fedi.directory|~passkeys.directory|~reactnative.directory
+||discount^$doc,domain=~real.discount
+||diy^$doc
+||dog^$doc
+||download^$doc,domain=~mkvtoolnix.download|~up4ever.download|~upfiles.download
+||eco^$doc,domain=~play.eco
+||esq^$doc,domain=~erika.esq
+||events^$doc,domain=~ticketco.events
+||expert^$doc,domain=~malware.expert
+||fan^$doc,domain=~lemmy.fan
+||fashion^$doc
+||finance^$doc
+||financial^$doc
+||fishing^$doc
+||fit^$doc,domain=~appetit.fit|~clubb.fit|~justget.fit|~pridegym.fit|~union.fit
+||fitness^$doc
+||foo^$doc,domain=~helloworld.foo
+||forsale^$doc
+||foundation^$doc,domain=~e.foundation|~grapheneos.foundation|~jp.foundation|~player.foundation
+||fund^$doc
+||fyi^$doc,domain=~apollo.fyi|~better.fyi|~genderdysphoria.fyi|~iusearchlinux.fyi|~levels.fyi|~lunar.fyi|~vercel.fyi
+||gdn^$doc,domain=~cst.gdn
+||gent^$doc
+||gift^$doc,domain=~discord.gift
+||gives^$doc
+||giving^$doc
+||glass^$doc,domain=~domain.glass
+||gold^$doc
+||golf^$doc
+||gratis^$doc
+||green^$doc
+||guide^$doc,domain=~cfw.guide|~discordjs.guide|~hacks.guide|~homebrew.guide|~opensource.guide|~ripped.guide|~site.guide|~wii.guide|~zig.guide
+||guru^$doc,domain=~bahn.guru|~base64.guru|~crontab.guru|~greenlight.guru|~jav.guru|~ludwig.guru|~watcher.guru|~webcal.guru
+||hair^$doc
+||haus^$doc
+||health^$doc,domain=~sca.health
+||healthcare^$doc
+||help^$doc,domain=~fastmail.help|~kustomer.help
+||homes^$doc,domain=~stremio.homes
+||icu^$doc,domain=~fastdl.icu|~lunar.icu|~mon.icu
+||ink^$doc,domain=~filepress.ink|~ishortn.ink|~next.ink|~shrinkme.ink|~sumerian.ink|~work.ink
+||international^$doc
+||irish^$doc
+||kim^$doc
+||lat^$doc
+||legal^$doc,domain=~doctolib.legal|~wbs.legal
+||lgbt^$doc,domain=~tech.lgbt
+||life^$doc,domain=~2ch.life|~akamaicdn.life|~circles.life|~colorgame.life|~digitalcitizen.life|~iboost.life|~lifetime.life|~loveinfaith.life|~stepone.life|~via.life|~yiff.life
+||lifestyle^$doc
+||llp^$doc
+||loan^$doc
+||loans^$doc
+||locker^$doc
+||lol^$doc,domain=~adsb.lol|~ags.lol|~browser.lol|~dankmemer.lol|~fmhy.lol|~hubcloud.lol|~io.lol|~lemy.lol|~library.lol|~nexdrive.lol|~nos.lol|~noted.lol|~objection.lol|~omg.lol|~paste.lol|~proven.lol|~social.lol|~status.lol|~vcloud.lol|~weblog.lol|~wpp.lol
+||love^$doc
+||ltd^$doc,domain=~homebrew.ltd|~picsee.ltd|~swizzin.ltd
+||luxe^$doc
+||makeup^$doc,domain=~bird.makeup
+||management^$doc
+||market^$doc,domain=~digiseller.market|~otto.market|~plati.market|~poly.market|~spotim.market|~warframe.market
+||markets^$doc
+||mba^$doc
+||men^$doc,domain=~virgile.men
+||miami^$doc
+||ml^$doc,domain=~aire.ml|~amap.ml|~fmhy.ml|~google.ml|~info-matin.ml|~lemmygrad.ml|~lemmy.ml|~lingva.ml|~loma.ml|~mastodon.ml|~melody.ml|~precure.ml|~prompt.ml
+||moda^$doc
+||moe^$doc,domain=~catbox.moe|~ddlc.moe|~mathi.moe
+||mom^$doc
+||money^$doc,domain=~flowyour.money|~unstoppable.money|~vivid.money
+||monster^$doc,domain=~cloudcdn.monster|~fedi.monster|~mortgage.monster|~rollenspiel.monster|~tts.monster|~yts.monster
+||motorcycles^$doc
+||mov^$doc,domain=~david.mov|~peerflix.mov|~spankbang.mov
+||name^$doc
+||navy^$doc
+||new^$doc,domain=~bolt.new|~doc.new|~drawing.new|~form.new|~git.new|~lecture.new|~postgres.new|~sheet.new|~site.new|~slide.new
+||non^$doc
+||okinawa^$doc
+||ong^$doc
+||ooo^$doc,domain=~toast.ooo
+||partners^$doc,domain=~stripe.partners|~xh.partners
+||parts^$doc
+||party^$doc,domain=~ducks.party|~mstdn.party|~ntc.party|~spankbang.party
+||pet^$doc,domain=~kickthespy.pet|~kuma.pet
+||pharmacy^$doc,domain=~safe.pharmacy
+||phd^$doc,domain=~rafael.phd
+||photo^$doc
+||photos^$doc,domain=~picsum.photos
+||pics^$doc,domain=~pixers.pics|~sexhd.pics|~slow.pics|~twic.pics
+||pictures^$doc,domain=~comick.pictures|~pornhoarder.pictures
+||pink^$doc
+||pizza^$doc,domain=~tux.pizza
+||place^$doc,domain=~gamedev.place
+||plus^$doc,domain=~pahe.plus
+||poker^$doc
+||post^$doc
+||prof^$doc,domain=~casey.prof
+||promo^$doc
+||pub^$doc,domain=~infosec.pub|~static.pub|~wapo.pub
+||qpon^$doc
+||quest^$doc,domain=~dice.quest|~epochal.quest|~mhn.quest|~mylegendary.quest|~prometheus.quest|~raccoon.quest
+||realtor^$doc
+||recipes^$doc
+||red^$doc,domain=~bunkr.red|~sci-hub.red|~xvideos.red
+||rehab^$doc
+||ren^$doc
+||rent^$doc,domain=~srv.rent
+||rest^$doc,domain=~insomnia.rest|~nect.rest
+||restaurant^$doc
+||review^$doc
+||rich^$doc
+||rip^$doc,domain=~highquality.rip|~medium.rip|~nest.rip|~scribe.rip
+||rodeo^$doc
+||rugby^$doc
+||sale^$doc
+||sbs^$doc
+||schule^$doc
+||science^$doc,domain=~canonn.science|~hal.science|~wander.science
+||sew^$doc
+||sexy^$doc,domain=~privacy.sexy|~terminal.sexy
+||shop^$doc,domain=~11ts.shop|~chessvibes.shop|~eventix.shop|~freshtorge.shop|~geekchic.shop|~grnk.shop|~grog.shop|~henssler.shop|~munu.shop|~sentry.shop|~swedish-supplements.shop|~terminal.shop|~urlbluemedia.shop
+||shopping^$doc
+||show^$doc,domain=~camz.show
+||site^$doc,domain=~7mb.site|~aftermath.site|~claude.site|~fbsmarthome.site|~gov-img.site|~notion.site|~onrocket.site|~platformsh.site|~privacy-test-pages.site|~reddit-doesnt-like-this.site|~wishonly.site|~wolow.site|~wpdns.site
+||skin^$doc,domain=~quermbbd.skin
+||solar^$doc,domain=~forecast.solar|~optimizer.solar
+||space^$doc,domain=~dragonscave.space|~drgns.space|~hf.space|~httpjames.space|~hullseals.space|~hyper.space|~infosec.space|~ippen.space|~keyboard-test.space|~latent.space|~link.space|~mapstodon.space|~melmac.space|~mempool.space|~metahub.space|~monitorburz.space|~ocr.space|~oldbytes.space|~qwik.space|~searx.space|~takeb1nzyto.space|~truepeople.space
+||sport^$doc
+||store^$doc,domain=~adidashardware.store|~cleanmasters.store|~g-h.store|~iqunix.store|~shoplazza.store|~stan.store|~tatemcraeeu.store|~tatemcrae.store|~timberjacks.store
+||studio^$doc
+||style^$doc,domain=~primer.style
+||su^$doc,domain=~encode.su|~jpg4.su|~jpg5.su|~promportal.su|~saint2.su
+||support^$doc,domain=~ada.support|~jitsi.support
+||surf^$doc,domain=~s-wings.surf
+||sydney^$doc
+||tattoo^$doc
+||tax^$doc
+||taxi^$doc
+||tk^$doc,domain=~bstweaker.tk|~budterence.tk|~c-r-t.tk|~google.tk|~goshujin.tk|~kabi.tk|~sironi.tk|~tokelau-info.tk|~xn--qubec-csa.tk|~zete.tk
+||today^$doc,domain=~archive.today|~futurology.today|~lemmy.today|~oldweb.today
+||tokyo^$doc
+||top^$doc,domain=~ambr.top|~caitlin.top|~chillx.top|~corriente.top|~edgeless.top|~mastodon.top|~mianbeian.top|~nfmirrorcdn.top|~pegelinux.top|~reminder.top|~saltwood.top|~shucks.top|~strims.top|~suiten.top|~thedesk.top|~vsdb.top
+||town^$doc
+||trade^$doc,domain=~composer.trade|~kite.trade
+||trading^$doc
+||uno^$doc,domain=~platform.uno
+||vacations^$doc
+||vegas^$doc
+||ventures^$doc
+||vin^$doc
+||vip^$doc,domain=~18comic.vip|~liberta.vip|~ryde.vip|~stream.vip|~vidstream.vip|~yesporn.vip
+||vision^$doc
+||vlaanderen^$doc
+||vote^$doc,domain=~arizona.vote
+||voto^$doc
+||wang^$doc
+||webcam^$doc
+||website^$doc,domain=~acro.website|~bestmotherfucking.website|~eddie.website|~thatsup.website|~tilde.website|~uphold.website
+||wedding^$doc
+||wiki^$doc,domain=~bg3.wiki|~burnout.wiki|~datei.wiki|~fallout.wiki|~getindie.wiki|~hacktricks.wiki|~hollowknight.wiki|~kodi.wiki|~kometa.wiki|~libreelec.wiki|~manson.wiki|~mediaclients.wiki|~minecraft.wiki|~modding.wiki|~namu.wiki|~nixos.wiki|~notifiarr.wiki|~osrs.wiki|~rs.wiki|~runescape.wiki|~severance.wiki|~tajrobe.wiki|~tardis.wiki|~thehomelab.wiki|~usermanual.wiki|~w.wiki|~zeppelin.wiki
+||win^$doc,domain=~activated.win
+||wine^$doc,domain=~nostr.wine
+||work^$doc,domain=~doesmycode.work|~frame.work|~koding.work|~mirror.work
+||world^$doc,domain=~boo.world|~calckey.world|~camhub.world|~lemmy.world|~mastodon.world|~maxwellcat.world|~shitposter.world|~unidays.world|~userstyles.world|~wetdry.world|~wiz.world
+||wtf^$doc,domain=~akko.wtf|~lemmy.wtf|~myip.wtf|~tigress.wtf|~wxx.wtf|~xo.wtf
+||xin^$doc
+||yachts^$doc,domain=~sinking.yachts
+||you^$doc
+||zip^$doc,domain=~community.zip|~financialstatement.zip|~lemmy.zip|~uploaded-files.zip|~url.zip
+||рус^$doc
+||कॉम^$doc
+||セール^$doc
+||佛山^$doc
+||ಭಾರತ^$doc
+||慈善^$doc
+||集团^$doc
+||在线^$doc
+||한국^$doc
+||ଭାରତ^$doc
+||大众汽车^$doc
+||点看^$doc
+||คอม^$doc
+||ভাৰত^$doc
+||ভারত^$doc
+||八卦^$doc
+||موقع^$doc
+||বাংলা^$doc
+||公益^$doc
+||公司^$doc
+||香格里拉^$doc
+||网站^$doc
+||移动^$doc
+||我爱你^$doc
+||москва^$doc
+||қаз^$doc
+||католик^$doc
+||онлайн^$doc
+||сайт^$doc
+||联通^$doc
+||бг^$doc
+||бел^$doc
+||קום^$doc
+||时尚^$doc
+||微博^$doc
+||淡马锡^$doc
+||ファッション^$doc
+||नेट^$doc
+||ストア^$doc
+||アマゾン^$doc
+||삼성^$doc
+||சிங்கப்பூர்^$doc
+||商标^$doc
+||商店^$doc
+||商城^$doc
+||дети^$doc
+||мкд^$doc
+||ею^$doc
+||ポイント^$doc
+||新闻^$doc
+||كوم^$doc
+||家電^$doc
+||中文网^$doc
+||中信^$doc
+||中国^$doc
+||中國^$doc
+||娱乐^$doc
+||谷歌^$doc
+||భారత్^$doc
+||ලංකා^$doc
+||電訊盈科^$doc
+||购物^$doc
+||クラウド^$doc
+||ભારત^$doc
+||通販^$doc
+||भारतम्^$doc
+||भारत^$doc
+||网络^$doc
+||餐厅^$doc
+||संगठन^$doc
+||网店^$doc
+||भारोत^$doc
+||香港^$doc
+||亚马逊^$doc
+||诺基亚^$doc
+||食品^$doc
+||飞利浦^$doc
+||台湾^$doc
+||台灣^$doc
+||手机^$doc
+||الجزائر^$doc
+||عمان^$doc
+||ارامكو^$doc
+||ایران^$doc
+||العليان^$doc
+||اتصالات^$doc
+||امارات^$doc
+||بازار^$doc
+||موريتانيا^$doc
+||پاکستان^$doc
+||澳門^$doc
+||مليسيا^$doc
+||همراه^$doc
+||عراق^$doc
+||سودان^$doc
+||كاثوليك^$doc
+||ڀارت^$doc
+||السعودية^$doc
+||البحرين^$doc
+||ابوظبي^$doc
+||المغرب^$doc
+||بھارت^$doc
+||بارت^$doc
+||الاردن^$doc
+||닷컴^$doc
+||政府^$doc
+||شبكة^$doc
+||بيتك^$doc
+||عرب^$doc
+||გე^$doc
+||机构^$doc
+||组织机构^$doc
+||健康^$doc
+||政务^$doc
+||فلسطين^$doc
+||新加坡^$doc
+||இந்தியா^$doc
+||இலங்கை^$doc
+||广东^$doc
+||قطر^$doc
+||嘉里^$doc
+||嘉里大酒店^$doc
+||信息^$doc
+||企业^$doc
+||مصر^$doc
+||游戏^$doc
+||天主教^$doc
+||コム^$doc
+||닷넷^$doc
+||网址^$doc
+||ਭਾਰਤ^$doc
+||ഭാരതം^$doc
+||世界^$doc
+||書籍^$doc
+||グーグル^$doc
+||みんな^$doc
+||ລາວ^$doc
+||大拿^$doc
+||تونس^$doc
+||ไทย^$doc
+||سورية^$doc
+||招聘^$doc
+||рф^$doc
+||срб^$doc
+||орг^$doc
+||ком^$doc
+||укр^$doc
+||мон^$doc
+||ευ^$doc
+||ελ^$doc
+||հայ^$doc
+!
+!===========URL SHORTENERS=============
+!
+! gplinks all domains (gplinks.co/EWu8)
+@@*$ghide,domain=gplinks.*|sabkiyojana.com|thecryptomen.com
+thecryptomen.com,sabkiyojana.com##center:others()
+thecryptomen.com,sabkiyojana.com##+js(set, document.hidden, false)
+thecryptomen.com,sabkiyojana.com##+js(set-cookie, imps, 3, , reload, 1)
+thecryptomen.com,sabkiyojana.com##+js(aopw, AdBDetected)
+thecryptomen.com,sabkiyojana.com###SmileyBanner:remove()
+||api.gplinks.com/track/js/main.js$script,replace=/(var isOverGoogleAd = false;)([\s\S]*)(sendPostback\([\n\s\S]*?\))/\$1\$3;\$2\$3/
+gplinks.*##a.exclude-pop.smartlink, .exclude-pop.quiz-container, #PlayQuiz, #quiz-frame, .exclude-popad
+gplinks.*##+js(set, blurred, false)
+gplinks.*##+js(aopr, clickCount)
+||gamezop.com^$domain=gplinks.*
+*$script,3p,denyallow=cloudflare.com|github.io|google.com|googleapis.com|gstatic.com|hwcdn.net|jquery.com|recaptcha.net|tipsforce.com|unpkg.com,domain=gplinks.*
+
+! modijiurl.com/ZTnw
+modijiurl.com##+js(rpnt, script, /5000|100/gm, 10, condition, set)
+modijiurl.com##.animated.text-center, [href*="t.me/modijiurl"], .captcha-box > p, .ad-container, [src*="blogger"], [src*=".png"]
+call-bomber.info,kajernews.com,vyaapaarguru.in##+js(trusted-set, document.visibilityState, '{"value": "visible"}')
+call-bomber.info,kajernews.com,vyaapaarguru.in##+js(nostif, checkAds)
+call-bomber.info,kajernews.com,vyaapaarguru.in##+js(nano-sib, /.?/, *, 0.002)
+call-bomber.info,kajernews.com,vyaapaarguru.in##+js(nano-stb, /.?/, *, 0.002)
+call-bomber.info,kajernews.com,vyaapaarguru.in##[onclick*="handleContinueClick"], #continue-blur, #please-wait, .scroll2, .step:others()
+call-bomber.info,kajernews.com,vyaapaarguru.in##[onclick*="handleContinueClick"], #continue-blur:style(display: block !important;)
+
+! https://github.com/uBlockOrigin/uAssets/discussions/17361#discussioncomment-8435355 (https://btcut.io/gC5PAb) (https://psa.btcut.io/OKGo)
+! https://github.com/uBlockOrigin/uAssets/discussions/17361#discussioncomment-10356862 (https://sharecut .io/27ch9V5)
+! https://github.com/uBlockOrigin/uAssets/issues/24370 (paycut.io/gMoMhCrN)
+!#if env_chromium
+@@||securepubads.g.doubleclick.net/*/gpt.js$domain=cryptednews.space
+@@||securepubads.g.doubleclick.net/*/pubads_impl.js$domain=cryptednews.space
+@@||googleads.g.doubleclick.net/pagead/interaction/$domain=cryptednews.space
+!#endif
+*$image,redirect-rule=1x1.gif,domain=starkroboticsfrc.com|sinonimos.de|antonimos.de|quesignifi.ca|tiktokrealtime.com|tiktokcounter.net|tpayr.xyz|poqzn.xyz|ashrfd.xyz|rezsx.xyz|tryzt.xyz|ashrff.xyz|rezst.xyz|dawenet.com|erzar.xyz|waezm.xyz|waezg.xyz|blackwoodacademy.org|cryptednews.space|vivuq.com|swgop.com|vbnmll.com|telcoinfo.online|dshytb.com
+*$xhr,redirect-rule=noopjs,method=get|post,from=starkroboticsfrc.com|sinonimos.de|antonimos.de|quesignifi.ca|tiktokrealtime.com|tiktokcounter.net|tpayr.xyz|poqzn.xyz|ashrfd.xyz|rezsx.xyz|tryzt.xyz|ashrff.xyz|rezst.xyz|dawenet.com|erzar.xyz|waezm.xyz|waezg.xyz|blackwoodacademy.org|cryptednews.space|vivuq.com|swgop.com|vbnmll.com|telcoinfo.online|dshytb.com
+@@*$xhr,redirect-rule,method=head,domain=starkroboticsfrc.com|sinonimos.de|antonimos.de|quesignifi.ca|tiktokrealtime.com|tiktokcounter.net|tpayr.xyz|poqzn.xyz|ashrfd.xyz|rezsx.xyz|tryzt.xyz|ashrff.xyz|rezst.xyz|dawenet.com|erzar.xyz|waezm.xyz|waezg.xyz|blackwoodacademy.org|cryptednews.space|vivuq.com|swgop.com|vbnmll.com|telcoinfo.online|dshytb.com
+@@*$ghide,domain=starkroboticsfrc.com|sinonimos.de|antonimos.de|quesignifi.ca|tiktokrealtime.com|tiktokcounter.net|tpayr.xyz|poqzn.xyz|ashrfd.xyz|rezsx.xyz|tryzt.xyz|ashrff.xyz|rezst.xyz|dawenet.com|erzar.xyz|waezm.xyz|waezg.xyz|blackwoodacademy.org|cryptednews.space|vivuq.com|swgop.com|vbnmll.com|telcoinfo.online|dshytb.com
+@@*$script,1p,domain=starkroboticsfrc.com|sinonimos.de|antonimos.de|quesignifi.ca|tiktokrealtime.com|tiktokcounter.net|tpayr.xyz|poqzn.xyz|ashrfd.xyz|rezsx.xyz|tryzt.xyz|ashrff.xyz|rezst.xyz|dawenet.com|erzar.xyz|waezm.xyz|waezg.xyz|blackwoodacademy.org|cryptednews.space|vivuq.com|swgop.com|vbnmll.com|telcoinfo.online|dshytb.com
+@@||profitsfly.com^$script,domain=starkroboticsfrc.com|sinonimos.de|antonimos.de|quesignifi.ca|tiktokrealtime.com|tiktokcounter.net|tpayr.xyz|poqzn.xyz|ashrfd.xyz|rezsx.xyz|tryzt.xyz|ashrff.xyz|rezst.xyz|dawenet.com|erzar.xyz|waezm.xyz|waezg.xyz|blackwoodacademy.org|cryptednews.space|vivuq.com|swgop.com|vbnmll.com|telcoinfo.online|dshytb.com
+@@/adpartner.min.js$script,domain=starkroboticsfrc.com|sinonimos.de|antonimos.de|quesignifi.ca|tiktokrealtime.com|tiktokcounter.net|tpayr.xyz|poqzn.xyz|ashrfd.xyz|rezsx.xyz|tryzt.xyz|ashrff.xyz|rezst.xyz|dawenet.com|erzar.xyz|waezm.xyz|waezg.xyz|blackwoodacademy.org|cryptednews.space|vivuq.com|swgop.com|vbnmll.com|telcoinfo.online|dshytb.com
+starkroboticsfrc.com,sinonimos.de,antonimos.de,quesignifi.ca,tiktokrealtime.com,tiktokcounter.net,tpayr.xyz,poqzn.xyz,ashrfd.xyz,rezsx.xyz,tryzt.xyz,ashrff.xyz,rezst.xyz,dawenet.com,erzar.xyz,waezm.xyz,waezg.xyz,blackwoodacademy.org,cryptednews.space,vivuq.com,swgop.com,vbnmll.com,telcoinfo.online,dshytb.com##+js(nostif, documentElement.innerHTML)
+starkroboticsfrc.com,sinonimos.de,antonimos.de,quesignifi.ca,tiktokrealtime.com,tiktokcounter.net,tpayr.xyz,poqzn.xyz,ashrfd.xyz,rezsx.xyz,tryzt.xyz,ashrff.xyz,rezst.xyz,dawenet.com,erzar.xyz,waezm.xyz,waezg.xyz,blackwoodacademy.org,cryptednews.space,vivuq.com,swgop.com,vbnmll.com,telcoinfo.online,dshytb.com##+js(no-fetch-if, doubleclick, , {"type": "opaque"})
+starkroboticsfrc.com,sinonimos.de,antonimos.de,quesignifi.ca,tiktokrealtime.com,tiktokcounter.net,tpayr.xyz,poqzn.xyz,ashrfd.xyz,rezsx.xyz,tryzt.xyz,ashrff.xyz,rezst.xyz,dawenet.com,erzar.xyz,waezm.xyz,waezg.xyz,blackwoodacademy.org,cryptednews.space,vivuq.com,swgop.com,vbnmll.com,telcoinfo.online,dshytb.com##+js(trusted-replace-node-text, script, /^([^{])/, "document.addEventListener('DOMContentLoaded',()=>{const i=document.createElement('iframe');i.style='height:0;width:0;border:0';i.id='aswift_0';document.body.appendChild(i);i.focus();const f=document.createElement('div');f.id='9JJFp';document.body.appendChild(f);});$1", sedCount, 2)
+starkroboticsfrc.com,sinonimos.de,antonimos.de,quesignifi.ca,tiktokrealtime.com,tiktokcounter.net,tpayr.xyz,poqzn.xyz,ashrfd.xyz,rezsx.xyz,tryzt.xyz,ashrff.xyz,rezst.xyz,dawenet.com,erzar.xyz,waezm.xyz,waezg.xyz,blackwoodacademy.org,cryptednews.space,vivuq.com,swgop.com,vbnmll.com,telcoinfo.online,dshytb.com##+js(set, document.hasFocus, trueFunc)
+
+! https://github.com/uBlockOrigin/uAssets/discussions/17361#discussioncomment-10098663 (https://droplink .co/ekTk)
+tech5s.co,game5s.com##+js(nano-sib, /.?/, *, 0.02)
+tech5s.co,game5s.com###go_d2:style(display: inline-block !important;)
+tech5s.co,game5s.com###go_d2, .captcha-check:others()
+tech5s.co,game5s.com##+js(rpnt, script, /false;/gm, true;, condition, isSubscribed)
+tech5s.co,game5s.com##+js(rpnt, script, ('t_modal'), ('go_d2'))
+droplink.co##p, .form-link, footer, .text-left
+droplink.co##+js(aopr, app_vars.force_disable_adblock)
+||i.gyazo.com^$domain=insurancexblog.blogspot.com
+
+! XpShort New (http://xpshort.com/Alpha_5_Complete_Batch)
+lumiaf.com,blogfem.com,apkgg.xyz,newsvsp.com,fnewsn.com,elmarvin.com,coinpurs.com,djamar.xyz,lrmodapk.pro,actuwar.com,alwafag.com###wpsafe-link:style(display: block !important;)
+lumiaf.com,blogfem.com,apkgg.xyz,newsvsp.com,fnewsn.com,elmarvin.com,coinpurs.com,djamar.xyz,lrmodapk.pro,actuwar.com,alwafag.com###wpsafe-link, .wpsafelink-multiple-pages:others()
+xpshort.com,odisha-remix.com##+js(set, go_popup, {})
+odisha-remix.com,xpshort.com##.banner, footer, .navbar-default.navbar
+odisha-remix.com,xpshort.com##+js(set, blurred, false)
+
+! https://github.com/uBlockOrigin/uAssets/discussions/17361#discussioncomment-10229239 (https://publicearn .com/MvpN)
+@@*$ghide,domain=tea-coffee.net|spatsify.com|newedutopics.com|getviralreach.in|edukaroo.com|funkeypagali.com|careersides.com|nayisahara.com|wikifilmia.com|infinityskull.com|viewmyknowledge.com|iisfvirtual.in|starxinvestor.com|jkssbalerts.com
+||cdn.jsdelivr.net/gh/itspro-dev/*/js/main.js$script
+!#if !cap_html_filtering
+tea-coffee.net,spatsify.com,newedutopics.com,getviralreach.in,edukaroo.com,funkeypagali.com,careersides.com,nayisahara.com,wikifilmia.com,infinityskull.com,viewmyknowledge.com,iisfvirtual.in,starxinvestor.com,jkssbalerts.com##+js(rmnt, script, /ABDetected|navigator.brave|fetch/)
+!#else
+tea-coffee.net,spatsify.com,newedutopics.com,getviralreach.in,edukaroo.com,funkeypagali.com,careersides.com,nayisahara.com,wikifilmia.com,infinityskull.com,viewmyknowledge.com,iisfvirtual.in,starxinvestor.com,jkssbalerts.com##^script:has-text(/ABDetected|navigator.brave|fetch/)
+!#endif
+tea-coffee.net,spatsify.com,newedutopics.com,getviralreach.in,edukaroo.com,funkeypagali.com,careersides.com,nayisahara.com,wikifilmia.com,infinityskull.com,viewmyknowledge.com,iisfvirtual.in,starxinvestor.com,jkssbalerts.com##+js(no-fetch-if, googlesyndication)
+tea-coffee.net,spatsify.com,newedutopics.com,getviralreach.in,edukaroo.com,funkeypagali.com,careersides.com,nayisahara.com,wikifilmia.com,infinityskull.com,viewmyknowledge.com,iisfvirtual.in,starxinvestor.com,jkssbalerts.com##+js(trusted-suppress-native-method, eval, '"/chp_?ad/"')
+tea-coffee.net,spatsify.com,newedutopics.com,getviralreach.in,edukaroo.com,funkeypagali.com,careersides.com,nayisahara.com,wikifilmia.com,infinityskull.com,viewmyknowledge.com,iisfvirtual.in,starxinvestor.com,jkssbalerts.com##+js(set, count, 0)
+tea-coffee.net,spatsify.com,newedutopics.com,getviralreach.in,edukaroo.com,funkeypagali.com,careersides.com,nayisahara.com,wikifilmia.com,infinityskull.com,viewmyknowledge.com,iisfvirtual.in,starxinvestor.com,jkssbalerts.com###tp98, #btn6:style(display: block !important;)
+tea-coffee.net,spatsify.com,newedutopics.com,getviralreach.in,edukaroo.com,funkeypagali.com,careersides.com,nayisahara.com,wikifilmia.com,infinityskull.com,viewmyknowledge.com,iisfvirtual.in,starxinvestor.com,jkssbalerts.com##[id$="-Ads"], [id*="-gpt-ad"], center > h3, #skull, #content, #btnx, .mh-clearfix.mh-wrapper
+go.publicearn.com##.page-header > h3, .banner, .bg-soft-primary
+
+! https://github.com/uBlockOrigin/uAssets/discussions/17361#discussioncomment-6895297
+! https://github.com/uBlockOrigin/uAssets/discussions/27472#discussioncomment-12514682 (linkx.in/Z3VqT)
+@@*$ghide,domain=imagereviser.com|upshrink.com
+@@*$xhr,domain=imagereviser.com|upshrink.com
+imagereviser.com##center, [src*="google.com/recaptcha/"]:others()
+imagereviser.com##[id*="gpt_unit"], [id*="gpt-ad"], [href]
+imagereviser.com##+js(trusted-replace-argument, getComputedStyle, 0, body, condition, getComputedStyle)
+imagereviser.com##+js(rmnt, script, /ai_|b2a/)
+imagereviser.com##+js(set, hasFocus, trueFunc)
+upshrink.com##+js(trusted-set, navigator.userAgent, '{"value": "Mozilla/5.0 (iPhone14,3; U; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19A346 Safari/602.1"}')
+upshrink.com##+js(set, blurred, false)
+upshrink.com##.banner-inner
+upshrink.com##.elementor-location-footer:style(clip-path: circle(0) !important;)
+
+! https://github.com/uBlockOrigin/uAssets/issues/15469
+! Mlwbd Download
+||tactictablepolite.com^$script,domain=freethemesy.com|tech24us.com
+tech24us.com,freethemesy.com##+js(nano-sib, counter, *, 0.02)
+
+! https://github.com/uBlockOrigin/uAssets/issues/14673
+! psa.wf Download Shorteners
+@@||get-to.link^$ghide
+get-to.link##+js(aopr, exoJsPop101)
+get-to.link##+js(aopr, document.dispatchEvent)
+get-to.link##+js(nowoif)
+get-to.link###genesis-modal
+
+! https://clk.asia/XzNMCt
+junkyponk.com,healthfirstweb.com,vocalley.com,yogablogfit.com,howifx.com,en.financerites.com,mythvista.com,livenewsflix.com,cureclues.com,apekite.com##+js(set, timeSec, 0)
+junkyponk.com,healthfirstweb.com,vocalley.com,yogablogfit.com,howifx.com,en.financerites.com,mythvista.com,livenewsflix.com,cureclues.com,apekite.com##+js(nano-stb, getlink, *, 0.001)
+junkyponk.com,healthfirstweb.com,vocalley.com,yogablogfit.com,howifx.com,en.financerites.com,mythvista.com,livenewsflix.com,cureclues.com,apekite.com##+js(noeval-if, replace)
+junkyponk.com,healthfirstweb.com,vocalley.com,yogablogfit.com,howifx.com,en.financerites.com,mythvista.com,livenewsflix.com,cureclues.com,apekite.com###gads
+junkyponk.com,healthfirstweb.com,vocalley.com,yogablogfit.com,howifx.com,en.financerites.com,mythvista.com,livenewsflix.com,cureclues.com,apekite.com##.getlink, #getlink:remove-attr(disabled)
+junkyponk.com,healthfirstweb.com,vocalley.com,yogablogfit.com,howifx.com,en.financerites.com,mythvista.com,livenewsflix.com,cureclues.com,apekite.com##.container:style(font-size: 0px !important;)
+junkyponk.com,healthfirstweb.com,vocalley.com,yogablogfit.com,howifx.com,en.financerites.com,mythvista.com,livenewsflix.com,cureclues.com,apekite.com##.container > center:others()
+en.financerites.com##form:others()
+clk.*##+js(nowoif)
+clk.*##+js(set, blurred, false)
+||rdrclk.com^
+||clk.wiki/ads$frame
+||cmp.quantcast.com^$domain=healthfirstweb.com|vocalley.com|yogablogfit.com|howifx.com|en.financerites.com|junkyponk.com|mythvista.com
+
+! easysky.in focus and timer
+! https://github.com/uBlockOrigin/uAssets/issues/20810
+easysky.in,veganab.co##+js(set, blurred, false)
+veganab.co,camdigest.com##+js(nano-sib, /wpsafe|wait/, *, 0.001)
+veganab.co,camdigest.com##+js(rmnt, script, deblocker)
+veganab.co,camdigest.com###wpsafe-link, #section2:style(display: block !important;)
+veganab.co,camdigest.com###wpsafe-link, #section2:others()
+techy.veganab.co##.text-left, div.inst.box, .banner-inner
+
+! earn2me.com (earn2me.com/kVFvyX)
+nichapk.com,easyworldbusiness.com,riveh.com###yuidea-snp:style(display: block !important;)
+nichapk.com,easyworldbusiness.com,riveh.com##center, [src*="google.com/recaptcha/"]:others()
+nichapk.com,easyworldbusiness.com,riveh.com##+js(nano-sib, timer, *, 0.02)
+nichapk.com,easyworldbusiness.com,riveh.com###tie-wrapper:style(min-height:initial! important;)
+blog.filepresident.com##.box-main > [src], .content, .r-bg, .short, .download-btn, h4
+
+! https://github.com/uBlockOrigin/uAssets/issues/16217
+@@||exeo.app^$ghide
+exeo.app##.actions, .earning-steps ~*, .earning-steps, header, footer, .ad-element
+
+! https://github.com/uBlockOrigin/uAssets/issues/21430 (https://gtlinks.me/9AUxf)
+@@*$ghide,domain=techkhulasha.com|itijobalert.in
+itijobalert.in,techkhulasha.com##+js(rpnt, script, /9000|30000|1000|40000/gm, 10)
+itijobalert.in,techkhulasha.com###waiting:style(display: block !important;)
+itijobalert.in,techkhulasha.com###waiting, h4, #form, #popup-button:others()
+tech.pubghighdamage.com,tech.techkhulasha.com,hipsonyc.com##+js(rpnt, script, /1000|100|6|30/gm, 1, condition, link)
+tech.pubghighdamage.com,tech.techkhulasha.com,hipsonyc.com##+js(rpnt, script, /^window\.location\.href.*\'$/gms)
+tech.pubghighdamage.com,tech.techkhulasha.com,hipsonyc.com###gotolink[disabled]:remove-attr(disabled)
+tech.pubghighdamage.com,tech.techkhulasha.com,hipsonyc.com###gotolink, #getlink, #notarobot:others()
+tech.pubghighdamage.com,tech.techkhulasha.com,hipsonyc.com##+js(rpnt, script, getlink.removeClass('hidden');, gotolink.removeClass('hidden');)
+go.bloggingaro.com,go.gyanitheme.com,go.theforyou.in,go.hipsonyc.com##+js(set, blurred, false)
+go.bloggingaro.com,go.gyanitheme.com,go.theforyou.in,go.hipsonyc.com##.blog-item, .banner-inner, footer
+||buoydeparturediscontent.com^$all
+
+! LinkShortify (https://lksfy.com/ovKOaZ)
+bookszone.in##+js(nano-sib, timer, *)
+bookszone.in###tp98, #jatinbtn-continue:style(display: block !important;)
+bookszone.in###tp98, #jatinbtn-continue:others()
+graphicuv.com##+js(aost, setTimeout, adsBlocked)
+graphicuv.com###popup, #blur-background
+graphicuv.com,learnmany.in###btn6:style(display: block !important;)
+graphicuv.com,learnmany.in###btn6:others()
+learnmany.in##+js(rmnt, script, deblocker)
+shortix.co###btn6, #tp98:style(display: block !important;)
+shortix.co###btn6, #tp98:others()
+! https://github.com/uBlockOrigin/uAssets/discussions/17361#discussioncomment-9984206 (https://top10cafe .se/verify/?/nwe9vsolam)
+top10cafe.se##+js(noeval-if, ads)
+
+! owllink.net & birdurls.com (go.owllink.net/1wij6ola)
+uptechnologys.com,sevenjournals.com###yuidea-snp, #btn6:style(display: block !important;)
+uptechnologys.com,sevenjournals.com###yuidea-snp, #btn6, center, [src*="google.com/recaptcha"]:others()
+uptechnologys.com,sevenjournals.com##+js(nano-sib, /.?/, *, 0.001)
+uptechnologys.com,sevenjournals.com###yuidea-snp, #btn6, #yuidea, #countdown:others()
+uptechnologys.com,sevenjournals.com##+js(acs, eval, replace)
+sevenjournals.com##+js(nobab)
+||cmp.quantcast.com^$domain=uptechnologys.com|sevenjournals.com
+
+! https://github.com/AdguardTeam/AdguardFilters/issues/110893
+birdurls.com##+js(nowoif)
+birdurls.com###bg_popup
+birdurls.com##+js(set, blurred, false)
+birdurls.com##.box-main p
+birdurls.com##.box-main center
+birdurls.com###link-view > br
+*$frame,script,3p,denyallow=consensu.org|google.com|gstatic.com|recaptcha.net|quantcast.com|cloudflare.com,domain=birdurls.com
+
+! https://github.com/uBlockOrigin/uAssets/issues/22045
+hit-films.com###btn6:style(display: block !important;)
+hit-films.com###btn6:others()
+
+! cut.lc Shortner
+yalifin.xyz,lrncook.xyz###makingdifferenttimer:style(display: block !important;)
+yalifin.xyz,lrncook.xyz##+js(nano-sib, /.?/, *, 0.02)
+yalifin.xyz,lrncook.xyz##center:others()
+
+! vlsshort.com,V2links,vzu.us
+gadgetsreview27.com,newsbawa.com##center:others()
+gadgetsreview27.com,newsbawa.com##+js(nano-sib, /.?/, *, 0.02)
+
+! https://github.com/uBlockOrigin/uAssets/pull/20826 (fc-lc.com/82YkvH)
+/nt.js$domain=fc-lc.*
+fc-lc.xyz###iframe_id, .text-left
+labgame.io###step, #next, #scroll, #glink, #countdown, #surl, #captcha-container, [src*="google.com/recaptcha/"], [src*="recaptcha.net/recaptcha"]:others()
+labgame.io##+js(rpnt, script, /initialTimeSeconds = \d+/, initialTimeSeconds = 7)
+labgame.io##+js(nano-sib, tid, *, 0.02)
+labgame.io##+js(trusted-set-cookie, ad_expire=true;, $now$)
+labgame.io##+js(rmnt, script, window.adblockDetector)
+labgame.io##+js(rmnt, script, DName)
+||curryfielddistribution.com^$all
+||antonellapouncedcrewels.com^$all
+||tophostingapp.com/dwn-$image
+
+! https://terabox.fun/sl/2omxpMMJdo anti-adb
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=hotmediahub.com|terabox.fun|fansonlinehub.com|teralink.me|terashare.me|teraearn.com
+@@*$ghide,domain=hotmediahub.com|terabox.fun|fansonlinehub.com|teralink.me|terashare.me|teraearn.com
+||gamerplay*.space^$domain=hotmediahub.com|terabox.fun|fansonlinehub.com|teralink.me|terashare.me|teraearn.com
+fansonlinehub.com,hotmediahub.com,terabox.fun,teralink.me,terashare.me,teraearn.com##body:style(overflow: auto !important;)
+fansonlinehub.com,hotmediahub.com,terabox.fun,teralink.me,terashare.me,teraearn.com##[id^="pop-ad"], div.artical-content, .full-box, .bottom-adsense, .article-recommend, .article-next, [id^="ad-box-"], .full-ctr
+terabox.fun##.short-link-home-bottom
+fansonlinehub.com,hotmediahub.com,terabox.fun,teralink.me,terashare.me,teraearn.com##+js(json-prune, web_share_ads_adsterra_config wap_short_link_middle_page_ad wap_short_link_middle_page_show_time data.ads_cpm_info)
+fansonlinehub.com,hotmediahub.com,terabox.fun,teralink.me,terashare.me,teraearn.com##+js(nano-stb, value, *)
+fansonlinehub.com,hotmediahub.com,terabox.fun,teralink.me,terashare.me,teraearn.com##+js(nano-sib, clearInterval, *)
+! https://github.com/uBlockOrigin/uAssets/issues/19284
+4funbox.com,nephobox.com,1024tera.com,terabox.*##+js(set, Object.prototype.isAllAdClose, true)
+4funbox.com,nephobox.com,1024tera.com,terabox.*##.ad-eggplant, .operate-box
+terabox.com##.shadow
+
+! https://github.com/uBlockOrigin/uAssets/issues/20872
+@@||linkvertise.com^$ghide
+linkvertise.com##+js(acs, addEventListener, DOMNodeRemoved)
+linkvertise.com##+js(acs, document.dispatchEvent, CustomEvent)
+linkvertise.com##+js(acs, onload, adsbygoogle)
+linkvertise.com##+js(aeld, load, nextFunction)
+linkvertise.com##+js(json-prune, data.meta.require_addon data.meta.require_captcha data.meta.require_notifications data.meta.require_og_ads data.meta.require_video data.meta.require_web data.meta.require_related_topics data.meta.require_custom_ad_step data.meta.og_ads_offers data.meta.addon_url data.displayAds data.linkCustomAdOffers)
+linkvertise.com##+js(json-prune, data.getDetailPageContent.linkCustomAdOffers.[-].title)
+linkvertise.com##+js(json-prune, data.getTaboolaAds.*)
+linkvertise.com##+js(set, isAdBlockActive, false)
+linkvertise.com##.skeleton__image > ngx-skeleton-loader[appearance="line"] > span.progress:empty
+||streamrail.com^$script,domain=linkvertise.*
+
+! link.vipurl.in
+! https://github.com/uBlockOrigin/uAssets/discussions/17361#discussioncomment-9563865
+acetack.com##+js(trusted-suppress-native-method, eval, '"/chp_?ad/"')
+! https://github.com/uBlockOrigin/uAssets/discussions/17361#discussioncomment-8728439
+acetack.com,androidquest.com,apklox.com,chhaprawap.in,gujarativyakaran.com,kashmirstudentsinformation.in,kisantime.com,shetkaritoday.in,pastescript.com,trimorspacks.com,updrop.link##+js(nano-sib, /.?/, *, 0.02)
+acetack.com,androidquest.com,apklox.com,chhaprawap.in,gujarativyakaran.com,kashmirstudentsinformation.in,kisantime.com,shetkaritoday.in,pastescript.com,trimorspacks.com,updrop.link##+js(no-fetch-if, googlesyndication)
+acetack.com,androidquest.com,apklox.com,chhaprawap.in,gujarativyakaran.com,kashmirstudentsinformation.in,kisantime.com,shetkaritoday.in,pastescript.com,trimorspacks.com,updrop.link##+js(set, adBlockDetected, noopFunc)
+acetack.com,androidquest.com,apklox.com,chhaprawap.in,gujarativyakaran.com,kashmirstudentsinformation.in,kisantime.com,shetkaritoday.in,pastescript.com,trimorspacks.com,updrop.link###wpsafe-generate, #wpsafelink-landing, #wpsafe-link:style(display: block !important;)
+acetack.com,androidquest.com,apklox.com,chhaprawap.in,gujarativyakaran.com,kashmirstudentsinformation.in,kisantime.com,shetkaritoday.in,pastescript.com,trimorspacks.com,updrop.link###adb
+acetack.com,androidquest.com,apklox.com,chhaprawap.in,gujarativyakaran.com,kashmirstudentsinformation.in,kisantime.com,shetkaritoday.in,pastescript.com,trimorspacks.com,updrop.link###overlay
+vipurl.in##+js(set, blurred, false)
+
+! https://github.com/uBlockOrigin/uAssets/issues/10817
+try2link.com##+js(aopr, app_vars.force_disable_adblock)
+try2link.com##+js(set, blurred, false)
+try2link.com##+js(aopr, popUp)
+try2link.com##.text-left.box-main2, footer
+fx-gd.net,healthy4pepole.com,hightrip.net,to-travel.net###submitBtn, #go_d, #wolfexe-snp:style(display: block !important;)
+fx-gd.net,healthy4pepole.com,hightrip.net,to-travel.net###submitBtn, #go_d, #wolfexe-snp:others()
+fx-gd.net,healthy4pepole.com,hightrip.net,to-travel.net##+js(nano-sib, /.?/, *, 0.02)
+
+! https://github.com/AdguardTeam/AdguardFilters/issues/78778
+jameeltips.us##+js(aopr, app_vars.force_disable_adblock)
+jameeltips.us##+js(set, blurred, false)
+jameeltips.us#@#.banner-728x90
+||jameeltips.us^$3p
+
+! https://github.com/AdguardTeam/AdguardFilters/issues/71409
+*$script,domain=gainbtc.*,redirect-rule=noopjs
+gainbtc.click##._hide
+gainbtc.click##.panel-heading > center
+||adcryp.to^$3p
+
+! https://www.reddit.com/r/uBlockOrigin/comments/ynjx62/
+! https://www.reddit.com/r/uBlockOrigin/comments/18zs6ip/detection_adblock/
+fadedfeet.com,homeculina.com,ineedskin.com,kenzo-flowertag.com,lawyex.co,mdn.lol##+js(nostif, /adblock|isRequestPresent/)
+mdn.lol##+js(no-fetch-if, bmcdn6)
+homeculina.com,ineedskin.com,kenzo-flowertag.com,lawyex.co,mdn.lol##form[id]:style(display: block !important;)
+kenzo-flowertag.com,mdn.lol##.form-group > div[style^="width:"]
+mdn.lol##div[style^="width:"][style$=" height: 90px;"]
+mdn.lol##+js(acs, window.onload, devtools)
+! https://github.com/uBlockOrigin/uAssets/discussions/17361#discussioncomment-8374382
+kenzo-flowertag.com,mdn.lol##+js(rmnt, script, /bypass.php)
+homeculina.com,ineedskin.com,kenzo-flowertag.com,lawyex.co,mdn.lol##form [id][style="display: none;"]:style(display: block !important;)
+awgrow.com##.text-center:style(display: block !important;)
+
+! https://github.com/uBlockOrigin/uAssets/issues/16153
+btcbitco.in##+js(acs, window.onload, innerHTML)
+! https://github.com/uBlockOrigin/uAssets/discussions/17361#discussioncomment-5741055
+btcbitco.in,btcsatoshi.net,cempakajaya.com,crypto4yu.com,readbitcoin.org,wiour.com##+js(set, document.hasFocus, trueFunc)
+btcbitco.in,btcsatoshi.net,cempakajaya.com,crypto4yu.com,gainl.ink,readbitcoin.org,wiour.com##+js(no-fetch-if, /adoto|\/ads\/js/)
+gainl.ink##+js(set, blurred, false)
+gainl.ink##+js(nowoif)
+ohionowcast.info,wiour.com##+js(aeld, load, htmls)
+@@||acceptable.a-ads.com/1^$xhr,domain=gainl.ink
+@@||googletagmanager.com/gtm.js$domain=btcbitco.in|btcsatoshi.net|crypto4yu.com|gainl.ink|readbitcoin.org|wiour.com
+gainl.ink#@##adclose
+btcbitco.in,btcsatoshi.net,cempakajaya.com,crypto4yu.com,gainl.ink,manofadan.com,readbitcoin.org,wiour.com##^script:has-text(htmls)
+btcbitco.in,btcsatoshi.net,cempakajaya.com,crypto4yu.com,gainl.ink,manofadan.com,readbitcoin.org,wiour.com##html, body:style(overflow: auto !important;)
+!#if !cap_html_filtering
+btcbitco.in,btcsatoshi.net,cempakajaya.com,crypto4yu.com,gainl.ink,manofadan.com,readbitcoin.org,wiour.com##+js(rmnt, script, htmls)
+!#endif
+||bitcotasks.com//files/banners/banner-
+||cryptocoinsad.com/ads/js/slider_right.js$script,redirect=noopjs
+btcbitco.in##+js(acs, addEventListener, devtools)
+btcbitco.in,btcsatoshi.net,wiour.com##+js(acs, document.getElementById, ads)
+crypto4yu.com,manofadan.com,readbitcoin.org##+js(acs, addEventListener, ads)
+! https://github.com/uBlockOrigin/uAssets/discussions/17361#discussioncomment-6671505
+bitcotasks.com##+js(nostif, offsetWidth)
+bitcotasks.com##+js(nostif, alert)
+btcbitco.in,btcsatoshi.net,wiour.com##.post > center > [href] > img
+btcbitco.in,btcsatoshi.net,crypto4yu.com,readbitcoin.org,wiour.com##+js(nowoif, ?key=)
+/invoke.js$script,redirect-rule=noop.js,domain=btcbitco.in|btcsatoshi.net|crypto4yu.com|readbitcoin.org|wiour.com
+||cryptocoinsad.com/ads/js/popunder.js$script,redirect=noop.js,domain=btcbitco.in|btcsatoshi.net|crypto4yu.com|readbitcoin.org|wiour.com
+||acceptable.a-ads.com^$frame,redirect-rule=noop.html,domain=btcbitco.in|btcsatoshi.net|crypto4yu.com|readbitcoin.org|wiour.com
+btcbitco.in,btcsatoshi.net,crypto4yu.com,readbitcoin.org,wiour.com##div.text-center[id]:style(height: 100px !important;)
+@@||static.surfe.pro/js/net.js$domain=btcbitco.in|btcsatoshi.net|crypto4yu.com|readbitcoin.org
+@@||surfe.pro/net/teaser$xhr,domain=btcbitco.in|btcsatoshi.net|crypto4yu.com|readbitcoin.org
+btcbitco.in##+js(set, isRequestPresent, true)
+||bmcdn6.com^$script,redirect-rule=noop.js
+
+! https://github.com/uBlockOrigin/uAssets/discussions/17361#discussioncomment-8002410
+blog.cryptowidgets.net,blog.insurancegold.in,blog.wiki-topia.com##+js(rmnt, script, /\/detected\.html|Adblock/)
+blog.cryptowidgets.net,blog.insurancegold.in,blog.wiki-topia.com##+js(set, isRequestPresent, true)
+blog.cryptowidgets.net,blog.insurancegold.in,blog.wiki-topia.com##+js(rpnt, script, = false;, = true;, condition, innerHTML)
+
+! https://github.com/uBlockOrigin/uAssets/discussions/17361#discussioncomment-7999398 (shortino .link/8ugNl, shortano .link/g29awgvl)
+blog.coinsvalue.net,blog.cookinguide.net,blog.freeoseocheck.com##+js(rmnt, script, /\/detected\.html|Adblock/)
+blog.coinsvalue.net,blog.cookinguide.net,blog.freeoseocheck.com##+js(set, isRequestPresent, true)
+blog.coinsvalue.net,blog.cookinguide.net,blog.freeoseocheck.com##+js(rpnt, script, = false;, = true;, condition, innerHTML)
+! https://github.com/uBlockOrigin/uAssets/discussions/17361#discussioncomment-8733294
+! https://github.com/uBlockOrigin/uAssets/discussions/17361#discussioncomment-10121209 (earnow .online/09UGVRo)
+||rollercoin.com^$image,3p,redirect-rule=32x32.png,domain=blog.cryptowidgets.net|blog.insurancegold.in|blog.wiki-topia.com|blog.coinsvalue.net|blog.cookinguide.net|blog.freeoseocheck.com|blog.makeupguide.net|blog.carstopia.net|blog.carsmania.net|blog.coinsrise.net
+||czilladx.com^$xhr,3p,redirect-rule=nooptext,domain=blog.cryptowidgets.net|blog.insurancegold.in|blog.wiki-topia.com|blog.coinsvalue.net|blog.cookinguide.net|blog.freeoseocheck.com|blog.makeupguide.net|blog.carstopia.net|blog.carsmania.net|blog.coinsrise.net
+@@||cdn.bmcdn6.com/js/*d0.js^$domain=blog.cryptowidgets.net|blog.insurancegold.in|blog.wiki-topia.com|blog.coinsvalue.net|blog.cookinguide.net|blog.freeoseocheck.com|blog.makeupguide.net|blog.carstopia.net|blog.carsmania.net|blog.coinsrise.net
+blog.coinsrise.net,blog.cryptowidgets.net,blog.insurancegold.in,blog.wiki-topia.com,blog.coinsvalue.net,blog.cookinguide.net,blog.freeoseocheck.com,blog.makeupguide.net,blog.carstopia.net,blog.carsmania.net##+js(nostif, alert)
+blog.coinsrise.net,blog.cryptowidgets.net,blog.insurancegold.in,blog.wiki-topia.com,blog.coinsvalue.net,blog.cookinguide.net,blog.freeoseocheck.com,blog.makeupguide.net,blog.carstopia.net,blog.carsmania.net##+js(rpnt, script, "'IFRAME'", "'BODY'")
+blog.carstopia.net,blog.carsmania.net##+js(trusted-suppress-native-method, eval, '"/chp_?ad/"')
+
+! aylink.co popup ads
+! https://github.com/uBlockOrigin/uAssets/issues/18108
+! https://github.com/uBlockOrigin/uAssets/issues/20597
+aylink.co##+js(rmnt, script, toast)
+aylink.co,gitizle.vip,shtms.co##+js(aopr, xmlhttp)
+aylink.co,gitizle.vip,shtms.co##+js(nano-sib)
+gitizle.vip,shtms.co##+js(ra, data-ppcnt_ads|onclick, #main)
+aylink.co,cpmlink.pro##+js(remove-attr, data-ppcnt_ads|onclick, #main[onclick*="mainClick"], stay)
+aylink.co,cpmlink.pro##+js(rpnt, script, /window\.location.*?;/)
+aylink.co,gitlink.pro,gitizle.vip,shtms.co##.alternative-ad
+aylink.co,cpmlink.pro##.adult-chat
+aylink.co##[href^="https://aylink.co/smart/click.php"]
+aylink.co##.sweet-overlay
+aylink.co##.sweet-alert
+cpmlink.pro##.download-file
+cpmlink.pro##.download-buttons
+||jayan-uvl.com^
+||ppcent.org^
+
+! https://github.com/uBlockOrigin/uAssets/issues/14189
+! https://www.reddit.com/r/uBlockOrigin/comments/vfu0a2/something_hides_the_captcha/
+@@||shorterall.com^$ghide
+@@||allgroups.online^$script,css,domain=promo-visits.site|satoshi-win.xyz|shorterall.com
+@@*$script,1p,domain=promo-visits.site|satoshi-win.xyz
+*$frame,redirect-rule=noopframe,domain=promo-visits.site|satoshi-win.xyz|shorterall.com
+*$script,redirect-rule=noopjs,domain=promo-visits.site|satoshi-win.xyz|shorterall.com
+*$xhr,3p,domain=promo-visits.site,redirect-rule=nooptext
+promo-visits.site,satoshi-win.xyz,shorterall.com##+js(set, blurred, false)
+promo-visits.site,satoshi-win.xyz,shorterall.com###qc-cmp2-container + p
+shorterall.com##+js(nostif, alert)
+shorterall.com##+js(acs, decodeURI, decodeURIComponent)
+shorterall.com##+js(aopw, atOptions)
+promo-visits.site,shorterall.com##+js(nowoif)
+*$popup,domain=promo-visits.site|shorterall.com
+@@||displayvertising.com^$script,domain=promo-visits.site|shorterall.com
+@@||c.adsco.re^$script,domain=promo-visits.site|shorterall.com
+@@||adsco.re/p$xhr,domain=promo-visits.site|shorterall.com
+@@||ads.themoneytizer.com^$script,domain=promo-visits.site|shorterall.com
+@@||c.tmyzer.com^$xhr,domain=promo-visits.site|shorterall.com
+@@||gum.criteo.com/sid/json$xhr,domain=promo-visits.site|shorterall.com
+@@||prebid.smilewanted.com^$xhr,domain=promo-visits.site|shorterall.com
+! https://github.com/uBlockOrigin/uAssets/issues/8997
+@@||promo-visits.site^$ghide
+||ultimateaderaser.com^$all
+/click?pid=*&offer_id=
+satoshi-win.xyz##+js(nostif, nextFunction)
+satoshi-win.xyz##+js(ra, onclick, .btn-success.get-link, stay)
+satoshi-win.xyz##+js(set, fouty, true)
+satoshi-win.xyz##.banner-inner
+promo-visits.site,shorterall.com##.btn-primary:style(visibility: visible !important;)
+promo-visits.site##+js(ra, disabled, .btn-primary)
+promo-visits.site###newlayercontent
+/php_code.php?sid=$domain=promo-visits.site|satoshi-win.xyz|shorterall.com,important
+homeairquality.org##+js(aeld, blur, focusOut)
+homeairquality.org##+js(no-fetch-if, googletagmanager)
+homeairquality.org##+js(set, detectAdblock, noopFunc)
+! https://github.com/uBlockOrigin/uAssets/issues/17222
+@@||homeairquality.org^$ghide
+*$script,redirect-rule=noopjs,domain=homeairquality.org
+homeairquality.org##.ezo_ad
+homeairquality.org##.adtester-container:style(min-height: 0px !important; max-height: 1px !important; opacity: 0 !important;)
+mynewsmedia.co##+js(no-fetch-if, googlesyndication)
+! https://github.com/uBlockOrigin/uAssets/issues/14189#issuecomment-1280373773
+@@||ads.themoneytizer.com/s/requestform.js?$script,domain=satoshi-win.xyz
+@@||gibevay.ru/retarget/get$script,domain=satoshi-win.xyz
+@@||googletagservices.com/tag/js/gpt.js$script,domain=satoshi-win.xyz
+@@||govbusi.info^$script,domain=satoshi-win.xyz
+@@||themoneytizer.com^$frame,domain=satoshi-win.xyz
+@@||umekana.ru/retarget/get$script,domain=satoshi-win.xyz
+@@||zatnoh.com/pw/*=eyJ.js$script,domain=satoshi-win.xyz
+satoshi-win.xyz##^responseheader(refresh)
+||googletagmanager.com/gtag/js$script,redirect-rule=googletagmanager_gtm.js:10,domain=satoshi-win.xyz
+||id5-sync.com^$image,redirect-rule=1x1.gif,domain=satoshi-win.xyz
+|about:blank$popup,domain=satoshi-win.xyz
+||funuzai.ru^$popup
+
+! https://github.com/uBlockOrigin/uAssets/issues/18745
+! https://github.com/uBlockOrigin/uAssets/issues/21436
+encurtandourl.com##+js(nostif, getComputedStyle, 250)
+encurtandourl.com##+js(nostif, nextFunction)
+encurtandourl.com##+js(set, blurred, false)
+encurtandourl.com##.banner
+@@||overgal.com^$ghide
+overgal.com##+js(no-fetch-if, googlesyndication)
+overgal.com##+js(nano-sib, timeLeft, *, 0.001)
+
+! https://github.com/uBlockOrigin/uAssets/issues/18747
+suaurl.com##+js(aopr, document.oncontextmenu)
+suaurl.com##+js(aopr, shortcut)
+suaurl.com##+js(aost, document.querySelector, suaads)
+suaurl.com##+js(rpnt, script, typeof cdo == 'undefined' || document.querySelector('div.textads.banner-ads.banner_ads.ad-unit.ad-zone.ad-space.adsbox') == undefined, false)
+reidoplacar.com###divactioncheck > .mb-3
+reidoplacar.com##.result_content_ff:style(display: block !important;)
+
+! https://www.reddit.com/r/uBlockOrigin/comments/18irmvf/i_was_detected/
+mamahawa.com##+js(rpnt, script, /window\.location\.href='.*';/, , condition, openLink)
+forextrader.site##+js(set, blurred, false)
+||10short.pro/GoogleNe*.js$script,3p,domain=forextrader.site
+10short.*,mamahawa.com,lollty.pro##+js(nano-sib, timer, *, 0.001)
+10short.*,mamahawa.com,lollty.pro##.text-left
+mamahawa.com###popup
+
+! https://www.reddit.com/r/uBlockOrigin/comments/18mhh9o/help_i_was_identified/
+! https://github.com/uBlockOrigin/uAssets/issues/22347
+@@||postazap.com^$ghide
+postazap.com##+js(set, blurred, false)
+~encurtador.postazap.com,postazap.com##+js(nano-sib, timer, *, 0.001)
+postazap.com##+js(nostif, ai_adb)
+postazap.com##+js(no-xhr-if, googlesyndication)
+postazap.com###page, .image-container
+
+! https://www.reddit.com/r/uBlockOrigin/comments/18n1z83/the_countdown_timer_on_this_site_will_not_go_down/
+rawlazy.si##+js(nano-stb, /\$\('|ai-close/, *, 0.001)
+bigdata.rawlazy.si##+js(nano-sib, counter, *, 0.001)
+rawlazy.si##.content-text.lh-16.font-12x
+
+! Bitlinks
+! https://github.com/uBlockOrigin/uAssets/issues/19926
+! https://github.com/uBlockOrigin/uAssets/issues/19928
+paidinsurance.in,conghuongtu.net,coinseidon.com###wpsafelinkhuman, #wpsafe-link:style(display: block !important;)
+paidinsurance.in,conghuongtu.net,coinseidon.com###wpsafelinkhuman, #wpsafe-link:others()
+placementsmela.com###wpsafe-link:style(display: block !important;)
+placementsmela.com###wpsafe-link:others()
+
+! https://github.com/uBlockOrigin/uAssets/issues/20243
+cryptokinews.com##+js(nano-sib)
+cryptokinews.com##center:others()
+
+! https://github.com/uBlockOrigin/uAssets/issues/20333
+! https://github.com/uBlockOrigin/uAssets/issues/20696
+!#if cap_html_filtering
+sugarona.com,nishankhatri.xyz,highkeyfinance.com,amanguides.com##^script:has-text(AdbModel)
+!#else
+sugarona.com,nishankhatri.xyz,highkeyfinance.com,amanguides.com##+js(rmnt, script, AdbModel)
+!#endif
+nishankhatri.xyz###pro-continue, #pro-btn, #my-btn:style(display: block !important;)
+nishankhatri.xyz###pro-continue, #pro-btn, #my-btn:others()
+sugarona.com###my-btn, #my-btn2:style(display: block !important;)
+sugarona.com###my-btn, #my-btn2:others()
+reminimod.co,highkeyfinance.com,amanguides.com##+js(no-fetch-if, ads)
+reminimod.co,highkeyfinance.com,amanguides.com###wpsafe-link:style(display: block !important;)
+reminimod.co,highkeyfinance.com,amanguides.com###wpsafe-link:others()
+blog.disheye.com###gourl:style(display: block !important;)
+blog.disheye.com###gourl:others()
+! https://github.com/uBlockOrigin/uAssets/discussions/17361#discussioncomment-8691522
+amanguides.com,highkeyfinance.com##+js(rmnt, script, deblocker)
+
+! cuty.io (https://cutty.app/b6InEDRzF8NF)
+! https://github.com/uBlockOrigin/uAssets/issues/24222
+! https://github.com/uBlockOrigin/uAssets/discussions/17361#discussioncomment-10438223 (https://cuty .io/blIkkHQyy)
+! https://github.com/uBlockOrigin/uAssets/issues/26646
+cety.app,exego.app,cutlink.net,cutsy.net,cutyurls.com,cutty.app,cutnet.net,jixo.online##.steps-to-earn, .flex.share-icons-container, .register-banner, fieldset, .partners-container, .actions
+cety.app,exego.app,cutlink.net,cutsy.net,cutyurls.com,cutty.app,cutnet.net,jixo.online##+js(aeld, click, /handleClick|popup/)
+cety.app,exego.app,cutlink.net,cutsy.net,cutyurls.com,cutty.app,cutnet.net,jixo.online##+js(set, blurred, false)
+cety.app,exe-urls.com,exego.app,cutlink.net,cutsy.net,cutyurls.com,cutty.app,cutnet.net,jixo.online##+js(acs, navigator, FingerprintJS)
+!#if cap_html_filtering
+cety.app,exe-urls.com,exego.app,cutlink.net,cutsy.net,cutyurls.com,cutty.app,cutnet.net,jixo.online##^script:has-text(/popup/i)
+!#else
+cety.app,exe-urls.com,exego.app,cutlink.net,cutsy.net,cutyurls.com,cutty.app,cutnet.net,jixo.online##+js(rmnt, script, /popup/i)
+!#endif
+! https://github.com/uBlockOrigin/uAssets/pull/26398
+cety.app,cuty.me##+js(trusted-override-element-method, HTMLAnchorElement.prototype.click, a[target="_blank"][style])
+cety.app,cuty.me##+js(aeld, DOMContentLoaded, history.go)
+||datadropspot.pro^$all
+
+! https://github.com/uBlockOrigin/uAssets/issues/20776
+adcrypto.net,admediaflex.com,aduzz.com,bitcrypto.info,cdrab.com,datacheap.io,hbz.us,savego.org,owsafe.com,sportweb.info###wpsafe-link:style(display: block !important;)
+adcrypto.net,admediaflex.com,aduzz.com,bitcrypto.info,cdrab.com,datacheap.io,hbz.us,savego.org,owsafe.com,sportweb.info##+js(no-fetch-if, ads)
+adcrypto.net,admediaflex.com,aduzz.com,bitcrypto.info,cdrab.com,datacheap.io,hbz.us,savego.org,owsafe.com,sportweb.info##+js(aeld, load, bypass)
+!aduzz.com,bitcrypto.info##+js(set, wpsafelinkCount, 0)
+! https://github.com/uBlockOrigin/uAssets/discussions/17361#discussioncomment-8529115
+adcrypto.net,admediaflex.com,aduzz.com,bitcrypto.info,cdrab.com,datacheap.io,hbz.us,savego.org,owsafe.com,sportweb.info##.adslr
+adcrypto.net,admediaflex.com,aduzz.com,bitcrypto.info,cdrab.com,datacheap.io,hbz.us,savego.org,owsafe.com,sportweb.info##.floating-banner
+adcrypto.net,admediaflex.com,aduzz.com,bitcrypto.info,cdrab.com,datacheap.io,hbz.us,savego.org,owsafe.com,sportweb.info##table[class^="a"]
+adcrypto.net,admediaflex.com,aduzz.com,bitcrypto.info,cdrab.com,datacheap.io,hbz.us,savego.org,owsafe.com,sportweb.info##center:has(> a[href="javascript:hidepromol();"])
+adcrypto.net,admediaflex.com,aduzz.com,bitcrypto.info,cdrab.com,datacheap.io,hbz.us,savego.org,owsafe.com,sportweb.info#@#.adb-top
+finish.addurl.biz##+js(nowoif)
+finish.addurl.biz##+js(set, document.hasFocus, trueFunc)
+
+! https://go.tinys.click/jzEDHsQHbNTokEJrRorG
+tinys.click##+js(noeval-if, adsBlocked)
+tinys.click##+js(rmnt, script, antiAdBlockerHandler)
+tinys.click##+js(set, blurred, false)
+tinys.click##+js(set, go_popup, {})
+tinys.click##.text-left, .banner-inner, .separator, .gmr-box-content, div[id^="wpsafe-wait"]
+tinys.click###wpsafe-generate, #wpsafe-link:style(display: block !important)
+
+! https://github.com/uBlockOrigin/uAssets/issues/21531
+! https://github.com/uBlockOrigin/uAssets/discussions/17361#discussioncomment-6583759
+bitzite.com##+js(aeld, load, htmls)
+bitzite.com##+js(ra, href, .MyAd > a[target="_blank"])
+bitzite.com##.buttonnya:style(display: block !important;)
+bitzite.com##.buttondownload:style(display: block !important;)
+bitzite.com##div[id^="countdownText"]
+||bitzite.com/dtban.jpg
+bitzite.com##+js(aeld, DOMContentLoaded, antiAdBlockerHandler)
+bitzite.com##.modal-overlay
+! https://github.com/uBlockOrigin/uAssets/discussions/17361#discussioncomment-7987540
+bitzite.com##+js(aeld, DOMContentLoaded, location.href)
+bitzite.com##+js(acs, document.createElement, onerror)
+*$image,redirect-rule=1x1.gif,domain=bitzite.com
+! https://github.com/uBlockOrigin/uAssets/discussions/17361#discussioncomment-8201405
+bitzite.com#@#.banner-ad
+bitzite.com##+js(nostif, _0x, 500)
+! https://github.com/uBlockOrigin/uAssets/discussions/17361#discussioncomment-8262350
+bitzite.com##+js(aopw, onScriptError)
+bitzite.com##+js(aopr, localStorage)
+bitzite.com##+js(rpnt, script, "'IFRAME'", "'BODY'")
+
+! https://github.com/uBlockOrigin/uAssets/issues/20083
+cpmlink.pro##+js(ra, data-ppcnt_ads, , stay)
+cpmlink.pro##+js(nowoif, php)
+cpmlink.pro##+js(nano-sib)
+cpmlink.pro###toasts, .alternative-ad
+bildirim.*##+js(set, Notification, undefined)
+
+! https://github.com/uBlockOrigin/uAssets/discussions/17361#discussioncomment-7144221
+aiimgvlog.fun##+js(no-xhr-if, popunder)
+aiimgvlog.fun##+js(acs, eval, replace)
+aiimgvlog.fun##+js(acs, addEventListener, google_ad_client)
+@@||aiimgvlog.fun^$ghide
+aiimgvlog.fun##+js(aopw, AdbModel)
+aiimgvlog.fun##+js(aeld, , popMagic)
+aiimgvlog.fun##+js(set, protection, noopFunc)
+aiimgvlog.fun##+js(set, document.hasFocus, trueFunc)
+aiimgvlog.fun##form > div[id][style="display: none;"]:style(display: block !important;)
+aiimgvlog.fun###widescreen2
+aiimgvlog.fun##div[id][style="position:fixed;bottom: 0px;left: 0px;z-index:999999;"]
+cpm.icu##+js(set, blurred, false)
+! https://github.com/uBlockOrigin/uAssets/discussions/17361#discussioncomment-8331095
+aiimgvlog.fun##+js(rmnt, script, /ad\s?block|adsBlocked|document\.write\(unescape\('|devtool/i)
+
+! https://github.com/uBlockOrigin/uAssets/issues/19931
+appsbull.com,diudemy.com,maqal360.com##+js(nano-stb, div_form)
+appsbull.com,diudemy.com,maqal360.com###tristana, #_append, #myDiv:style(display: block !important;)
+@@*$ghide,domain=appsbull.com|diudemy.com|maqal360.com
+appsbull.com,diudemy.com,maqal360.com##+js(aeld, load, htmls)
+appsbull.com,diudemy.com,maqal360.com##+js(rmnt, script, onerror)
+@@||cdn.jsdelivr.net^$script,domain=appsbull.com|diudemy.com|maqal360.com
+appsbull.com,diudemy.com,maqal360.com##+js(set, private, false)
+! https://github.com/uBlockOrigin/uAssets/discussions/17361#discussioncomment-8806613
+appsbull.com,diudemy.com,maqal360.com##+js(rpnt, script, "'IFRAME'", "'BODY'")
+! https://github.com/uBlockOrigin/uAssets/discussions/17361#discussioncomment-11445515
+!#if env_firefox
+maqal360.com##+js(set, navigator.serviceWorker, {})
+!#else
+maqal360.com##+js(set, navigator.webkitTemporaryStorage.queryUsageAndQuota, noopFunc)
+!#endif
+maqal360.com##+js(set, document.onkeydown, noopFunc)
+maqal360.com##+js(aeld, contextmenu, preventDefault)
+maqal360.com##+js(aeld, visibilitychange, remainingSeconds)
+||revbid.net^
+
+! https://github.com/uBlockOrigin/uAssets/issues/19747
+mphealth.online##+js(rmnt, script, onerror)
+mphealth.online###yuidea-btn-after, #yuidea-btmbtn:style(display: block !important;)
+mphealth.online###yuidea-btn-after, #yuidea-btmbtn:remove-attr(disabled)
+mphealth.online###yuidea-btn-after, #yuidea-btmbtn:others()
+mphealth.online###content:style(font-size: 0px !important;)
+
+! https://github.com/uBlockOrigin/uAssets/discussions/17361#discussioncomment-6872017
+sahlmarketing.net###link:remove-attr(disabled)
+sahlmarketing.net###link, center, #yuidea-snp, #btn6:style(display: block !important;)
+sahlmarketing.net##+js(set, count, 0)
+
+! https://github.com/uBlockOrigin/uAssets/discussions/17361#discussioncomment-6780052
+blog.panytourism.online###link1s-snp:style(display: block !important;)
+panyshort.link##+js(set, blurred, false)
+
+! https://github.com/uBlockOrigin/uAssets/issues/20032
+mayaremix.in,unfoldedstars.com,neverdims.com,bit4me.info,deltabtc.xyz,mbjremix.com##div#wpsafe-link:style(display: block !important;)
+mayaremix.in,unfoldedstars.com,neverdims.com,bit4me.info,deltabtc.xyz,mbjremix.com##div#wpsafe-link:others()
+
+! https://github.com/uBlockOrigin/uAssets/issues/19235
+apkupload.in,ezeviral.com,pngreal.com,ytpng.net##+js(no-fetch-if, ads)
+apkupload.in,ezeviral.com,dailynew.online,pngreal.com,ytpng.net###wpsafe-generate, #wpsafe-link:style(display: block !important)
+apkupload.in,dailynew.online,ezeviral.com,pngreal.com,ytpng.net##div[id^="wpsafe-wait"]
+ezeviral.com,pngreal.com###overlay
+techusnews.com###tp-generate, #tp-snp2:style(display: block !important;)
+techusnews.com##div[id^="tp-wait"]
+ezeviral.cok,pngreal.com##.adb
+
+! https://ryuugames. com/eng-knowledge-fever-uncensored/ download timer
+ryuugames.com###wpsafe-link:style(display: block !important;)
+ryuugames.com###wpsafe-wait1,#wpsafe-link:others()
+
+! https://github.com/uBlockOrigin/uAssets/issues/18677
+! https://github.com/uBlockOrigin/uAssets/discussions/17361#discussioncomment-8287644
+blog24.me##+js(aeld, DOMContentLoaded, adsBlocked)
+blog24.me##+js(aeld, load, htmls)
+blog24.me##+js(nostif, alert)
+blog24.me##+js(aopr, Swal.fire)
+blog24.me##^script:has-text(htmls)
+blog24.me##+js(set, isRequestPresent, true)
+blog24.me##+js(rmnt, script, location.assign)
+blog24.me##+js(rmnt, script, location.href)
+*$script,redirect-rule=noopjs,domain=blog24.me
+*$xhr,redirect-rule=nooptext,domain=blog24.me
+||blog24.me/dss.php$script
+||blog24.me/ad*html$frame,1p
+||aiimgvlog.fun^$frame,domain=blog24.me
+@@||blog24.me^$ghide
+blog24.me##form > [id]:style(display: block !important;)
+@@||pagead2.googlesyndication.com^$xhr,domain=blog24.me
+blog24.me##.adb-overlay
+blog24.me###widescreen2
+
+! intercelestial.com skip countdown (https://pahe.me/monster-2023-web-dl-480p-720p-1080p/)
+||intercelestial.com^$csp=script-src 'self' * 'unsafe-inline'
+intercelestial.com##+js(nano-stb, , *, 0.1)
+intercelestial.com###landing, .soractrl:others()
+linegee.net##.kecil:others()
+
+! https://rsshort.com/uynL3V
+! https://github.com/uBlockOrigin/uAssets/discussions/17361#discussioncomment-9012909
+! https://github.com/uBlockOrigin/uAssets/discussions/17361#discussioncomment-9909983
+laweducationinfo.com,savemoneyinfo.com,worldaffairinfo.com,godstoryinfo.com,successstoryinfo.com,cxissuegk.com,learnmarketinfo.com,bhugolinfo.com,armypowerinfo.com,rsadnetworkinfo.com,rsinsuranceinfo.com,rsfinanceinfo.com,rsgamer.app,rssoftwareinfo.com,rshostinginfo.com,rseducationinfo.com,phonereviewinfo.com,makeincomeinfo.com,gknutshell.com,vichitrainfo.com,workproductivityinfo.com,dopomininfo.com,hostingdetailer.com,fitnesssguide.com,tradingfact4u.com,cryptofactss.com,softwaredetail.com,artoffocas.com,insurancesfact.com,travellingdetail.com##+js(trusted-replace-outbound-text, decodeURIComponent, Math.random() <= 0.15, false)
+!laweducationinfo.com,savemoneyinfo.com,worldaffairinfo.com,godstoryinfo.com,successstoryinfo.com,cxissuegk.com,learnmarketinfo.com,bhugolinfo.com,armypowerinfo.com,rsadnetworkinfo.com,rsinsuranceinfo.com,rsfinanceinfo.com,rsgamer.app,rssoftwareinfo.com,rshostinginfo.com,rseducationinfo.com,phonereviewinfo.com,makeincomeinfo.com,gknutshell.com,vichitrainfo.com,workproductivityinfo.com##+js(set, Math.random, 1, as, function)
+laweducationinfo.com,savemoneyinfo.com,worldaffairinfo.com,godstoryinfo.com,successstoryinfo.com,cxissuegk.com,learnmarketinfo.com,bhugolinfo.com,armypowerinfo.com,rsadnetworkinfo.com,rsinsuranceinfo.com,rsfinanceinfo.com,rsgamer.app,rssoftwareinfo.com,rshostinginfo.com,rseducationinfo.com,phonereviewinfo.com,makeincomeinfo.com,gknutshell.com,vichitrainfo.com,workproductivityinfo.com,dopomininfo.com,hostingdetailer.com,fitnesssguide.com,tradingfact4u.com,cryptofactss.com,softwaredetail.com,artoffocas.com,insurancesfact.com,travellingdetail.com##+js(set-cookie, __gads, 1)
+laweducationinfo.com,savemoneyinfo.com,worldaffairinfo.com,godstoryinfo.com,successstoryinfo.com,cxissuegk.com,learnmarketinfo.com,bhugolinfo.com,armypowerinfo.com,rsadnetworkinfo.com,rsinsuranceinfo.com,rsfinanceinfo.com,rsgamer.app,rssoftwareinfo.com,rshostinginfo.com,rseducationinfo.com,phonereviewinfo.com,makeincomeinfo.com,gknutshell.com,vichitrainfo.com,workproductivityinfo.com,dopomininfo.com,hostingdetailer.com,fitnesssguide.com,tradingfact4u.com,cryptofactss.com,softwaredetail.com,artoffocas.com,insurancesfact.com,travellingdetail.com##+js(aopw, window.onload)
+laweducationinfo.com,savemoneyinfo.com,worldaffairinfo.com,godstoryinfo.com,successstoryinfo.com,cxissuegk.com,learnmarketinfo.com,bhugolinfo.com,armypowerinfo.com,rsadnetworkinfo.com,rsinsuranceinfo.com,rsfinanceinfo.com,rsgamer.app,rssoftwareinfo.com,rshostinginfo.com,rseducationinfo.com,phonereviewinfo.com,makeincomeinfo.com,gknutshell.com,vichitrainfo.com,workproductivityinfo.com,dopomininfo.com,hostingdetailer.com,fitnesssguide.com,tradingfact4u.com,cryptofactss.com,softwaredetail.com,artoffocas.com,insurancesfact.com,travellingdetail.com##+js(no-xhr-if, googlesyndication)
+laweducationinfo.com,savemoneyinfo.com,worldaffairinfo.com,godstoryinfo.com,successstoryinfo.com,cxissuegk.com,learnmarketinfo.com,bhugolinfo.com,armypowerinfo.com,rsadnetworkinfo.com,rsinsuranceinfo.com,rsfinanceinfo.com,rsgamer.app,rssoftwareinfo.com,rshostinginfo.com,rseducationinfo.com,phonereviewinfo.com,makeincomeinfo.com,gknutshell.com,vichitrainfo.com,workproductivityinfo.com,dopomininfo.com,hostingdetailer.com,fitnesssguide.com,tradingfact4u.com,cryptofactss.com,softwaredetail.com,artoffocas.com,insurancesfact.com,travellingdetail.com##+js(aost, navigator.userAgent, checkBrowser)
+laweducationinfo.com,savemoneyinfo.com,worldaffairinfo.com,godstoryinfo.com,successstoryinfo.com,cxissuegk.com,learnmarketinfo.com,bhugolinfo.com,armypowerinfo.com,rsadnetworkinfo.com,rsinsuranceinfo.com,rsfinanceinfo.com,rsgamer.app,rssoftwareinfo.com,rshostinginfo.com,rseducationinfo.com,phonereviewinfo.com,makeincomeinfo.com,gknutshell.com,vichitrainfo.com,workproductivityinfo.com,dopomininfo.com,hostingdetailer.com,fitnesssguide.com,tradingfact4u.com,cryptofactss.com,softwaredetail.com,artoffocas.com,insurancesfact.com,travellingdetail.com##+js(aopr, bypass_url)
+laweducationinfo.com,savemoneyinfo.com,worldaffairinfo.com,godstoryinfo.com,successstoryinfo.com,cxissuegk.com,learnmarketinfo.com,bhugolinfo.com,armypowerinfo.com,rsadnetworkinfo.com,rsinsuranceinfo.com,rsfinanceinfo.com,rsgamer.app,rssoftwareinfo.com,rshostinginfo.com,rseducationinfo.com,phonereviewinfo.com,makeincomeinfo.com,gknutshell.com,vichitrainfo.com,workproductivityinfo.com,dopomininfo.com,hostingdetailer.com,fitnesssguide.com,tradingfact4u.com,cryptofactss.com,softwaredetail.com,artoffocas.com,insurancesfact.com,travellingdetail.com##+js(set, document.hasFocus, trueFunc)
+*$frame,redirect-rule=noopframe,domain=laweducationinfo.com|savemoneyinfo.com|worldaffairinfo.com|godstoryinfo.com|successstoryinfo.com|cxissuegk.com|learnmarketinfo.com|bhugolinfo.com|armypowerinfo.com|rsadnetworkinfo.com|rsinsuranceinfo.com|rsfinanceinfo.com|rsgamer.app|rssoftwareinfo.com|rshostinginfo.com|rseducationinfo.com|phonereviewinfo.com|makeincomeinfo.com|gknutshell.com|vichitrainfo.com|workproductivityinfo.com|dopomininfo.com|hostingdetailer.com|fitnesssguide.com|tradingfact4u.co|cryptofactss.com|softwaredetail.com|artoffocas.com|insurancesfact.com|travellingdetail.com
+@@*$ghide,domain=laweducationinfo.com|savemoneyinfo.com|worldaffairinfo.com|godstoryinfo.com|successstoryinfo.com|cxissuegk.com|learnmarketinfo.com|bhugolinfo.com|armypowerinfo.com|rsadnetworkinfo.com|rsinsuranceinfo.com|rsfinanceinfo.com|rsgamer.app|rssoftwareinfo.com|rshostinginfo.com|rseducationinfo.com|phonereviewinfo.com|makeincomeinfo.com|gknutshell.com|vichitrainfo.com|workproductivityinfo.com|dopomininfo.com|hostingdetailer.com|fitnesssguide.com|tradingfact4u.co|cryptofactss.com|softwaredetail.com|artoffocas.com|insurancesfact.com|travellingdetail.com
+
+! https://github.com/uBlockOrigin/uAssets/issues/21597
+cravesandflames.com##+js(set, go_popup, {})
+cravesandflames.com##[href^="https://apps.apple.com/"]
+cravesandflames.com##[href^="https://play.google.com/"]
+
+! https://www.reddit.com/r/uBlockOrigin/comments/1928sew/adblock_being_detected/
+filmypoints.in##+js(nano-sib, timer, 1000, 0.001)
+filmypoints.in##+js(set, count, 0)
+filmypoints.in###btn11:style(display: block !important;)
+filmypoints.in##.mh-wrapper,#btn1
+filmypoints.in##.col-md-12 > .wpsafe-top ~ :is(h2,h3,h4,p,ul)
+
+! tnshort.net (go.tnshort.net/grammarly)
+! https://github.com/uBlockOrigin/uAssets/issues/18477#issuecomment-1870857116
+financeyogi.net,finclub.in##+js(nano-sib, timer, *, 0.001)
+financeyogi.net,finclub.in###btn2, #btn5, #tp-snp2:style(display: block !important;)
+financeyogi.net,finclub.in###btn2, #btn5, #tp-snp2:others()
+
+! linksfire.co (link.linksfire.co/dLvqhe)
+! https://github.com/uBlockOrigin/uAssets/issues/8102
+blog.linksfire.co##+js(aopr, app_vars.force_disable_adblock)
+blog.linksfire.co##[href^="https://b3stcond1tions.com/"]
+blog.linksfire.co##div.separator > b
+blog.linksfire.co##.banner
+blog.linksfire.co##.ex2
+blog.linksfire.co##.link-details
+linksfire.*##+js(aopr, open)
+bartendingexpert.com###yuidea-snp:style(display: block !important;)
+bartendingexpert.com###yuidea-snp:others()
+freethailottery.live,progfu.com##+js(nano-sib, timer, 1600, 0.001)
+freethailottery.live,progfu.com##center, [src*="google.com/recaptcha/"], #yuidea-snp:style(display:block !important)
+freethailottery.live,progfu.com##center, [src*="google.com/recaptcha/"], #yuidea-snp:others()
+
+! linkco.pro (linkco.pro/N8kQfv)
+easywithcode.tech,letest25.co,truevpnlover.com##+js(nano-sib, timer, *, 0.001)
+loanteacher.in###tp-snp2:style(display: block !important;)
+letest25.co,loanteacher.in,truevpnlover.com###tp-snp2:others()
+easywithcode.tech###cross-snp2:others()
+
+! dollerlinksd.in (dollerlinksd.in/ZN4p)
+financebolo.com,rphost.in,vedamdigi.tech##+js(nano-sib, timer, *, 0.001)
+financebolo.com,rphost.in,vedamdigi.tech##+js(nowoif)
+financebolo.com,rphost.in###tp-snp2:others()
+vedamdigi.tech###cross-snp2:others()
+vedamdigi.tech##.g-recaptcha, #cross-verify-go, .captcha-check, [src*="google.com/recaptcha/"]:others()
+
+! linkpays.in (linkpays.in/Kdk)
+! https://github.com/uBlockOrigin/uAssets/discussions/17361#discussioncomment-10172750
+redfea.com,pranarevitalize.com,techyinfo.in,fitnessholic.net##+js(trusted-suppress-native-method, eval, '"/chp_?ad/"')
+redfea.com,pranarevitalize.com,techyinfo.in,fitnessholic.net###btn11, #tp-snp2, #rtg, #btn6, #wpsafe-snp:style(display: block !important;)
+redfea.com,pranarevitalize.com,techyinfo.in,fitnessholic.net###btn11, #tp-snp2, #rtg, #btn6, #wpsafe-snp:others()
+fitnessholic.net##+js(set, count, 0)
+
+! shorturllinks.com (shorturllinks.com/pv1TizfJ1)
+appkamods.com##+js(rmnt, script, deblocker)
+appkamods.com###tp98, #btn6:style(display: block !important;)
+appkamods.com###tp98, #btn6:others()
+
+! instantearn.in (instantearn.in/lnwOySrW)
+! https://runurl .in/e66Gss
+! https://github.com/uBlockOrigin/uAssets/discussions/17361#discussioncomment-9863075
+! https://github.com/uBlockOrigin/uAssets/discussions/17361#discussioncomment-10170046 (https://seturl .in/Ft5XgKR)
+cancelguider.online##+js(nano-sib, timer, *, 0.001)
+cancelguider.online##+js(nowoif)
+cancelguider.online###tp-snp2, #cross-snp2:others()
+petrainer.in###rtg-snp2:style(display: block !important;)
+petrainer.in###rtg-snp2:others()
+moderngyan.com,sattakingcharts.in,freshbhojpuri.com,bgmi32bitapk.in,bankshiksha.in,earn.mpscstudyhub.com,earn.quotesopia.com,money.quotesopia.com,best-mobilegames.com,learn.moderngyan.com,bharatsarkarijobalert.com,quotesopia.com,creditsgoal.com##+js(trusted-suppress-native-method, eval, '"/chp_?ad/"')
+moderngyan.com,sattakingcharts.in,freshbhojpuri.com,bgmi32bitapk.in,bankshiksha.in,earn.mpscstudyhub.com,earn.quotesopia.com,money.quotesopia.com,best-mobilegames.com,learn.moderngyan.com,bharatsarkarijobalert.com,quotesopia.com,creditsgoal.com##+js(aeld, click, Popunder)
+moderngyan.com,sattakingcharts.in,freshbhojpuri.com,bgmi32bitapk.in,bankshiksha.in,earn.mpscstudyhub.com,earn.quotesopia.com,money.quotesopia.com,best-mobilegames.com,learn.moderngyan.com,bharatsarkarijobalert.com,quotesopia.com,creditsgoal.com##+js(acs, eval, replace)
+moderngyan.com,sattakingcharts.in,freshbhojpuri.com,bgmi32bitapk.in,bankshiksha.in,earn.mpscstudyhub.com,earn.quotesopia.com,money.quotesopia.com,best-mobilegames.com,learn.moderngyan.com,bharatsarkarijobalert.com,quotesopia.com,creditsgoal.com###tp-snp2, #cross-snp2:style(display: block !important;)
+moderngyan.com,sattakingcharts.in,freshbhojpuri.com,bgmi32bitapk.in,bankshiksha.in,earn.mpscstudyhub.com,earn.quotesopia.com,money.quotesopia.com,best-mobilegames.com,learn.moderngyan.com,bharatsarkarijobalert.com,quotesopia.com,creditsgoal.com###tp-snp2, #cross-snp2, .tp-top:others()
+moderngyan.com,sattakingcharts.in,freshbhojpuri.com,bgmi32bitapk.in,bankshiksha.in,earn.mpscstudyhub.com,earn.quotesopia.com,money.quotesopia.com,best-mobilegames.com,learn.moderngyan.com,bharatsarkarijobalert.com,quotesopia.com,creditsgoal.com##.floating-ads-container
+moderngyan.com,sattakingcharts.in,freshbhojpuri.com,bgmi32bitapk.in,bankshiksha.in,earn.mpscstudyhub.com,earn.quotesopia.com,money.quotesopia.com,best-mobilegames.com,learn.moderngyan.com,bharatsarkarijobalert.com,quotesopia.com,creditsgoal.com##+js(set, count, 0)
+bgmi32bitapk.in,bankshiksha.in,earn.mpscstudyhub.com,earn.quotesopia.com,money.quotesopia.com,best-mobilegames.com,learn.moderngyan.com,bharatsarkarijobalert.com##+js(trusted-click-element, #tp-snp2, , 1000)
+bgmi32bitapk.in,bankshiksha.in,earn.mpscstudyhub.com,earn.quotesopia.com,money.quotesopia.com,best-mobilegames.com,learn.moderngyan.com,bharatsarkarijobalert.com##+js(trusted-click-element, #cross-snp2, , 1000)
+set.seturl.in##+js(acs, document.createElement, antiAdBlockerHandler)
+set.seturl.in##.blog-item
+set.seturl.in##.banner-inner
+set.seturl.in##.popSc
+get.instantearn.in##.banner-inner
+||attorney.homeloanis.com/safe
+! https://github.com/uBlockOrigin/uAssets/issues/27306
+earn.offerpagehub.fun##.floating-ads-container
+loan.techybull.in###overlay
+
+! instantlinks.in (instantlinks.in/Ve33sw)
+currentrecruitment.com,investorveda.com##+js(aopr, document.onmousedown)
+currentrecruitment.com,investorveda.com##+js(nano-sib, count, *, 0.001)
+currentrecruitment.com,investorveda.com###hometimerstartbtn, #hometimer, #yuidea-btmbtn, #btn6:style(display: block !important;)
+currentrecruitment.com,investorveda.com###hometimerstartbtn, #hometimer, #yuidea-btmbtn, #btn6:others()
+
+! revcut.net (go.revcut.net/OW71rahtyb4)
+! https://github.com/uBlockOrigin/uAssets/discussions/17361#discussioncomment-7478083
+! https://github.com/uBlockOrigin/uAssets/discussions/17361#discussioncomment-8241937
+!#if cap_html_filtering
+coingraph.us,impact24.us##^script:has-text(/checkAdBlocker|AdblockRegixFinder/)
+!#else
+coingraph.us,impact24.us##+js(rmnt, script, /checkAdBlocker|AdblockRegixFinder/)
+!#endif
+coingraph.us##+js(aeld, contextmenu)
+coingraph.us,impact24.us##+js(nostif, isRequestPresent)
+coingraph.us,impact24.us###form > [id], [id^="wpsafe-link"], [id^="plan"], .wpsafelink-button, #wpsafelinkhuman, [id][style="display: none;"]:style(display: block !important;)
+
+! onepagelink.in (onepagelink.in/fn0O)
+gorating.in,techkeshri.com###tp-snp2:style(display: block !important;)
+gorating.in,techkeshri.com###tp-snp2:others()
+
+! mdisk.pro / omegalinks.in (mdisk.pro/SxUtzZl)
+meclipstudy.in###notarobot, #gotolink:style(display: block !important;)
+meclipstudy.in###notarobot, #gotolink:others()
+meclipstudy.in###gotolink[disabled]:remove-attr(disabled)
+
+! cutt.ly (cutt.ly/QwF6jGZS)
+sportsonfr.com###wpsafe-link:style(display: block !important;)
+sportsonfr.com###wpsafe-link:others()
+
+! linkvhoriz.com (linkvhoriz.com/DZI6s)
+gurumu.net,kreatifparenting.com###wpsafe-link:style(display: block !important;)
+gurumu.net,kreatifparenting.com###wpsafe-link:others()
+
+! https://github.com/uBlockOrigin/uAssets/pull/21704
+foodupe.com###doad,.locked-action-link
+foodupe.com###donead:style(display: block !important;)
+foodupe.com##a[onclick*="adlink()"]:remove-attr(onclick)
+bloggingdaze.com##.locked-action-link
+bloggingdaze.com##a.get-link.disabled:remove-class(disabled)
+
+! shotzon.com (enagato.com/nOlVu)
+! https://github.com/AdguardTeam/AdguardFilters/issues/91553
+enagato.com##+js(aopr, open)
+enagato.com##+js(set, blurred, false)
+codesnse.com##+js(set, go_popup, {})
+codesnse.com##+js(nano-sib, counter, *, 0.001)
+codesnse.com##[href^="https://app.adjust.com/"]
+
+! pandaznetwork.com (pandaznetwork.com/TN8cD)
+pandaznetwork.com##+js(set, blurred, false)
+freemodsapp.xyz,panda.freemodsapp.in###wpsafe-link:style(display: block !important;)
+freemodsapp.xyz,panda.freemodsapp.in###wpsafe-link:others()
+
+! nanolinks.in (nanolinks.in/4o78F)
+itscybertech.com##+js(nano-sib, counter)
+itscybertech.com###combtn, .download.medium.button:style(display: inline-block !important;)
+computerpedia.in###tp98, #countdown:style(display: block !important;)
+computerpedia.in##+js(nano-sib, count, *, 0.001)
+computerpedia.in##+js(no-fetch-if, syndication)
+takez.co##+js(nano-sib, timer)
+takez.co##+js(nano-stb, shortenbl)
+takez.co##+js(nano-stb, enbll)
+takez.co###gtbtn, #displaySeconds
+takez.co###toshowtrlink, #gtbtn2:style(display: block !important;)
+takez.co###toshowtrlink, #gtbtn2, .divTableCell, #postfooterOk:others()
+
+! adsfly.in (adsfly.in/K9cXk)
+adsfly.in##+js(nowoif)
+rphost.in,techurlshort.in###notarobot, #btn7:style(display: block !important;)
+rphost.in,techurlshort.in###notarobot, #btn7:others()
+
+! sub4unlock.com (daniblogs.com/BF/956195hx)
+sub4unlock.com###file:remove-attr(disabled)
+sub4unlock.com###file:others()
+
+! https://github.com/uBlockOrigin/uAssets/issues/21837
+dlink2.net##+js(rpnt, script, var seconde = 10;, var seconde = 0;)
+dlink2.net##+js(set-cookie, clictune_pop, off)
+*$frame,domain=dlink2.net
+
+! https://github.com/uBlockOrigin/uAssets/issues/21893
+howtoconcepts.com##+js(no-fetch-if, googlesyndication)
+
+! https://github.com/AdguardTeam/AdguardFilters/issues/153146
+lifesurance.info##+js(set, showadas, true)
+lifesurance.info##center:others()
+
+! moonlinks.in (moonlinks.in/bvbvuK)
+! https://github.com/uBlockOrigin/uAssets/issues/21993
+cybercityhelp.in##+js(rmnt, script, adsbygoogle)
+cybercityhelp.in###username[required]:remove-attr(required)
+akcartoons.in,cybercityhelp.in###tp982, #btn6:style(display: block !important;)
+akcartoons.in,cybercityhelp.in###tp982, #btn6:others()
+! https://www.reddit.com/r/uBlockOrigin/comments/1eo406m/anti_adblock_on_this_site/
+! https://www.reddit.com/r/uBlockOrigin/comments/1eo406m/comment/lhfmucm/
+cybercityhelp.in##+js(aeld, submit, validateForm)
+! https://www.reddit.com/r/uBlockOrigin/comments/1ga5xgg/detecting_ublock/
+akcartoons.in,cybercityhelp.in##+js(set, alert, throwFunc)
+
+! https://go.unlockner.com/EPMJf
+! https://github.com/uBlockOrigin/uAssets/issues/22001
+iconicblogger.com##+js(rmnt, script, catch)
+iconicblogger.com###wpsafe-link:style(display: block !important;)
+iconicblogger.com###wpsafe-link:others()
+
+! ttps://paste.segurosdevida .site
+! https://github.com/uBlockOrigin/uAssets/issues/22024
+segurosdevida.site###wpsafe-generate, #wpsafe-link:style(display: block !important;)
+segurosdevida.site##[id^="wpsafe-wait"], #content-wrapper
+! https://github.com/uBlockOrigin/uAssets/discussions/17361#discussioncomment-9854119
+ikramlar.online##+js(trusted-suppress-native-method, eval, '"/chp_?ad/"')
+ikramlar.online##+js(no-fetch-if, googlesyndication)
+
+! https://github.com/uBlockOrigin/uAssets/issues/21907 (https://shrs.link/cvLcBL)
+@@||shareus.io^$ghide
+cookad.net,pmkisanlists.in,shramikcard.in,shareus.io##+js(aopr, antiAdBlockerHandler)
+cookad.net,pmkisanlists.in,shramikcard.in###bottomNewButton, #bottomButton:remove-attr(disabled)
+cookad.net,pmkisanlists.in,shramikcard.in##.timer, .shrs_btn, .tag, .link-open-modal:others()
+
+! https://tii.la/qczmBQKd
+! https://github.com/uBlockOrigin/uAssets/issues/18944
+! https://github.com/uBlockOrigin/uAssets/discussions/17361#discussioncomment-9947919 (https://iir .la/p978czolam)
+! https://github.com/uBlockOrigin/uAssets/issues/24560 (https://tvi .la/Zxp9jOYxc0)
+! https://www.reddit.com/r/uBlockOrigin/comments/1fdmypx/adblock_detected/ (http://tiny .cc/x8ilzz)
+/webroot/modern_theme/img/freeHostinglist.jpg$image,1p
+@@*$ghide,domain=tii.la|oko.sh|ckk.ai|oei.la|lnbz.la|iir.la|tvi.la|oii.la|tpi.li
+tvi.la,iir.la,tii.la,oko.sh,ckk.ai,oei.la,lnbz.la,oii.la,tpi.li##+js(no-fetch-if, /googlesyndication|inklinkor/)
+tvi.la,iir.la,tii.la,oko.sh,ckk.ai,oei.la,lnbz.la,oii.la,tpi.li##+js(no-xhr-if, /pagead2\.googlesyndication\.com|inklinkor\.com/)
+!#if cap_html_filtering
+tvi.la,iir.la,tii.la,oko.sh,ckk.ai,oei.la,lnbz.la,oii.la,tpi.li##^script:has-text(;break;case $.)
+tvi.la,iir.la,tii.la,oko.sh,ckk.ai,oei.la,lnbz.la,oii.la,tpi.li##^script:has-text(adb_detected)
+!#else
+tvi.la,iir.la,tii.la,oko.sh,ckk.ai,oei.la,lnbz.la,oii.la,tpi.li##+js(rmnt, script, ;break;case $.)
+tvi.la,iir.la,tii.la,oko.sh,ckk.ai,oei.la,lnbz.la,oii.la,tpi.li##+js(rmnt, script, adb_detected)
+!#endif
+tvi.la,iir.la,tii.la,oko.sh,ckk.ai,oei.la,lnbz.la,oii.la,tpi.li##+js(set, blurred, false)
+tvi.la,iir.la,tii.la,oko.sh,ckk.ai,oei.la,lnbz.la,oii.la,tpi.li##a[href][target="_blank"]
+tvi.la,iir.la,tii.la,oko.sh,ckk.ai,oei.la,lnbz.la,oii.la,tpi.li##.banner-inner
+tvi.la,iir.la,tii.la,oko.sh,ckk.ai,oei.la,lnbz.la,oii.la,tpi.li##.td-post-template-default.td-container
+tvi.la,iir.la,tii.la,oko.sh,ckk.ai,oei.la,blogtechh.com,lnbz.la,techbixby.com,blogmyst.com,wp2host.com,insmyst.com,host-buzz.com##+js(nowoif)
+host-buzz.com,insmyst.com,wp2host.com,blogtechh.com,lnbz.la,techbixby.com,blogmyst.com##+js(ra, onclick, button[onclick^="window.open"])
+host-buzz.com,insmyst.com,wp2host.com,blogtechh.com,lnbz.la,techbixby.com,blogmyst.com##+js(set, timeSec, 0)
+host-buzz.com,insmyst.com,wp2host.com,blogtechh.com,lnbz.la,techbixby.com,blogmyst.com##[class*="category-"], .td-pb-border-top, .td-footer-bottom-full.td-container, .td-container-wrap.td-sub-footer-container
+blogmystt.com,oii.la,tpi.li,wp2hostt.com##+js(nowoif)
+oii.la,tpi.li##+js(set, app_vars.please_disable_adblock, undefined)
+tpi.li##+js(ra, onclick, [onclick^="window.open"], stay)
+policiesreview.com##+js(nano-sib)
+||tpi.li^$csp=sandbox allow-forms allow-same-origin allow-scripts allow-modals allow-orientation-lock allow-pointer-lock allow-presentation allow-top-navigation
+||policiesreview.com^$csp=sandbox allow-forms allow-same-origin allow-scripts allow-modals allow-orientation-lock allow-pointer-lock allow-presentation allow-top-navigation
+! https://github.com/AdguardTeam/AdguardFilters/issues/200835
+hosttbuzz.com##+js(nowoif)
+
+! http://go.megafly.in/znj2u7olam
+! https://github.com/uBlockOrigin/uAssets/issues/18719
+techacode.com##+js(nostif, nextFunction, 250)
+techacode.com##+js(nobab)
+techacode.com##+js(noeval-if, adb)
+mtraffics.com##+js(nowoif, _blank)
+! https://github.com/uBlockOrigin/uAssets/discussions/17361#discussioncomment-6886166
+techacode.com,sahlmarketing.net###link, #btn6, #yuidea-snp:remove-attr(disabled)
+techacode.com,sahlmarketing.net##+js(set, count, 0)
+techacode.com##+js(aopr, SMart1)
+techacode.com##+js(rmnt, script, deblocker)
+techacode.com##+js(no-xhr-if, /doubleclick|googlesyndication/)
+
+! https://filelimited.com/KswO7
+trickms.com##+js(set, count, 0)
+trickms.com###tp98[disabled]:remove-attr(disabled)
+trickms.com###tp-snp2:style(display: block !important;)
+trickms.com###tp98, #btn6, #tp-snp2:others()
+
+! https://github.com/uBlockOrigin/uAssets/issues/22148
+travel.vebma.com,cloud.majalahhewan.com,crm.cekresi.me,ai.tempatwisata.pro##+js(no-fetch-if, ads)
+travel.vebma.com##.text-primary.inline-block, button.text-primary:others()
+travel.vebma.com,cloud.majalahhewan.com,crm.cekresi.me,ai.tempatwisata.pro##+js(aeld, blur, counter)
+travel.vebma.com,cloud.majalahhewan.com,crm.cekresi.me,ai.tempatwisata.pro##+js(nano-sib, /counter|wait/, *, 0.001)
+crm.cekresi.me,ai.tempatwisata.pro##+js(nowoif, tempat.org)
+adtival.network##div.box:has(.purple)
+
+! https://github.com/uBlockOrigin/uAssets/issues/22181 (pointlinks.in/BT1SC)
+rsrlink.in###wpsafe-link:style(display: block !important;)
+rsrlink.in###wpsafe-link:others()
+go.pointlinks.in###footer
+
+! https://github.com/AdguardTeam/AdguardFilters/issues/67449
+recipestutorials.com##+js(aopr, app_vars.force_disable_adblock)
+recipestutorials.com##+js(set, blurred, false)
+recipestutorials.com##.banner
+
+! https://github.com/AdguardTeam/AdguardFilters/issues/67650
+pureshort.*##+js(aopr, app_vars.force_disable_adblock)
+pureshort.*##+js(aopr, open)
+pureshort.*##+js(set, blurred, false)
+pureshort.*##.banner
+pureshort.*###link-view > br
+pureshort.*###link-view > a[href] > img
+speedynews.xyz##+js(nano-sib)
+||speedynews.xyz^$3p
+
+! https://github.com/uBlockOrigin/uAssets/issues/20447 (https://shrinkme.us/PhGI7?src=PSA)
+shrinke.*,shrinkme.*##+js(aopr, app_vars.force_disable_adblock)
+shrinke.*,shrinkme.*##+js(set, blurred, false)
+shrinke.*,shrinkme.*##.expop, .blog-item, footer, [src*="shrinkme."], .box-main h3, [hight="250px"]
+shrinke.*,shrinkme.*##+js(rmnt, script, window.open)
+mrproblogger.com,themezon.net##+js(aeld, load, doTest)
+mrproblogger.com,themezon.net###btn2, .tp-blue:style(display: block !important;)
+mrproblogger.com,themezon.net###btn2, .tp-blue:others()
+
+! https://github.com/AdguardTeam/AdguardFilters/issues/71991
+! https://shrinkforearn.xyz/PdCAO
+posterify.net##+js(trusted-suppress-native-method, eval, '"/chp_?ad/"')
+drinkspartner.com,apcvpc.com,posterify.net,manishclasses.in##body:remove-attr(style)
+drinkspartner.com,apcvpc.com,posterify.net,manishclasses.in##nav, .remove-sticky, .widget-area, .entry-content, .entry-header, .entry-meta, .comments-area, .wpjankari-social-wrapper, .site-footer, .gb-container, .featured-image, .has-inline-mobile-toggle.site-header, #top-container-2
+drinkspartner.com,apcvpc.com,posterify.net,manishclasses.in###bottomButton:style(display: block !important)
+drinkspartner.com,apcvpc.com,posterify.net,manishclasses.in##+js(rpnt, script, timeLeft = duration, timeLeft = 1)
+@@||doubleclick.net^$script,domain=shrinkforearn.in
+@@||googletagmanager.com^$script,domain=shrinkforearn.in
+shrinkforearn.in##+js(aopr, app_vars.force_disable_adblock)
+shrinkforearn.in,techyuth.xyz##+js(set, blurred, false)
+shrinkforearn.in##.box-main:style(font-size: 0px !important;)
+shrinkforearn.in##[class*="wp-image"]
+shrinkforearn.in##[href*="waufooke.com"], .footer, .banner-inner, .w-nav.nav-rounded-center
+
+
+! https://github.com/uBlockOrigin/uAssets/discussions/17361#discussioncomment-8362928
+faucet.ovh##+js(rmnt, script, /adblock.php)
+||dutchycorp.space/banner-advertising/$frame,3p,domain=faucet.ovh
+
+! https://github.com/uBlockOrigin/uAssets/discussions/17361#discussioncomment-8428899
+claimclicks.com##+js(aopr, checkAdsBlocked)
+
+! https://github.com/uBlockOrigin/uAssets/issues/22430
+infokeeda.xyz,webzeni.com##+js(set, iktimer, 0)
+infokeeda.xyz,webzeni.com##+js(nano-sib)
+infokeeda.xyz,webzeni.com##.gAd
+webzeni.com##+js(nano-stb, , 1000)
+webzeni.com##header
+
+! https://github.com/AdguardTeam/AdguardFilters/issues/129423
+! https://github.com/AdguardTeam/AdguardFilters/issues/199007
+||oii.io/sw.js$script
+oii.io##+js(nowoif)
+oii.io##+js(ra, onclick, .btn)
+oii.io##+js(set, blurred, false)
+gamezizo.com,oii.io##+js(noeval-if, ppu)
+||immeritousscraichingtarumari.monster^
+||nonentrantcrpehibbin.monster^
+gamezizo.com,oii.io###iframe_id
+gamezizo.com##[id^="ad"]
+oii.io###overlay
+
+! https://github.com/uBlockOrigin/uAssets/issues/8198
+! https://hblinks.pro/archives/80613
+hubdrive.*##+js(nowoif)
+hblinks.pro,hubcdn.vip,hubdrive.*##+js(aeld, , history.go)
+
+! https://github.com/uBlockOrigin/uAssets/issues/14790
+blog.workedbd.com,advisecreate.fun,uses-in-hindi.com,maxxfour.com,cybertyrant.com,gdspike.com,profitshort.com,courselinkfree.us,technorozen.com,hubdrive.me###top_nav, .rd_btn, .soractrl:style(display: block !important;)
+blog.workedbd.com,advisecreate.fun,uses-in-hindi.com,maxxfour.com,cybertyrant.com,gdspike.com,profitshort.com,courselinkfree.us,technorozen.com,hubdrive.me###top_nav, .rd_btn, .soractrl, .large:others()
+
+! https://github.com/AdguardTeam/AdguardFilters/issues/116330
+choiceappstore.xyz##+js(no-fetch-if, googlesyndication)
+choiceappstore.xyz###wpsafe-generate, #wpsafe-link:style(display: block !important;)
+choiceappstore.xyz##div[id^="wpsafe-wait"]
+
+! https://github.com/uBlockOrigin/uAssets/issues/12937
+du-link.in##+js(set, blurred, false)
+du-link.in##.banner
+
+! https://f.technicalatg.in/SNAnLfdZd
+! https://github.com/uBlockOrigin/uAssets/issues/22548
+atglinks.com##+js(rmnt, script, /aclib|break;|zoneNativeSett/)
+atglinks.com##+js(set, blurred, false)
+atglinks.com##.blog-item, ._th_times, .separator, .banner-inner, .box-main > [href], #footer
+djpunjab2.in,djqunjab.in,foodxor.com,geniussolutions.co,mealcold.com,mixrootmods.com,fartechy.com##+js(no-fetch-if, googlesyndication)
+djpunjab2.in,djqunjab.in,foodxor.com,geniussolutions.co,mealcold.com,mixrootmods.com,fartechy.com###wpsafe-link:style(display:block !important;)
+djpunjab2.in,djqunjab.in,foodxor.com,geniussolutions.co,mealcold.com,mixrootmods.com,fartechy.com###wpsafe-link:others()
+djqunjab.in,geniussolutions.co###interstitial-container
+geniussolutions.co##+js(aost, document.getElementById, adsBlocked)
+djqunjab.in##+js(rmnt, script, deblocker)
+! https://github.com/uBlockOrigin/uAssets/issues/25673
+skillheadlines.in##+js(aost, document.getElementById, adsBlocked)
+
+! https://github.com/uBlockOrigin/uAssets/discussions/17361#discussioncomment-8650815
+hosty.uprwssp.org###btnfianl:style(display: block !important;)
+
+! https://github.com/uBlockOrigin/uAssets/issues/22963
+lootdest.com##+js(nowoif, , 5)
+@@||0.entlysearchin.info^$ping,domain=lootdest.com
+
+! https://github.com/uBlockOrigin/uAssets/discussions/17361#discussioncomment-9140520
+investcrust.com##+js(no-fetch-if, googlesyndication)
+investcrust.com###wpsafe-link:style(display: block !important;)
+investcrust.com###wpsafe-link:others()
+
+! https://github.com/uBlockOrigin/uAssets/issues/21451
+! https://github.com/uBlockOrigin/uAssets/issues/23386
+@@*$ghide,domain=bluemediadownload.*|bluemediafile.*|bluemedialink.*|bluemediastorage.*|bluemediaurls.*|urlbluemedia.*
+.gif$image,domain=bluemediadownload.*|bluemediafile.*|bluemedialink.*|bluemediastorage.*|bluemediaurls.*|urlbluemedia.*
+bluemediadownload.*,bluemediafile.*,bluemedialink.*,bluemediastorage.*,bluemediaurls.*,urlbluemedia.*##+js(aopr, decodeURI)
+bluemediadownload.*,bluemediafile.*,bluemedialink.*,bluemediastorage.*,bluemediaurls.*,urlbluemedia.*##+js(aopr, open)
+bluemediadownload.*,bluemediafile.*,bluemedialink.*,bluemediastorage.*,bluemediaurls.*,urlbluemedia.*###ads-centter
+/fhbdhf.jpg$image,1p,domain=bluemediadownload.*|bluemediafile.*|bluemedialink.*|bluemediastorage.*|bluemediaurls.*|urlbluemedia.*
+!#if cap_html_filtering
+bluemediadownload.*,bluemediafile.*,bluemedialink.*,bluemediastorage.*,bluemediaurls.*,urlbluemedia.*##^script:has-text(FingerprintJS)
+!#else
+bluemediadownload.*,bluemediafile.*,bluemedialink.*,bluemediastorage.*,bluemediaurls.*,urlbluemedia.*##+js(rmnt, script, FingerprintJS)
+!#endif
+
+! https://github.com/uBlockOrigin/uAssets/issues/23540
+! https://lksfy.com/DzGXInOnJ
+cinedesi.in,thevouz.in,tejtime24.com,techishant.in##+js(no-fetch-if, ads)
+!#if env_firefox
+cinedesi.in,thevouz.in,tejtime24.com,techishant.in##+js(rmnt, script, /AdbModel|showPopup/)
+!#else
+cinedesi.in,thevouz.in,tejtime24.com,techishant.in##^script:has-text(/AdbModel|showPopup/)
+!#endif
+cinedesi.in##+js(rmnt, script, /adbl/i)
+cinedesi.in,thevouz.in,tejtime24.com,techishant.in##+js(nano-sib, interval, *)
+cinedesi.in,thevouz.in,tejtime24.com,techishant.in##.remove-sticky
+cinedesi.in,thevouz.in,tejtime24.com,techishant.in#@#.quads-location
+||youtube.com^$domain=tejtime24.com|thevouz.in|cinedesi.in|techishant.in
+! https://github.com/uBlockOrigin/uAssets/issues/23983
+@@||cdn.adpushup.com/*/adpushup.js$xhr,domain=tejtime24.com
+techishant.in##body:style(overflow: auto !important;)
+tejtime24.com##+js(aopr, navigator.brave)
+
+! https://linkjust.com/L4NXL3UI
+! https://github.com/uBlockOrigin/uAssets/discussions/17361#discussioncomment-10172657
+whatgame.xyz,mooonten.com,msic.site,fx-22.com,gold-24.net,forexrw7.com##+js(trusted-suppress-native-method, eval, '"/chp_?ad/"')
+whatgame.xyz,mooonten.com,msic.site,fx-22.com,gold-24.net,forexrw7.com##.btn-success, .btn-primary:style(display: block !important;)
+whatgame.xyz,mooonten.com,msic.site,fx-22.com,gold-24.net,forexrw7.com##+js(nano-stb, getElementById, *, 0.001)
+whatgame.xyz,mooonten.com,msic.site,fx-22.com,gold-24.net,forexrw7.com##+js(nano-sib, sec--, *, 0.001)
+whatgame.xyz,mooonten.com,msic.site,fx-22.com,gold-24.net,forexrw7.com##.btn-success, .btn-primary:others()
+
+! https://vnshortener.com/ZLXx/?sid=147295
+! https://github.com/uBlockOrigin/uAssets/discussions/17361#discussioncomment-9934577
+kbconlinegame.com,hamrojaagir.com,odijob.com###my-btn, #pro-continue, #pro-link:style(display: block !important;)
+kbconlinegame.com,hamrojaagir.com,odijob.com###my-btn, #pro-continue, #pro-link:others()
+kbconlinegame.com,hamrojaagir.com,odijob.com##+js(rmnt, script, /fetch|popupshow/)
+
+! https://github.com/uBlockOrigin/uAssets/issues/23796
+efhjd.com##+js(acs, navigator, FingerprintJS)
+
+! https://github.com/uBlockOrigin/uAssets/issues/24231
+buzzheavier.com##+js(nowoif, !buzzheavier.com)
+buzzheavier.com###unclear2
+
+! https://github.com/uBlockOrigin/uAssets/discussions/17361#discussioncomment-9537906
+jeuxenligne.xyz##form > [id][style="display: none;"]:style(display:block !important;)
+||earnbitmoon.xyz/multiads/multiads.php
+
+! https://link2paisa.com/Hd2kk
+edukaroo.com##+js(nano-sib, count, *, 0.001)
+
+! https://github.com/uBlockOrigin/uAssets/issues/24050
+! https://github.com/uBlockOrigin/uAssets/discussions/17361#discussioncomment-10351538 (https://stfly .biz/7gdPs)
+stfly.biz,airevue.net,atravan.net##+js(rmnt, script, justDetectAdblock)
+stfly.biz,airevue.net,atravan.net##+js(acs, EventTarget.prototype.addEventListener, delete window)
+stfly.biz,airevue.net,atravan.net##+js(no-xhr-if, ads)
+stfly.biz,airevue.net,atravan.net##div.justify-evenly.items-center.flex-wrap.flex.w-full
+stfly.biz,airevue.net,atravan.net##.my-20
+stfly.biz,airevue.net,atravan.net##.max-w-screen-lg.mt-6.prose-lg.prose.mx-auto > div:has(p)
+stfly.biz,airevue.net,atravan.net##.font-medium.text-sm.tracking-wider.uppercase.text-blue-400
+stfly.biz,airevue.net,atravan.net##.lg\:leading-tight.mt-1.lg\:tracking-tight.font-bold.lg\:text-5xl.text-4xl
+
+! https://github.com/uBlockOrigin/uAssets/issues/24042
+! https://github.com/uBlockOrigin/uAssets/issues/24313
+apkmodvn.com,mod1s.com##+js(nostif, adsPost)
+apkmodvn.com##+js(set-cookie, _ckLV1, 1)
+apkmoddone.com##+js(nostif, 1e3*)
+dl.apkmoddone.com,phongroblox.com##+js(nostif, /^/, 1000)
+dl.apkmoddone.com##+js(set-cookie, fckXBlock, 1)
+phongroblox.com##+js(set-cookie, antiBlock, 1)
+dl.apkmoddone.com,phongroblox.com##+js(rpnt, script, return!![], return![])
+dl.apkmoddone.com,phongroblox.com##+js(set, aSl.gcd, 0)
+apkmoddone.com##+js(nowoif, /wheceelt\.net|shopee\./, 10, obj)
+phongroblox.com##+js(nowoif, /\/4.+ _0/)
+www.apkmoddone.com##+js(rpnt, script, ;return;, , condition, _0x)
+!www.apkmoddone.com##+js(trusted-replace-argument, document.querySelector, 0, {"value": "body"}, condition, iframe)
+!www.apkmoddone.com##+js(rpnt, script, loadShort(directValue) {, loadShort(directValue) { location = "https://www.apkmodvn.com/p/sub-to-unlock.html?direct=" + btoa(directValue);)
+www.apkmoddone.com##+js(rpnt, script, /return Array[^;]+/, return true)
+apkmodvn.com##+js(rpnt, script, function sutounlock_0x, //function sutounlock_0x)
+apkmodvn.com##+js(set, delayClick, false)
+@@||acscdn.com/script/$script,3p,header=x-guploader-uploadid,domain=www.apkmoddone.com
+@@||acscdn.com/script/$script,3p,domain=www.apkmoddone.com
+@@||youradexchange.com/script/$xhr,3p,domain=www.apkmoddone.com
+@@||ipinfo.io/json$xhr,3p,domain=www.apkmoddone.com
+@@||alwingulla.com/88/tag.min.js$script,xhr,domain=www.apkmoddone.com
+@@||phongroblox.com^$ghide
+apkmodvn.com,phongroblox.com##[data-da]
+apkmodvn.com##.stuAd
+mod1s.com##a[href="javascript:;"]:has(> span:has-text(Advertisement))
+||acscdn.com/script/aclib.js$script,redirect-rule=noopjs
+||alwingulla.com^$script,3p,redirect-rule=noopjs,domain=apkmoddone.com
+
+! https://github.com/uBlockOrigin/uAssets/issues/24073
+thotpacks.xyz###popconlkr
+thotpacks.xyz##.modal-backdrop
+thotpacks.xyz##+js(set, blurred, false)
+
+! https://community.brave.com/t/more-popups-not-being-blocked/553184
+cloutgist.com##+js(aopr, open)
+cloutgist.com##[href^="https://app.adjust.com/"]
+
+! https://community.brave.com/t/tutwuri-id-pop-up-shortlink/553640
+sfile.mobi,tutwuri.id##+js(nowoif)
+tutwuri.id##+js(nano-sib)
+||blogger.googleusercontent.com^$image,domain=tutwuri.id
+
+! https://github.com/uBlockOrigin/uAssets/discussions/24144
+! https://github.com/uBlockOrigin/uAssets/discussions/17361#discussioncomment-10192870 (https://zipshort .net/TdySJWk)
+@@*$ghide,domain=bkgnews.in|ontechhindi.com
+bkgnews.in,ontechhindi.com##.floating-ads-container
+bkgnews.in,ontechhindi.com##.circular-progress, button, b > p > span:others()
+
+! https://github.com/uBlockOrigin/uAssets/issues/2495
+! https://github.com/uBlockOrigin/uAssets/issues/9760
+! https://github.com/AdguardTeam/AdguardFilters/issues/112330
+! https://github.com/AdguardTeam/AdguardFilters/issues/110385
+downfile.site##+js(rmnt, script, deblocker)
+! azmath.info,azsoft.*,downfile.site,downphanmem.com,expertvn.com,memangbau.com,trangchu.news,aztravels.net##+js(set, count, 0)
+azmath.info,azsoft.*,downfile.site,downphanmem.com,expertvn.com,memangbau.com,trangchu.news,aztravels.net##+js(aopr, SMart1)
+azmath.info,azsoft.*,downfile.site,downphanmem.com,expertvn.com,memangbau.com,trangchu.news,aztravels.net##+js(noeval-if, chp_ad)
+azmath.info,azsoft.*,downfile.site,downphanmem.com,expertvn.com,memangbau.com,trangchu.news,aztravels.net##+js(aeld, DOMContentLoaded, document.documentElement.lang.toLowerCase)
+expertvn.com##+js(rmnt, script, deblocker)
+trangchu.news##+js(rmnt, script, deblocker)
+trangchu.news##+js(no-xhr-if, /doubleclick|googlesyndication/)
+/fuckadb.js$badfilter
+megaurl.in,megafly.in##+js(ra, onclick, [onclick^="pop"])
+megaurl.in,megafly.in##+js(set, blurred, false)
+@@||megaurl.*^$ghide
+@@||expertvn.com^$ghide
+*$script,3p,denyallow=bootstrapcdn.com|cloudflare.com|google.com|googleapis.com|gstatic.com|hwcdn.net|jquery.com,domain=expertvn.com
+||monetiza.co^$3p
+||vidcrunch.com^$domain=aztravels.net|downfile.site
+@@*$ghide,domain=aztravels.net|downfile.site
+*$image,domain=app.trangchu.news|azmath.info,redirect-rule=1x1.gif
+
+! https://github.com/uBlockOrigin/uAssets/issues/24199
+!#if cap_html_filtering
+simana.online,fooak.com,joktop.com,evernia.site,falpus.com##^script:has-text(/FingerprintJS|openPopup/)
+!#else
+simana.online,fooak.com,joktop.com,evernia.site,falpus.com##+js(rmnt, script, /FingerprintJS|openPopup/)
+!#endif
+simana.online,fooak.com,joktop.com,evernia.site,falpus.com##+js(set, blurred, false)
+
+! https://github.com/uBlockOrigin/uAssets/discussions/17361#discussioncomment-9845073
+! https://github.com/uBlockOrigin/uAssets/issues/26480
+||atropinestatuarylandleaper.com^
+||tairdalwaly.click^
+zeroupload.com##[href="https://301alldomain.xyz/"]
+
+! https://github.com/uBlockOrigin/uAssets/discussions/17361#discussioncomment-9904041
+ielts-isa.edu.vn##+js(aeld, DOMContentLoaded, document.documentElement.lang.toLowerCase)
+ielts-isa.edu.vn##+js(set, count, 0)
+
+! https://github.com/uBlockOrigin/uAssets/discussions/17361#discussioncomment-9913537
+||cdn.jsdelivr.net/npm/maari/dist/maari.min.js$script,3p
+claim.8bit.ca##+js(aopr, adsBlocked)
+claim.8bit.ca##+js(aopr, Light.Popup)
+
+! https://rinku .me/4nohEFnV?src=PSA
+! https://github.com/uBlockOrigin/uAssets/issues/10291
+! https://github.com/uBlockOrigin/uAssets/discussions/17361#discussioncomment-10242078 (https://shortsfly .me/xznw)
+! https://www.reddit.com/r/uBlockOrigin/comments/v7lncl/another_antiadblocker/
+advertisingexcel.com,allcryptoz.net,batmanfactor.com,crewbase.net,crewus.net,documentaryplanet.xyz,gametechreviewer.com,midebalonu.net,misterio.ro,phineypet.com,seory.xyz,shinbhu.net,shinchu.net,substitutefor.com,talkforfitness.com,thefitbrit.co.uk,thumb8.net,thumb9.net,topcryptoz.net,uniqueten.net,ultraten.net##.a, .b, .c, .d, .e, .f, .g
+! https://www.reddit.com/r/uBlockOrigin/comments/xbjszd/
+*$script,redirect-rule=noopjs,domain=allcryptoz.net|batmanfactor.com|crewbase.net|crewus.net|documentaryplanet.xyz|gametechreviewer.com|midebalonu.net|misterio.ro|seory.xyz|shinbhu.net|shinchu.net|substitutefor.com|talkforfitness.com|thefitbrit.co.uk|thumb8.net|thumb9.net|topcryptoz.net|uniqueten.net|ultraten.net
+allcryptoz.net,batmanfactor.com,crewbase.net,crewus.net,documentaryplanet.xyz,gametechreviewer.com,midebalonu.net,misterio.ro,phineypet.com,seory.xyz,shinbhu.net,shinchu.net,substitutefor.com,thefitbrit.co.uk,thumb8.net,thumb9.net,topcryptoz.net,uniqueten.net,ultraten.net###overlay
+*$frame,redirect-rule=noopframe,domain=allcryptoz.net|batmanfactor.com|crewbase.net|crewus.net|documentaryplanet.xyz|gametechreviewer.com|midebalonu.net|misterio.ro|seory.xyz|shinbhu.net|shinchu.net|substitutefor.com|talkforfitness.com|thefitbrit.co.uk|thumb8.net|thumb9.net|topcryptoz.net|uniqueten.net|ultraten.net
+*$xhr,redirect-rule=nooptext,domain=allcryptoz.net|batmanfactor.com|crewbase.net|crewus.net|documentaryplanet.xyz|gametechreviewer.com|midebalonu.net|misterio.ro|seory.xyz|shinbhu.net|shinchu.net|substitutefor.com|talkforfitness.com|thefitbrit.co.uk|thumb8.net|thumb9.net|topcryptoz.net|uniqueten.net|ultraten.net
+*$image,redirect-rule=1x1.gif,domain=allcryptoz.net|batmanfactor.com|crewbase.net|crewus.net|documentaryplanet.xyz|gametechreviewer.com|midebalonu.net|misterio.ro|seory.xyz|shinbhu.net|shinchu.net|substitutefor.com|talkforfitness.com|thefitbrit.co.uk|thumb8.net|thumb9.net|topcryptoz.net|uniqueten.net|ultraten.net
+@@*$ghide,domain=allcryptoz.net|batmanfactor.com|crewbase.net|crewus.net|documentaryplanet.xyz|gametechreviewer.com|midebalonu.net|misterio.ro|seory.xyz|shinbhu.net|shinchu.net|substitutefor.com|talkforfitness.com|thefitbrit.co.uk|thumb8.net|thumb9.net|topcryptoz.net|uniqueten.net|ultraten.net
+@@*$xhr,script,1p,domain=allcryptoz.net|batmanfactor.com|crewbase.net|crewus.net|documentaryplanet.xyz|gametechreviewer.com|midebalonu.net|misterio.ro|seory.xyz|shinbhu.net|shinchu.net|substitutefor.com|talkforfitness.com|thefitbrit.co.uk|thumb8.net|thumb9.net|topcryptoz.net|uniqueten.net|ultraten.net
+*$object,empty,domain=allcryptoz.net|batmanfactor.com|crewbase.net|crewus.net|documentaryplanet.xyz|gametechreviewer.com|midebalonu.net|misterio.ro|seory.xyz|shinbhu.net|shinchu.net|substitutefor.com|talkforfitness.com|thefitbrit.co.uk|thumb8.net|thumb9.net|topcryptoz.net|uniqueten.net|ultraten.net
+! https://github.com/uBlockOrigin/uAssets/discussions/17361#discussioncomment-7422831
+bestclaimtrx.xyz##+js(no-xhr-if, popunder)
+! https://github.com/uBlockOrigin/uAssets/discussions/17361#discussioncomment-9939400
+advertisingexcel.com,allcryptoz.net,batmanfactor.com,beautifulfashionnailart.com,crewbase.net,crewus.net,documentaryplanet.xyz,gametechreviewer.com,midebalonu.net,misterio.ro,phineypet.com,seory.xyz,shinbhu.net,shinchu.net,substitutefor.com,talkforfitness.com,thefitbrit.co.uk,thumb8.net,thumb9.net,topcryptoz.net,uniqueten.net,ultraten.net##+js(rpnt, script, "'IFRAME'", "'BODY'")
+advertisingexcel.com,allcryptoz.net,batmanfactor.com,beautifulfashionnailart.com,crewbase.net,documentaryplanet.xyz,crewus.net,gametechreviewer.com,midebalonu.net,misterio.ro,phineypet.com,seory.xyz,shinbhu.net,shinchu.net,substitutefor.com,talkforfitness.com,thefitbrit.co.uk,thumb8.net,thumb9.net,topcryptoz.net,uniqueten.net,ultraten.net##+js(set, document.hasFocus, trueFunc)
+
+! https://github.com/uBlockOrigin/uAssets/issues/4368#issuecomment-452155399
+! https://youshort.me/rCsn => bantenexis.com
+youshort.me##+js(aopr, open)
+youshort.me##.blog-item
+bantenexis.com###wpsafe-generate, #wpsafe-link:style(display: block !important;)
+bantenexis.com##div[id^="wpsafe-wait"]
+! https://github.com/uBlockOrigin/uAssets/issues/24406 (https://go.paid4link .com/rsXS)
+||link.paid4link.com/img/cdn_adcash.mp4
+bantenexis.com##+js(no-fetch-if, googlesyndication)
+link.paid4link.com##.card
+link.paid4link.com##+js(nowoif)
+link.paid4link.com##+js(aeld, click, maxclick)
+link.paid4link.com##+js(set, blurred, false)
+link.paid4link.com##+js(aeld, click, , elements, #get-link-button)
+indobo.com##+js(nowoif, _blank)
+tutorialsaya.com##+js(prevent-fetch, adsbygoogle)
+tutorialsaya.com,indobo.com###wpsafe-generate, #wpsafe-link:others()
+tutorialsaya.com,indobo.com###wpsafe-generate, #wpsafe-link:style(display: block !important;)
+
+! https://github.com/uBlockOrigin/uAssets/discussions/17361#discussioncomment-6401093 (https://exalink .fun/OWm6hfdmzsa)
+exactpay.online##+js(aopr, htmls)
+exactpay.online##+js(set, document.hasFocus, trueFunc)
+||exactpay.online/forex/index.js
+exalink.fun##+js(set, blurred, false)
+||earnbitmoon.club/promo/EBM-300x250.gif
+exactpay.online##+js(aopr, Swal.fire)
+exactpay.online##iframe[src^="https://cryptocoinsad.com/"]
+||exactpay.online/Bitmedia.html$frame,redirect=noop.html
+! https://github.com/uBlockOrigin/uAssets/discussions/17361#discussioncomment-9991539 (https://shortsurl .pro/Mg5qgiXs)
+exactpay.online##+js(no-fetch-if, surfe.pro)
+exactpay.online##+js(no-xhr-if, czilladx)
+exactpay.online##form > div:style(display: flex !important;)
+||rollercoin.com^$image,3p,redirect-rule=1x1.gif,domain=exactpay.online
+! https://github.com/uBlockOrigin/uAssets/discussions/17361#discussioncomment-10421465
+exactpay.online##+js(rpnt, script, "'IFRAME'", "'BODY'")
+
+! https://github.com/uBlockOrigin/uAssets/issues/24490
+litonmods.com##+js(no-fetch-if, googlesyndication)
+litonmods.com###wpsafe-link:style(display: block !important;)
+litonmods.com###wpsafe-link:others()
+litonmods.com##+js(noeval-if, adsbygoogle)
+
+! https://www.reddit.com/r/uBlockOrigin/comments/1eb1y8a/too_many_ads_and_timer_in_this_link/ (https://mypowerlinks .org/X2qohOHP)
+.gif^$image,domain=universitiesonline.xyz
+universitiesonline.xyz##+js(no-fetch-if, googlesyndication)
+universitiesonline.xyz##.popup
+universitiesonline.xyz##.overlay
+universitiesonline.xyz###tp-generate, #tp-snp2:style(display: block !important;)
+
+! https://github.com/uBlockOrigin/uAssets/discussions/17361#discussioncomment-10235219 (https://inshorturl .com/RsxDYfy)
+indiamaja.com,5ghindi.in##+js(rpnt, script, /\d{4}/gm, 10, condition, count)
+indiamaja.com,5ghindi.in###tp98, #btn6, .box-main, .captcha-check:others()
+inshorturl.com##+js(rpnt, script, 3000), 10))
+
+! https://www.reddit.com/r/uBlockOrigin/comments/1eo47wy/antiadblock_popup_on_filesuploadin/
+filesupload.in##+js(no-fetch-if, adsbygoogle.js)
+filesupload.in###wpsafe-link:style(display: block !important;)
+indianshortner.com##.banner
+indianshortner.com##a[href^="https://t.me/"]
+
+! https://github.com/uBlockOrigin/uAssets/discussions/17361#discussioncomment-10404879 (https://shortxlinks .com/CapCut)
+shortxlinks.com##+js(set, blurred, false)
+shortxlinks.com##[href^="https://app.youcine.vip/"]
+mtcremix.com##+js(trusted-suppress-native-method, eval, '"/chp_?ad/"')
+mtcremix.com##+js(aost, document.getElementsByTagName, adsBlocked)
+mtcremix.com##+js(no-fetch-if, ads)
+
+! https://github.com/uBlockOrigin/uAssets/issues/17548
+! https://github.com/uBlockOrigin/uAssets/issues/24504
+jytechs.in,dev.miuiflash.com,djxmaza.in,thecubexguide.com##+js(spoof-css, [id^="div-gpt-ad"], display, block)
+/devfiles.pages.dev\/img\/[a-zA-Z0-9]{8,}.jpeg/$from=jytechs.in|dev.miuiflash.com|djxmaza.in|thecubexguide.com
+rfiql.com,gujjukhabar.in,smartfeecalculator.com,djxmaza.in,thecubexguide.com,jytechs.in###dlp, #dlndiv, #plzw, div:has(>.icon), nav:others()
+rfiql.com,gujjukhabar.in,smartfeecalculator.com,djxmaza.in,thecubexguide.com,jytechs.in##+js(rpnt, script, "isadblock = 1;", "isadblock = 0;")
+rfiql.com,gujjukhabar.in,smartfeecalculator.com,djxmaza.in,thecubexguide.com,jytechs.in##+js(rpnt, script, '"#sdl"', '"#dln"')
+rfiql.com,gujjukhabar.in,smartfeecalculator.com,djxmaza.in,thecubexguide.com,jytechs.in##+js(rmnt, script, DisableDevtool)
+rfiql.com,gujjukhabar.in,smartfeecalculator.com,djxmaza.in,thecubexguide.com,jytechs.in##+js(nowoif, !devuploads.com)
+rfiql.com,gujjukhabar.in,smartfeecalculator.com,djxmaza.in,thecubexguide.com,jytechs.in##+js(nano-sib, , *, 0.02)
+rfiql.com,gujjukhabar.in,smartfeecalculator.com,djxmaza.in,thecubexguide.com,jytechs.in##+js(nano-stb, , *, 0.02)
+||devuploads.com/devfiles/js/devtools.js
+
+! https://github.com/uBlockOrigin/uAssets/issues/21445
+dropgalaxy.*,financemonk.net##+js(rpnt, script, event.message);, 'event.message); /*start*/ !function(){"use strict";let t={log:window.console.log.bind(console),getPropertyValue:CSSStyleDeclaration.prototype.getPropertyValue,setAttribute:Element.prototype.setAttribute,getAttribute:Element.prototype.getAttribute,appendChild:Element.prototype.appendChild,remove:Element.prototype.remove,cloneNode:Element.prototype.cloneNode,Element_attributes:Object.getOwnPropertyDescriptor(Element.prototype,"attributes").get,Array_splice:Array.prototype.splice,Array_join:Array.prototype.join,createElement:document.createElement,getComputedStyle:window.getComputedStyle,Reflect:Reflect,Proxy:Proxy,crypto:window.crypto,Uint8Array:Uint8Array,Object_defineProperty:Object.defineProperty.bind(Object),Object_getOwnPropertyDescriptor:Object.getOwnPropertyDescriptor.bind(Object),String_replace:String.prototype.replace},e=t.crypto.getRandomValues.bind(t.crypto),r=function(e,r,l){return"toString"===r?e.toString.bind(e):t.Reflect.get(e,r,l)},l=function(r){let o=function(t){return t.toString(16).padStart(2,"0")},p=new t.Uint8Array((r||40)/2);e(p);let n=t.String_replace.call(t.Array_join.call(Array.from(p,o),""),/^\d+/g,"");return n.length<3?l(r):n},o=l(15);window.MutationObserver=new t.Proxy(window.MutationObserver,{construct:function(e,r){let l=r[0],p=function(e,r){for(let p=e.length,n=p-1;n>=0;--n){let c=e[n];if("childList"===c.type&&c.addedNodes.length>0){let i=c.addedNodes;for(let a=0,y=i.length;a<y;++a){let u=i[a];if(u.localName===o){t.Array_splice.call(e,n,1);break}}}}0!==e.length&&l(e,r)};r[0]=p;let n=t.Reflect.construct(e,r);return n},get:r}),window.getComputedStyle=new t.Proxy(window.getComputedStyle,{apply(e,l,p){let n=t.Reflect.apply(e,l,p);if("none"===t.getPropertyValue.call(n,"clip-path"))return n;let c=p[0],i=t.createElement.call(document,o);t.setAttribute.call(i,"class",t.getAttribute.call(c,"class")),t.setAttribute.call(i,"id",t.getAttribute.call(c,"id")),t.setAttribute.call(i,"style",t.getAttribute.call(c,"style")),t.appendChild.call(document.body,i);let a=t.getPropertyValue.call(t.getComputedStyle.call(window,i),"clip-path");return t.remove.call(i),t.Object_defineProperty(n,"clipPath",{get:(()=>a).bind(null)}),n.getPropertyValue=new t.Proxy(n.getPropertyValue,{apply:(e,r,l)=>"clip-path"!==l[0]?t.Reflect.apply(e,r,l):a,get:r}),n},get:r})}(); document.currentScript.textContent=document.currentScript.textContent.replace(/\/\*start\*\/(.*)\/\*end\*\//g,"");/*end*/')
+*$image,redirect-rule=32x32.png,domain=dropgalaxy.*|financemonk.net
+@@*$ghide,domain=dropgalaxy.*|financemonk.net
+@@||doubleclick.net^$script,image,domain=dropgalaxy.*|financemonk.net
+@@||adoto.net^$script,domain=dropgalaxy.*|financemonk.net
+@@||google-analytics.com^$script,domain=dropgalaxy.*|financemonk.net
+@@||googletagmanager.com^$script,domain=dropgalaxy.*|financemonk.net
+@@||googlesyndication.com^$script,xhr,frame,image,domain=dropgalaxy.*|financemonk.net
+@@||ampproject.org^$script,domain=dropgalaxy.*|financemonk.net
+@@||cdn.jsdelivr.net/gh/prebid/*$script,domain=dropgalaxy.*|financemonk.net
+@@||googlesyndication.com^$frame,image,domain=dropgalaxy.*|financemonk.net
+@@||srtb.msn.com/auction$xhr,domain=dropgalaxy.*|financemonk.net
+@@*$script,xhr,from=dropgalaxy.*|financemonk.net,to=googlesyndication.com|doubleclick.net|rsc.cdn77.org|vlitag.com|adoto.net|a2zapk.com|login.popmonetizer.com
+dropgalaxy.*,financemonk.net##iframe[id^="google_ads_iframe_/"], div[id^="adm-container-"]:style(clip-path: circle(0) !important;)
+||financemonk.net/adgpt.js$script,1p,domain=dropgalaxy.*|financemonk.net,replace=/none/block/g
+||financemonk.net/js/countd.js$script,domain=dropgalaxy.*|financemonk.net,replace=/^setTimeout[^(]*\([^\)].*[\s\S\n]*//gm
+dropgalaxy.*,financemonk.net##+js(nowoif)
+dropgalaxy.*,financemonk.net##+js(rpnt, script, /\.cloudfront\.net|window\.open/g, false)
+
+! https://github.com/uBlockOrigin/uAssets/issues/25154
+advicefunda.com,bestloanoffer.net,computerpedia.in,techconnection.in##+js(no-fetch-if, ads)
+advicefunda.com,bestloanoffer.net,computerpedia.in,techconnection.in##+js(trusted-suppress-native-method, eval, '"/chp_?ad/"')
+advicefunda.com,bestloanoffer.net,techconnection.in##+js(nano-sib, count, *, 0.001)
+advicefunda.com,bestloanoffer.net,computerpedia.in,techconnection.in##.overlay
+advicefunda.com,bestloanoffer.net,computerpedia.in,techconnection.inn##.popup
+
+! https://github.com/uBlockOrigin/uAssets/discussions/17361#discussioncomment-10555878
+dailytech-news.eu##+js(nostif, _0x)
+dailytech-news.eu##+js(rpnt, script, /element\.contains\(document\.activeElement\)|document\.hidden && !timeCounted/g, true)
+
+! https://github.com/uBlockOrigin/uAssets/issues/25226 - (https://worldmak .com/?c1d952d8)
+worldmak.com##+js(no-fetch-if, googlesyndication)
+technoinformations.com,worldmak.com###wpsafe-link:style(display: block !important;)
+
+! https://github.com/uBlockOrigin/uAssets/issues/25386
+bollywoodchamp.in##+js(trusted-suppress-native-method, eval, '"/chp_?ad/"')
+
+! https://github.com/AdguardTeam/AdguardFilters/issues/189697
+texw.online##+js(trusted-suppress-native-method, eval, '"/chp_?ad/"')
+
+! https://github.com/uBlockOrigin/uAssets/discussions/17361#discussioncomment-10834278
+ikingfile.mooo.com##+js(nowoif)
+
+! https://github.com/uBlockOrigin/uAssets/discussions/17361#discussioncomment-10952637
+fuckingfast.net##+js(set, window.adLink, null)
+fuckingfast.co##+js(rpnt, script, !seen && ad, false)
+||fuckingfast.co/f/*/dl^$xhr,1p
+||senditfast.cloud^$doc
+
+! https://www.reddit.com/r/uBlockOrigin/comments/1g59yxn/adblock_detection_on_streamelementscom/ (https://strms .net/callofdragons_zelderler)
+! https://link.streamelements.com/startrek_ribenchi anti-adb
+streamelements.com##+js(trusted-set, google_srt, json:0.61234)
+streamelements.com##+js(set, sensorsDataAnalytic201505, {})
+||validate.strms.net/*adblock%3Dtrue$doc,uritransform=/adblock%3Dtrue/adblock%3Dfalse/
+*$script,3p,redirect-rule=noop.js,domain=streamelements.com|strms.net
+
+! shortylink. store popup
+shortylink.store##+js(aopr, open)
+
+! https://github.com/uBlockOrigin/uAssets/discussions/17361#discussioncomment-11102622 (https://financacerta.com/?adlinkfly=ciUFc)
+financacerta.com,encurtads.net##+js(nostif, checkAdBlock)
+financacerta.com,encurtads.net###wpsafe-link:style(display: block !important;)
+financacerta.com,encurtads.net###wpsafe-link, .text-center.wpsafe-top > div > h1:others()
+financacerta.com,encurtads.net##+js(rmnt, script, popUp)
+
+! https://github.com/uBlockOrigin/uAssets/discussions/17361#discussioncomment-11134851
+khaddavi.net,lokerwfh.net##+js(nano-sib)
+khaddavi.net,lokerwfh.net##+js(no-xhr-if, adsbygoogle)
+khaddavi.net,lokerwfh.net##+js(nowoif, _blank)
+
+! https://github.com/uBlockOrigin/uAssets/discussions/17361#discussioncomment-11470419
+driveup.sbs##+js(rpnt, script, window.location.href, temp, includes, startDownloads)
+driveup.sbs##+js(aopr, doOpen)
+driveup.sbs##+js(aeld, click, window.open)
+
+! https://github.com/uBlockOrigin/uAssets/issues/26411
+! https://github.com/uBlockOrigin/uAssets/issues/26750
+upfiles.app,upfiles-urls.com##+js(aeld, DOMContentLoaded, history.go)
+upfiles.app,upfiles-urls.com,upfion.com##+js(aeld, click, shouldOpenPopUp)
+upfiles.app,upfiles-urls.com##+js(set, blurred, false)
+rentry.co##article:has(#download-your-archive-file)
+||sharecube.pro^$all
+||flyshare.cfd^$all
+
+! shortencash. click antiadb
+shortencash.click##+js(nostif, displayAdBlockerMessage)
+
+! popup redirects
+90fpsconfig.in,katdrive.link,kmhd.net##+js(aeld, , history.go)
+! https://github.com/AdguardTeam/AdguardFilters/issues/199002
+kmhd.net##.entry-content > div[class^="code-block"] > h4[class][style^="text-align: center;"]
+
+! mobilejsr. com antiadb
+@@||mobilejsr.com^$ghide
+
+! bollydrive. rest adpopup redirection
+bollydrive.rest##+js(aeld, , history.go)
+
+! https://github.com/uBlockOrigin/uAssets/discussions/17361#discussioncomment-11596209
+compu-pc.com##+js(acs, document.querySelectorAll, pastepc)
+
+! https://github.com/uBlockOrigin/uAssets/discussions/17361#discussioncomment-11656328
+quins.us##+js(no-fetch-if, doubleclick, , {"type": "opaque"})
+quins.us##+js(set, document.hasFocus, trueFunc)
+
+! https://github.com/uBlockOrigin/uAssets/issues/26597
+!#if cap_html_filtering
+flycutlink.com##^script:has-text(/google_ad_client|popMagic/)
+!#else
+flycutlink.com##+js(acs, document.addEventListener, google_ad_client)
+flycutlink.com##+js(acs, document.querySelectorAll, popMagic)
+!#endif
+flycutlink.com##+js(set, blurred, false)
+flycutlink.com##+js(nowoif)
+flycutlink.com##+js(set, go_popup, {})
+
+! https://github.com/uBlockOrigin/uAssets/issues/26614
+filespayout.com##+js(nowoif)
+filespayout.com###normal-box
+filespayout.com##center > a[rel]
+||boarfishesquandangsunderdried.com^
+
+! https://github.com/uBlockOrigin/uAssets/discussions/17361#discussioncomment-11709903
+||anylinks.in/full*^url=aHR0c$doc,urlskip=?url -base64
+mastkhabre.com##+js(rmnt, script, /adsbygoogle|detectAdBlock/)
+
+! https://github.com/AdguardTeam/AdguardFilters/issues/195744
+updown.fun##+js(no-fetch-if, googlesyndication)
+
+! https://github.com/uBlockOrigin/uAssets/discussions/17361#discussioncomment-11783074
+qthang.net##+js(aopr, app_vars.force_disable_adblock)
+
+! howblogs. xyz ad popups
+||howblogs.xyz^$csp=script-src 'self' *.googleapis.com *.bootstrapcdn.com *.google.com *.gstatic.com
+||glashanburg.com^
+
+! techzed. info popups
+techzed.info##+js(nowoif)
+
+! xdl.my.id popup redirect
+xdl.my.id##+js(rpnt, script, window.location.href, temp, includes, linkToOpen)
+
+! https://github.com/uBlockOrigin/uAssets/discussions/17361#discussioncomment-11872440
+@@||bcvc.ink/prebid-ads.js$script,1p
+
+! https://community.brave.com/t/new-site-that-recognize-brave-adblocker/595593
+tickhosting.com##+js(set, detectedAdblock, undefined)
+*$xhr,3p,redirect-rule=nooptext,domain=tickhosting.com
+
+! krakenfiles. com popups
+krakenfiles.com##+js(nowoif)
+||wounofoarausooy.net^$popup
+
+! https://github.com/uBlockOrigin/uAssets/issues/27050
+aman-dn.blogspot.com#@#.ads-ad
+aman-dn.blogspot.com###overlay
+aman-dn.blogspot.com###popup
+aman-dn.blogspot.com##body:style(overflow: auto !important;)
+aman-dn.blogspot.com##span[style]:has(> span[style]:has-text(ADVERTISEMENT))
+aman-dn.blogspot.com###info-message:has-text(ADBLOCK)
+aman-dn.blogspot.com##+js(nano-sib, countdown)
+
+! https://github.com/AdguardTeam/AdguardFilters/issues/197502
+in91vip.win##+js(rpnt, script, (isAdsenseBlocked), (false))
+in91vip.win##+js(set, isTabActive, true)
+in91vip.win###continueBtn
+
+! https://github.com/brave/adblock-lists/issues/2200 2filmy4web.com.in
+*$script,3p,domain=2filmy4web.com.in|links.filmymeet.wiki
+360news4u.net##+js(trusted-override-element-method, HTMLAnchorElement.prototype.click, a[target="_blank"])
+360news4u.net##+js(aeld, , history.go)
+
+! https://github.com/AdguardTeam/AdguardFilters/issues/198527
+dayuploads.com##+js(nowoif)
+
+! hindinews360.in antiadb
+hindinews360.in##+js(no-fetch-if, adsbygoogle)
+
+! https://github.com/uBlockOrigin/uAssets/issues/27246
+go.linkify.ru##.overlay
+go.linkify.ru##.banner
+go.linkify.ru##+js(ra, href, [href*="survey"], stay)
+
+! https://github.com/uBlockOrigin/uAssets/issues/27251
+hypershort.com##+js(aeld, click, adForm)
+hypershort.com##+js(aeld, , history.go)
+hypershort.com##.linkcontain > button:has-text(Download Link)
+
+! https://github.com/AdguardTeam/AdguardFilters/issues/199419
+cutyion.com##+js(aeld, click, shouldOpenPopUp)
+||hk6vdj4z.click^
+
+! https://www.reddit.com/r/uBlockOrigin/comments/1j5oow3/4khdcom_detects_adblocker_nsfw/
+4khd.com##+js(no-xhr-if, ?testing)
+4khd.com##+js(acs, document.querySelectorAll, popMagic)
+
+! indiainfo4u.in antiadb/downloads at https://episode.urlshortpro.xyz/archives/6615
+indiainfo4u.in##+js(no-fetch-if, /adsbygoogle|googletagservices/)
+
+! https://github.com/uBlockOrigin/uAssets/issues/27587
+!#if cap_html_filtering
+weshare.is##^script:has-text(onDevToolOpen)
+!#else
+weshare.is##+js(rmnt, script, onDevToolOpen)
+!#endif
+weshare.is##+js(no-fetch-if, adsbygoogle)
+weshare.is##+js(aeld, blur)
+
+! https://github.com/easylist/easylist/pull/21363
+*$script,3p,denyallow=code.jquery.com|challenges.cloudflare.com,domain=filepv.com
+
+! https://go.shortnest.com/5hMV4Cd - popup
+go.shortnest.com##+js(nowoif)
+go.shortnest.com##+js(nano-stb, , 6000)
+||qty3e.pro^$all
+
+! https://savetub.com/wv9slh ad popup
+savetub.com##+js(aopr, open)
+!
