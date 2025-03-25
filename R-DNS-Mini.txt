@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Title: DNS Lists (Curated)
+! Title: RK's DNS BlockList
 !
 ||0-02.net^
 ||0-architecture.com^
