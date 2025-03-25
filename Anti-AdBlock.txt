@@ -1,8 +1,5 @@
 [Adblock Plus 2.0]
-! Title: Anti-AdBlock
-! Homepage: https://github.com/AdguardTeam/AdGuardFilters
-! License: https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE
-! Expires: 7 days (update frequency)
+! Title: RiMoN's Anti-AdBlock List
 !
 ! Good: ||example.org/adblock/detect.js
 ! Good: @@/adblocker/detect.js$domain=example.org
