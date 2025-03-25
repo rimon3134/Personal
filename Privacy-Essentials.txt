@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Title: RiMoN's PEnhanced
+! Title: Enhanced Privacy List
 !
 ||0000000000000000000000.com^
 ||0rg.us^
