@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Title: RiMoN's BadWare List
+! Title: RiMoN's DNS Lists
 !
 ||0-02.net^
 ||0-architecture.com^
