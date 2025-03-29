@@ -1,5 +1,6 @@
-[Adblock Plus 2.0]
-! Title: Enhanced Privacy List
+! Title: RK's Privacy Essentials
+! Description: Curated Filter List For Enhanced Privacy
+! Credit: HaGezi, AdGuard, EasyList and So on...
 !
 ||0000000000000000000000.com^
 ||0rg.us^
