@@ -1,6 +1,6 @@
-[Adblock Plus 2.0]
 ! Title: RK's Anti-AdBlock List
-!
+! Description: AIO Stop For Anti AdBlocking List
+! Credit: AdGuard and EasyList
 ! Good: ||example.org/adblock/detect.js
 ! Good: @@/adblocker/detect.js$domain=example.org
 ! Bad: ||ad.doubleclick.net^ (should be in adservers.txt)
